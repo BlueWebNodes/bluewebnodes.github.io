@@ -31,3 +31,5 @@ Contact:
 ### [Book: Who Moved My Cheese](http://www.whomovedmycheese.com)
 
 [(PDF)Who Moved My Cheese](https://archive.org/details/WhoMovedMyCheese_201606/mode/2up)
+
+More highlights coming soon...
