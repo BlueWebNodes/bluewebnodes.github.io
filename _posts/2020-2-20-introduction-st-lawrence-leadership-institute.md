@@ -4,7 +4,7 @@ title: Introduction to St. Lawrence Leadership Institute
 comments_id: 3
 ---
 
-### St. Lawrence Leadership Institute Course
+## St. Lawrence Leadership Institute Course
 
 I have taken the St. Lawrence Leadership Institute Course at SUNY Potsdam from the last fall. The group typically meets the first Thursday of each month. There are ten sessions for the course. Class sessions are from 4 pm to 8 pm. Lecture, panel, and yummy dinner are included. 
 
@@ -17,17 +17,17 @@ Contact:
 (315)267-2165
 [slli@potsdam.edu](mailto:slli@potsdam.edu)
 
-### Highlights
+## Highlights
 
-## [Leading with Lollipops](https://youtu.be/hVCBrkrFrBE)
+### [Leading with Lollipops](https://youtu.be/hVCBrkrFrBE)
 
-## [StrengthsFinder](https://strengths.gallup.com)
-## [ESCI: Emotional & Social Competency Inventory](https://www.kornferry.com/insights/learning/trainings-and-certifications/esci-emotional-and-social-competency-inventory)
-
-
-## [360-degree Feedback Program](https://www.surveymonkey.com/mp/360-employee-feedback-survey-example)
+### [StrengthsFinder](https://strengths.gallup.com)
+### [ESCI: Emotional & Social Competency Inventory](https://www.kornferry.com/insights/learning/trainings-and-certifications/esci-emotional-and-social-competency-inventory)
 
 
-## [Book: Who Moved My Cheese](http://www.whomovedmycheese.com)
+### [360-degree Feedback Program](https://www.surveymonkey.com/mp/360-employee-feedback-survey-example)
+
+
+### [Book: Who Moved My Cheese](http://www.whomovedmycheese.com)
 
 [(PDF)Who Moved My Cheese](https://archive.org/details/WhoMovedMyCheese_201606/mode/2up)
