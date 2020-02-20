@@ -22,7 +22,7 @@ Contact:
 ## [Leading with Lollipops](https://youtu.be/hVCBrkrFrBE)
 
 ## [StrengthsFinder](https://strengths.gallup.com)
-## [ESCI: EMOTIONAL & SOCIAL COMPETENCY INVENTORY](https://www.kornferry.com/insights/learning/trainings-and-certifications/esci-emotional-and-social-competency-inventory)
+## [ESCI: Emotional & Social Competency Inventory](https://www.kornferry.com/insights/learning/trainings-and-certifications/esci-emotional-and-social-competency-inventory)
 
 
 ## [360-degree Feedback Program](https://www.surveymonkey.com/mp/360-employee-feedback-survey-example)
