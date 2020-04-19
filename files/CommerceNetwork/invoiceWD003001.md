@@ -132,7 +132,7 @@ permalink: /files/commercenetwork/invoicewd003001/
 
 ### Blue Web Nodes
 
-408 River Road
+408 River Road,
 Potsdam, NY 13676
 (315)566-9200
 bluewebnodes@gmail.com
