@@ -15,12 +15,12 @@ Due Date:
 
 ## Agreement: 
 
-| DESCRIPTION | UNIT PRICE | QTY | AMOUNT |
-| --- | ---: | ---: | ---: |
-| Logo Design 50% Deposit | $50.00 | 1 | $50.00 |
-|   |   | Subtotal | $50.00 |
-|   |   | Tax 8.0% | N/A |
-|   |   | Total | $50.00 |
+| DESCRIPTION |   | UNIT PRICE |   | QTY |   | AMOUNT |
+| --- | --- | ---: | --- | ---: | --- | ---: |
+| Logo Design 50% Deposit |   | $50.00 |   | 1 |   | $50.00 |
+|   |   |   |   | Subtotal |   | $50.00 |
+|   |   |   |   | Tax 8.0% |   | N/A |
+|   |   |   |   | Total |   | $50.00 |
 
 ### Please click on the button below to make a payment to Blue Web Nodes:
 
