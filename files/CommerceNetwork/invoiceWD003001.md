@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Invoice [WD003001]
 permalink: /files/commercenetwork/invoicewd003001/
 ---
