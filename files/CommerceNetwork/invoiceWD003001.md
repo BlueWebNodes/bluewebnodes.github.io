@@ -17,12 +17,12 @@ Issue Date: 04/20/2020<br />
 Due Date: 04/20/2020
 
 ## Agreeement: 
-|DESCRIPTION|UNIT PRICE|QTY|AMOUNT|
-|Website Design 50% Deposit|$25|1|$25|
-
-| | |Subtotal|$25|
-| | |Tax 8.0%|N/A|
-| | |Total|$25|
+| DESCRIPTION | UNIT PRICE | QTY | AMOUNT |
+| --- | --- |
+| Website Design 50% Deposit | $25.00 | 1 | $25.00 |
+|   |   | Subtotal | $25.00 |
+|   |   | Tax 8.0% | N/A |
+|   |   | Total | $25.00 |
 
 ### Please click on the button below to make a payment to Blue Web Nodes:
 
