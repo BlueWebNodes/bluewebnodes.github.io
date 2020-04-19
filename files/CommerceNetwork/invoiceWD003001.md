@@ -18,7 +18,7 @@ Due Date: 04/20/2020
 
 ## Agreeement: 
 | DESCRIPTION | UNIT PRICE | QTY | AMOUNT |
-| --- | ---: | :---: | ---: |
+| :--- | ---: | ---: | ---: |
 | Website Design 50% Deposit | $25.00 | 1 | $25.00 |
 |   |   | Subtotal | $25.00 |
 |   |   | Tax 8.0% | N/A |
