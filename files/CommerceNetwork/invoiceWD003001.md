@@ -4,20 +4,13 @@ title: Invoice [WD003001]
 permalink: /files/commercenetwork/invoicewd003001/
 ---
 
-### Website Design
+### Blue Web Nodes
 
-Website with CMS: Starting at $1,499 ($2,200 Down)
-
-Ecommerce Website with CMS: Starting at $2,999 ($4,000 Down)
-
-The website features:
-* Homepage
-* About us
-* Services
-* News or Eevents
-* Contact us (Message Board)
-* On-line ADMIN area
-* Additional pages (Web forms are not included): $50/ea
+408 River Road
+Potsdam, NY 13676
+(315)566-9200
+bluewebnodes@gmail.com
+www.bluewebnodes.com
 
 The services include:
 * 100% custom-made webpage design
