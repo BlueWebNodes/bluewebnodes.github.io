@@ -2,6 +2,7 @@
 layout: post
 title: Introduction to St. Lawrence Leadership Institute
 comments_id: 3
+tag: normal
 ---
 
 ## St. Lawrence Leadership Institute Course
