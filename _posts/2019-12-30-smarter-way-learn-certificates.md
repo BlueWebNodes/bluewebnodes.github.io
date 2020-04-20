@@ -2,6 +2,7 @@
 layout: post
 title: A Smarter Way to Learn Certificates
 comments_id: 1
+tag: normal
 ---
 
 ### [A Smarter Way to Learn JavaScript, jQuery, HTML & CSS, Python Books](http://www.asmarterwaytolearn.com/)
