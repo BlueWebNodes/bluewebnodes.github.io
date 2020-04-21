@@ -12,3 +12,5 @@ permalink: /blog/
 {{ post.content | truncatewords:54 }}
 
 [Read More]({{ site.baseurl }}{{ post.url }})
+
+{% endfor %}
