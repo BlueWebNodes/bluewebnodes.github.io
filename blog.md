@@ -8,9 +8,10 @@ permalink: /blog/
 
 <hr>
 
-## [{{post.title}}]({{site.baseurl}}{{post.url}})
+# [{{post.title}}]({{site.baseurl}}{{post.url}})
 
-{{post.content | truncatewords:54}}
+{{post.excerpt}}
+
 
 ###### [Read More]({{site.baseurl}}{{post.url}})
 
