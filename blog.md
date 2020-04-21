@@ -10,7 +10,7 @@ permalink: /jennysblog/
 
 # [{{post.title}}]({{site.baseurl}}{{post.url}})
 
-{{post.excerpt}}
+{{post.content|truncatewords:50}}<br />
 
 ###### [Read More]({{site.baseurl}}{{post.url}})
 
