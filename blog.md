@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jenny's Blog
-permalink: /blog/
+permalink: /jennysblog/
 ---
 
 {% for post in site.posts %}
@@ -10,7 +10,7 @@ permalink: /blog/
 
 # [{{post.title}}]({{site.baseurl}}{{post.url}})
 
-{{post.content|truncatewords:54}}
+{{post.excerpt}}
 
 ###### [Read More]({{site.baseurl}}{{post.url}})
 
