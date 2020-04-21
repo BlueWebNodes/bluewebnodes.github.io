@@ -4,17 +4,11 @@ title: Blog
 permalink: /blog/
 ---
 
-<div class="posts" markdown="1">
-   {% for post in site.posts %}
-    <article class="post" markdown="1">
+{% for post in site.posts %}
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+[{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+============================================================
 
-      <div class="entry" markdown="1">
-        {{ post.content | truncatewords:54 }}
-      </div>
+{{ post.content | truncatewords:54 }}
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+[Read More]({{ site.baseurl }}{{ post.url }})
