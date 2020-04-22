@@ -6,7 +6,7 @@ permalink: /products/
 
 ## [Drupal 8 Website Examples](/drupal-8-website-examples/)
 
-![Site Home](/images/thearcjslc.jpg "thearcjslc.org Home")
+![Site Home](/images/publicTransitHome.jpg "slcnypublictransit.com Home")
 
 ## [WordPress Website Examples](/wordPress-website-examples/)
 
