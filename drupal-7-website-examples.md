@@ -4,13 +4,6 @@ title: Drupal 7 Website Examples
 permalink: /drupal-7-website-examples/
 ---
 
-### [www.shopthearcjslc.org](https://www.shopthearcjslc.org)
-
-The Arc Jefferson - St. Lawrence G.O.A.L. in Canton website is a Drupal 7 eCommerce Website. I created it all by myself, even the
-draft of policies, and I became an expert on making an eCommerce website as a PCI Compliance for Credit Card Payment Security.
-
-![Site Home](/images/WDV_goal.jpg "shopthearcjslc.org Home")
-
 ### [www.thearcjslc.org/suggestionbox](http://www.thearcjslc.org/suggestionbox)
 
 Only The Arc Jefferson - St. Lawrence Staff can sign in The Arc Jefferson - St. Lawrence Membership Website. For this website, group users import and login system security are most important. “Rules” module is a must for this website development.
@@ -21,3 +14,10 @@ Lodge at Dodge Pond Hotel Website. There are responsive Google Map and Landscape
 how to promo a business on Google Business and Google Hotel from this work.
 
 ![Site Home](/images/ladpHome.jpg "lodgeatdodgepond.org Home")
+
+### [www.shopthearcjslc.org](https://www.shopthearcjslc.org)
+
+The Arc Jefferson - St. Lawrence G.O.A.L. in Canton website is a Drupal 7 eCommerce Website. I created it all by myself, even the
+draft of policies, and I became an expert on making an eCommerce website as a PCI Compliance for Credit Card Payment Security.
+
+![Site Home](/images/WDV_goal.jpg "shopthearcjslc.org Home")
