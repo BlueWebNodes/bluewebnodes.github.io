@@ -4,6 +4,8 @@ title: Graphic Design Examples
 permalink: /graphic-design-examples/
 ---
 
+Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. 
+
 ### Painting - Rose Woman
 
 Made by Adobe Illustrator.
