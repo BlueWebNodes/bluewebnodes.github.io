@@ -12,4 +12,4 @@ leave a comment below to start a conversation and show you how we can help!
 
 50% of total estimated fee upon agreement of initial design will be paid first.<br />
 Remainder of fee payable not more than 14 days after receipt of finished product.<br />
-You will receive all the origianl files related initial design after full payment.<br />
+You will receive all the origianl files related initial design after full payment.
