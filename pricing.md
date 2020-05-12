@@ -29,7 +29,7 @@ The services include:
 * Full ownership of your website
 * one on one training (2 hours)
 
-### Website Maintenance
+### Website (with CMS) Maintenance
 
 Small: $30/mo; or $27/mo, Billed Annually
 
