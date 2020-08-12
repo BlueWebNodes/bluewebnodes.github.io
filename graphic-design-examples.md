@@ -10,7 +10,10 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
 
 Made by Adobe Illustrator.
 
-<img src="/images/autismWalkLogoTwoColors.jpg" width="20%" height="auto" margin-right="2%" alt="Autism Walk Event Logo 2020"><img src="/images/bookThemeAWLogo2.jpg" width="20%" height="auto" margin-right="2%" alt="Autism Walk Event Logo 2019"><img src="/images/circusLogo.jpg" width="20%" height="auto" margin-right="2%" alt="Autism Walk Event Logo 2018"><img src="/images/DisnepLogo.png" width="20%" height="auto" margin-right="2%" alt="Autism Walk Event Logo 2017">
+![Autism Walk Event Logo 2020](/images/AWLogo2020.jpg "Autism Walk Event Logo 2020")
+![Autism Walk Event Logo 2019](/images/AWBookLogo.jpg "Autism Walk Event Logo 2019")
+![Autism Walk Event Logo 2018](/images/AWCircusLogo.jpg "Autism Walk Event Logo 2018")
+![Autism Walk Event Logo 2017](/images/AWDisnepLogo.jpg "Autism Walk Event Logo 2017")
 
 ### Banner - Autism Walk 
 
