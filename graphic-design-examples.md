@@ -6,6 +6,12 @@ permalink: /graphic-design-examples/
 
 Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. 
 
+### Autism Awareness Walk Event Logo
+
+Made by Adobe Illustrator.
+
+<img src="/images/autismWalkLogoTwoColors.jpg" width="162px" height="126px" alt="Autism Walk Event Logo">
+
 ### Banner - Autism Walk 
 
 Made by Adobe Indesign.
@@ -31,9 +37,3 @@ Made by Adobe Indesign.
 ### [Dodge Pond Vacations Booklet](/files/dpBooklet2019.pdf)
 
 Made by Adobe Indesign.
-
-### Autism Awareness Walk Event Logo
-
-Made by Adobe Illustrator.
-
-<img src="/images/autismWalkLogoTwoColors.jpg" alt="Autism Walk Event Logo" width="162" height="126">
