@@ -36,4 +36,4 @@ Made by Adobe Indesign.
 
 Made by Adobe Illustrator.
 
-<img src="/images/autismWalkLogoTwoColors.jpg" alt="Autism Walk Event Logo" width="162px" height="126px">
+<img src="/images/autismWalkLogoTwoColors.jpg" alt="Autism Walk Event Logo" width="162" height="126">
