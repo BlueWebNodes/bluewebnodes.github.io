@@ -22,7 +22,7 @@ WordPress is the world’s most popular content management system. 35% of the we
 
 Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. 
 
-[![Autism Walk Banner](/images/autismWalkBanner.jpg "Autism Walk Banner")](/graphic-design-examples/)
+[![Autism Awareness](/images/autismWalkflag48x24Small.jpg "Autism Awareness")](/graphic-design-examples/)
 
 ## [Drupal 7 Website Examples](/drupal-7-website-examples/)
 
