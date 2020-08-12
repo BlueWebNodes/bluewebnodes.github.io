@@ -6,7 +6,7 @@ permalink: /graphic-design-examples/
 
 Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. 
 
-### Logos - Autism Walk 
+### Event Logos - Autism Walk (Once A Year)
 
 Made by Adobe Illustrator.
 
