@@ -33,7 +33,7 @@ After following steps, your website will be on-line easily:
 6. Test
 7. Register domain name and web host
 8. Final approval meeting
-9. “Go live” - put it online!
+9. “Go live” - put it online!<br />
 10.Keep you website fresh.
 
 We create the following Websites:
