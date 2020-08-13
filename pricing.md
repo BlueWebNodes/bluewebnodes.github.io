@@ -8,8 +8,7 @@ permalink: /pricing/
 
 ### Create A Brand New Website
 
-Website with CMS: Starting at $1,499 ($2,200 Down)
-
+Website with CMS: Starting at $1,499 ($2,200 Down)<br />
 Ecommerce Website with CMS: Starting at $2,999 ($4,000 Down)
 
 The website features:
@@ -33,10 +32,8 @@ The services include:
 
 ### Website (with CMS) Basic Maintenance
 
-Small: $30/mo; or $27/mo, Billed Annually
-
-Medium: $40/mo; or $36/mo, Billed Annually
-
+Small: $30/mo; or $27/mo, Billed Annually<br />
+Medium: $40/mo; or $36/mo, Billed Annually<br />
 Large: $50/mo; or $45/mo, Billed Annually
 
 The services include:
