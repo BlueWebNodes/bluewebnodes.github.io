@@ -329,37 +329,41 @@ img[alt="Autism Walk Flag"] {
   width: 85%;
 }
 
+
+.promo-centered {
+  width: 100%
+}
+
+
 .promo-centered div {
   display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 img[alt="Promo Ads"] {
-  width: 296px;
-  height: 111px;
+  width: 240px;
+  height: 90px;
 }
 
 .promo {
   background: #034ea2;
   color: #ffffff;
   text-align: center;
-  width: 296px;
-  padding-bottom: 1.5em;
-  margin: 1em 2em 1em 2em;
+  width: 240px;
+  padding-bottom: 0.6em;
+  margin: 16px 40px 16px 40px;
   box-sizing: border-box;
 }
 
 .promo h3 {
   color: #ffffff;
   font-weight: 700;
-  padding-top: 1em;
-  padding-left: 1em;
-  padding-right: .5em;
+  padding-top: .4em;
+  padding-left: .4em;
+  padding-right: .2em;
 }
 
 .promo p {
-  padding: 1em 2em;
+  padding: 0.2em 0.4em;
   text-align: center;
 }
 
@@ -367,7 +371,7 @@ img[alt="Promo Ads"] {
 .promo p a {
   background: #ffffff;
   color: #034ea2;
-  padding: 1em 1.5em;
+  padding: 0.2em 0.4em;
   border-radius: 2px;
   overflow: auto;
   display: block;
