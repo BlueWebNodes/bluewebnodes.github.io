@@ -45,6 +45,11 @@ The services include:
 * Weekly Site Backup
 * Uptime Monitoring
 * Fix breaks from updates
+* Trouble shooting
+
+### Website (Without CMS) Maintenance 
+
+Old web pages updating: $25/hour
 
 ### Website Content Updating
 
