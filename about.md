@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Blue Web Nodes was created in 2013. We have years of experience working as web developers and graphic designers. Contact us at [bluewebnodes@gmail.com](mailto:bluewebnodes@gmail.com).
+Blue Web Nodes was created in 2013. We have years of experience working as web developers and graphic designers.
 
 We create one-of-a-kind projects.
 
@@ -85,7 +85,3 @@ Our graphic design services include:
 * Hang Tag or Jewelry Tags
 * Photo Editing
 * Others
-
-### Contact us
-
-[bluewebnodes@gmail.com](mailto:bluewebnodes@gmail.com)
