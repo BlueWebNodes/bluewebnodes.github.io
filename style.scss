@@ -388,6 +388,18 @@ img[alt="Promo Ads"] {
   text-align: center;
 }
 
+#contactusform {
+  width: 600px;
+  height: 844px;
+}
+
+@media (max-width:47em) {
+  #contactusform {
+    width: 100%;
+    height: auto;
+  }
+}
+
 .maincontent{
   background: #e1e2f2;
   text-align: center;
