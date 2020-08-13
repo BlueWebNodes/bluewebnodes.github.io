@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Blue Web Nodes was created in 2013. We have years of experience working as web developers and graphic designers.
-
-We create one-of-a-kind projects.
+Blue Web Nodes was created in 2013. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.
 
 Our services include:
 
