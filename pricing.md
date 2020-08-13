@@ -4,7 +4,7 @@ title: Pricing
 permalink: /pricing/
 ---
 
-### Website Design
+### Create A Brand New Website
 
 Website with CMS: Starting at $1,499 ($2,200 Down)
 
@@ -29,7 +29,7 @@ The services include:
 * Full ownership of your website
 * one on one training (2 hours)
 
-### Website (with CMS) Maintenance
+### Website (with CMS) Basic Maintenance
 
 Small: $30/mo; or $27/mo, Billed Annually
 
@@ -44,7 +44,7 @@ The services include:
 * Uptime Monitoring
 * Fix breaks from updates
 
-### Web Pages Updating
+### Website Content Updating
 
 New web pages (Web forms are not included): $50/ea
 
@@ -52,9 +52,7 @@ Old web pages updating: $25/hour
 
 Images editing: $35/hour
 
-### Web Development
-
-$50/hour
+Web Development: $50/hour
 
 ### Graphic Design
 
