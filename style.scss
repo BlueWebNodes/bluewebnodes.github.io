@@ -331,7 +331,10 @@ img[alt="Autism Walk Flag"] {
 
 
 .promo-centered {
-  width: 100%
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 96%
 }
 
 
@@ -350,7 +353,7 @@ img[alt="Promo Ads"] {
   text-align: center;
   width: 240px;
   padding-bottom: 0.6em;
-  margin: 16px 40px 16px 40px;
+  margin: 16px 30px 16px 30px;
   box-sizing: border-box;
 }
 
