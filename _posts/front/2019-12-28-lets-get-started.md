@@ -6,7 +6,7 @@ tag: featured
 ---
 
 Contact us at [bluewebnodes@gmail.com](mailto:bluewebnodes@gmail.com) or<br />
-leave a comment below to start a conversation and show you how we can help!
+[leave a comment](/lets-get-started/) to start a conversation and show you how we can help!
 
 ### We accept Debit Card, Credit cards, and PayPal payments on-line using Encrypted Website Payments.
 
