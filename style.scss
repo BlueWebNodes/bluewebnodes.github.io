@@ -329,6 +329,14 @@ img[alt="Autism Walk Flag"] {
   width: 85%;
 }
 
+.promo-centered div {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em 1em 0em 1em;
+  width: 96%;
+}
+
 img[alt="Promo Ads"] {
   width: 296px;
   height: 111px;
@@ -336,7 +344,7 @@ img[alt="Promo Ads"] {
 
 .promo {
   background: #034ea2;
-  color: #fff;
+  color: #ffffff;
   text-align: center;
   padding-bottom: 1.5em;
   margin: 1em 2em 1em 2em;
@@ -344,7 +352,7 @@ img[alt="Promo Ads"] {
 }
 
 .promo h3 {
-  color: white;
+  color: #ffffff;
   font-weight: 700;
   padding-top: 1em;
   padding-left: 1em;
@@ -352,33 +360,26 @@ img[alt="Promo Ads"] {
 }
 
 .promo p {
-	padding: 1em 2em;
-	text-align: center;
+  padding: 1em 2em;
+  text-align: center;
 }
 
 
 .promo p a {
-	background: #fff;
-	color: #44697d;
-	padding: 1em 1.5em;
-	border-radius: 2px;
-	overflow: auto;
-	display: block;
-	width: auto;
+  background: #ffffff;
+  color: #034ea2;
+  padding: 1em 1.5em;
+  border-radius: 2px;
+  overflow: auto;
+  display: block;
+  width: auto;
 }
 
 .promo p a:hover,
 .promo p a:active {
-	opacity: .8;
+  opacity: .8;
 }
 
-.promo-centered div {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 1em 1em 0em 1em;
-    width: 96%;
-}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
