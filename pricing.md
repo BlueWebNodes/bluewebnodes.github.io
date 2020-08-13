@@ -4,6 +4,8 @@ title: Pricing
 permalink: /pricing/
 ---
 
+## Don't Be Afraid to Ask a quote based on your budget!
+
 ### Create A Brand New Website
 
 Website with CMS: Starting at $1,499 ($2,200 Down)
