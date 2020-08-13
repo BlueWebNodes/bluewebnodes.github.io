@@ -50,12 +50,9 @@ Old web pages updating: $25/hour
 
 ### Website Content Updating
 
-New web pages (Web forms are not included): $50/ea
-
-Old web pages updating: $25/hour
-
-Images editing: $35/hour
-
+New web pages (Web forms are not included): $50/ea<br />
+Old web pages updating: $25/hour<br />
+Images editing: $35/hour<br />
 Web Development: $50/hour
 
 ### Graphic Design
