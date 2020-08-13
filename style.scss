@@ -392,10 +392,8 @@ img[alt="Promo Ads"] {
 #contactusform {
   width: 600px;
   height: 845px;
-}
-
-@media (max-width:600px) {
-  #contactusform {
+	
+  @include mobile {
     width: 398px;
     height: 560px;
   }
