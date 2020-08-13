@@ -344,6 +344,11 @@ img[alt="Promo Ads"] {
   width: 240px;
   height: 90px;
   border-bottom: 5px solid #ffffff;
+	
+  @include mobile {
+    width: 100%;
+    height: auto;
+  }
 }
 
 .promo {
@@ -354,6 +359,10 @@ img[alt="Promo Ads"] {
   padding-bottom: 0.8em;
   margin: 20px 30px 16px 30px;
   box-sizing: border-box;
+
+  @include mobile {
+    width: 100%;
+  }
 }
 
 .promo h3 {
