@@ -293,42 +293,92 @@ footer {
 }
 
 img[alt="Autism Walk Logo 2020"] {
-   width: 180px;
-   height: 140px;
-   display: inline-block;
-   margin-left: 0px;
-   margin-right: 16px;
+  width: 180px;
+  height: 140px;
+  display: inline-block;
+  margin-left: 0px;
+  margin-right: 16px;
 }
 
 img[alt="Autism Walk Logo 2019"] {
-   width: 149px;
-   height: 140px;
-   display: inline-block;
-   margin-left: 0px;
-   margin-right: 16px;
+  width: 149px;
+  height: 140px;
+  display: inline-block;
+  margin-left: 0px;
+  margin-right: 16px;
 }
 
 img[alt="Autism Walk Logo 2018"] {
-   width: 225px;
-   height: 140px;
-   display: inline-block;
-   margin-left: 0px;
-   margin-right: 16px;
+  width: 225px;
+  height: 140px;
+  display: inline-block;
+  margin-left: 0px;
+  margin-right: 16px;
 }
 
 img[alt="Autism Walk Logo 2017"] {
-   width: 239px;
-   height: 140px;
-   display: inline-block;
-   margin-left: 0px;
-   margin-right: 0px;
+  width: 239px;
+  height: 140px;
+  display: inline-block;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 
 img[alt="Autism Walk Flag"] {
-   width: 85%;
+  width: 85%;
 }
 
+img[alt="Promo Ads"] {
+  width: 296px;
+  height: 111px;
+}
+
+.promo {
+  background: #034ea2;
+  color: #fff;
+  text-align: center;
+  padding-bottom: 1.5em;
+  margin: 1em 2em 1em 2em;
+  box-sizing: border-box;
+}
+
+.promo h3 {
+  color: white;
+  font-weight: 700;
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: .5em;
+}
+
+.promo p {
+	padding: 1em 2em;
+	text-align: center;
+}
+
+
+.promo p a {
+	background: #fff;
+	color: #44697d;
+	padding: 1em 1.5em;
+	border-radius: 2px;
+	overflow: auto;
+	display: block;
+	width: auto;
+}
+
+.promo p a:hover,
+.promo p a:active {
+	opacity: .8;
+}
+
+.promo-centered div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em 1em 0em 1em;
+    width: 96%;
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
