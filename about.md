@@ -63,6 +63,7 @@ We manage your site so you can focus on growing your business or organization. A
 * Weekly Site Backup
 * Uptime Monitoring
 * Fix breaks from updates
+* Trouble shooting
 
 We will be happy to input or update the content on your website, if you need.
 
