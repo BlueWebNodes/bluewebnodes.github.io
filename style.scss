@@ -208,12 +208,14 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  display: none;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
+  display: none;
 
   @include mobile {
     margin: 3px 0;
