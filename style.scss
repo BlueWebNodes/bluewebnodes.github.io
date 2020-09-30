@@ -344,8 +344,14 @@ img[alt="Autism Walk Flag"] {
 }
 
 img[alt="Front Top"] {
-  width: 100%;
-  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+  @include mobile {
+    width: 100%;
+  }	
 }
 
 .promo-centered {
