@@ -351,12 +351,10 @@ img[alt="Autism Walk Flag"] {
 
 .fronttophalf {
   text-align: center;
-  margin: 0px 30px 16px 30px;
-  width: 46%;
+  width: 48%;
 
   @include mobile {
     width: 100%;
-    margin: 0px 0px 16px 0px;
   }
 }
 
@@ -364,7 +362,7 @@ img[alt="Autism Walk Flag"] {
 img[alt="Front Top Left"] {
   display: inline-block;
   position: relative;
-  left: 20px;
+  left: 12px;
   height: 300px;
   width: auto;
 
@@ -378,14 +376,13 @@ img[alt="Front Top Left"] {
 img[alt="Front Top Right"] {
   display: inline-block;
   position: relative;
-  right: 20px;
+  right: 0px;
   height: 300px;
   width: auto;
 
   @include mobile {
     width: 100%;
     height: auto;
-    right: 0px;
   }	
 }
 
