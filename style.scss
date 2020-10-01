@@ -355,10 +355,7 @@ img[alt="Autism Walk Flag"] {
 
 .fronttophalf {
   text-align: center;
-  width: 500px;
-  padding-bottom: 0.8em;
   margin: 20px 30px 16px 30px;
-  box-sizing: border-box;
 
   @include mobile {
     width: 100%;
@@ -387,7 +384,6 @@ img[alt="Front Top"] {
     margin-left: 0px;
   }
 }
-
 
 .promo-centered div {
   display: inline-block;
