@@ -342,13 +342,32 @@ img[alt="Autism Walk Flag"] {
 
 .fronttop {
   display: block;
-  width: 100%;
+  margin-left: 12px;
+
+  @include mobile {
+    margin-left: 0px;
+  }
+}
+
+.fronttop div {
+  display: inline-block;
+}
+
+.fronttophalf {
+  text-align: center;
+  width: 500px;
+  padding-bottom: 0.8em;
+  margin: 20px 30px 16px 30px;
+  box-sizing: border-box;
+
+  @include mobile {
+    width: 100%;
+    margin: 20px 0px 16px 0px;
+  }
 }
 
 img[alt="Front Top] {
   display: inline-block;
-  margin-right: 20px;
-  margin-left: 20px;
   height: 300px;
   width: auto;
 
@@ -357,32 +376,6 @@ img[alt="Front Top] {
     height: auto;
     margin-left: 0px;
     margin-right: 0px;
-  }	
-}
-
-img[alt="Front Top Right"] {
-  display: inline-block;
-  margin-right: 20px;
-  margin-left: 20px;
-  height: 300px;
-  width: auto;
-
-  @include mobile {
-    width: 100%;
-    height: auto;
-    margin-left: 0px;
-    margin-right: 0px;
-  }	
-}
-
-img[alt="Front Top"] {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-
-  @include mobile {
-    width: 100%;
   }	
 }
 
