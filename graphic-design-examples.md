@@ -8,8 +8,8 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
 
 ### New Designs
 
-![Graphic Design](/images/happyMidAutumnFestival.jpg "Graphic Design")
-![Graphic Design](/images/amishPoster8.5x11.jpg "Graphic Design")
+![Graphic Design 2](/images/happyMidAutumnFestival.jpg "Graphic Design 2")
+![Graphic Design 1](/images/amishPoster8.5x11.jpg "Graphic Design 1")
 
 ### Event Logos - Autism Walk
 #### (Once a year: Virtual theme in 2020, Book theme in 2019, Circus theme in 2018, Disnep theme in 2017.)
