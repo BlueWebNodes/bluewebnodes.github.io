@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Drupal 9 & 8 Website Examples
-permalink: /drupal-8-website-examples/
+permalink: /drupal-9-8-website-examples/
 ---
 
 Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility; modularity is one of its core principles. Its tools help you build the versatile, structured content that dynamic web experiences need. Drupal powers 2.3% of all websites and has a 4.6% share of the content management system market.
 
-Drupal 9 is the latest version. 
+## Drupal 9 is the latest version. 
 
 ### [www.slcnypublictransit.com](http://www.slcnypublictransit.com)
 
@@ -15,7 +15,7 @@ be integrated with 511NY Data.
 
 [![Site Home](/images/publicTransitHome1.jpg "slcnypublictransit.com Home")](http://www.slcnypublictransit.com)
 
-Drupal 8 is the biggest update in Drupal's history. Creating content is easier. Every built-in theme is responsively designed. 
+## Drupal 8 is the biggest update in Drupal's history. Creating content is easier. Every built-in theme is responsively designed. 
 
 ### [www.thearcjslc.org](http://www.thearcjslc.org)
 
