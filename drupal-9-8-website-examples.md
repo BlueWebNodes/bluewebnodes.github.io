@@ -8,11 +8,11 @@ Drupal is content management software. It's used to make many of the websites an
 
 ## Drupal 9 is the latest version. 
 
-### [www.slcnypublictransit.com](https://www.slcnypublictransit.com)
+### [www.slcnypublictransit.com](http://www.slcnypublictransit.com)
 
 The St. Lawrence County Public Transit Website is built with Drupal 9 and a custom sub-theme of Barrio Bootstrap 4 base theme. The company logo and main menu are on the big top background.  Different web-pages have different titles, but same secondary menu on the different background images. The features include responsive design, Google analytics, Meta tags for improving SEO, HTLM email newsletters, spam-off contact webform, Facebook page plug-in, Awesome Font icons, downloaded PDF directly, and etc.
 
-[![Site Home](/images/publicTransitHome1.jpg "slcnypublictransit.com Home")](https://www.slcnypublictransit.com)
+[![Site Home](/images/publicTransitHome1.jpg "slcnypublictransit.com Home")](http://www.slcnypublictransit.com)
 
 ### [www.thearcjslc.org](https://www.thearcjslc.org)
 
