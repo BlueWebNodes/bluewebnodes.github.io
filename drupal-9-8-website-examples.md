@@ -22,5 +22,5 @@ The Arc Jefferson - St. Lawrence agency website is created and developed by Drup
 
 ## Drupal 8 is the biggest update in Drupal's history.
 
-Creating content is easier. Every built-in theme is responsively designed. 
+All Drupal 8 websites I built were updated to Drupal 9.
 
