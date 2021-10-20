@@ -8,7 +8,7 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
 
 ### New Designs
 
-![Graphic Design 3](/images/2021cowYear.jpg "Graphic Design 2")
+![Graphic Design 3](/images/2021cowYear.jpg "Graphic Design 3")
 ![Graphic Design 2](/images/happyNewYear2021C.png "Graphic Design 2")
 ![Graphic Design 1](/images/amishPoster8.5x11.jpg "Graphic Design 1")
 
