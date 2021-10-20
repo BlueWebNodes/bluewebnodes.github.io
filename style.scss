@@ -315,22 +315,6 @@ img[alt="Graphic Design 2"] {
   margin-right: 20px;
 }
 
-img[alt="Graphic Design 3"] {
-  width: 204px;
-  height: 204px;
-  display: inline-block;
-  margin-left: 0px;
-  margin-right: 20px;
-}
-
-img[alt="Graphic Design 4"] {
-  width: 204px;
-  height: 204px;
-  display: inline-block;
-  margin-left: 0px;
-  margin-right: 20px;
-}
-
 img[alt="Autism Walk Logo 2020"] {
   width: 180px;
   height: 140px;
@@ -370,41 +354,6 @@ img[alt="Autism Walk Flag"] {
 
 .fronttoptitle {
   text-align: center;
-}
-
-.fronttop {
-  display: block;
-  width: 100%;
-}
-
-.fronttop div {
-  display: inline-block;
-}
-
-.fronttophalf {
-  text-align: center;
-  width: 45%;
-  margin-left: 12px;
-
-  @include mobile {
-    width: 100%;
-    margin-left: 0px;
-  }
-}
-
-img[alt="Front Top"] {
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 300px;
-  width: auto;
-
-  @include mobile {
-    width: 100%;
-    height: auto;
-    margin-left: 0px;
-    margin-right: 0px;
-  }	
 }
 
 .promo-centered {
