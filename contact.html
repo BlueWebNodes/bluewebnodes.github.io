@@ -9,3 +9,32 @@ permalink: /contact/
     Need more help? Chat with us via Facebook Messenger.</p>
   <p><iframe id="contactusform" src="/files/contactBlueWebNodes.pdf#toolbar=0&navpanes=0&scrollbar=0"></iframe></p>
 </div>
+<div>
+    <p id="food"></p>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
+    <script type="text/javascript">
+      var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1pAKzhZZFn1ELISHj7t8uPBCXvvScQW5lKl4NHvC1EQk/edit?usp=sharing/pub?output=csv';
+
+      function init() {
+        Papa.parse(public_spreadsheet_url, {
+          download: true,
+          header: true,
+          complete: showInfo
+        })
+      }
+
+      window.addEventListener('DOMContentLoaded', init)
+
+      function showInfo(results) {
+        var data = results.data
+
+        // data comes through as a simple array since simpleSheet is turned on
+        alert("Successfully processed " + data.length + " rows!")
+        document.getElementById("food").innerHTML = "<strong>Foods:</strong> " + [ data[0].Name, data[1].Name, data[2].Name ].join(", ");
+        console.log(data);
+      }
+
+      document.write("The published spreadsheet is located at <a target='_new' href='" + public_spreadsheet_url + "'>" + public_spreadsheet_url + "</a>");        
+    </script>
+</div>
