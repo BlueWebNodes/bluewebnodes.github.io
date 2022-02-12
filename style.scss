@@ -442,21 +442,24 @@ img[alt="Promo Ads"] {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-  height: auto;
+  height: 680px;
   margin-top: 0.5em;
 	
   @include mobile {
     width: 100%;
+    height: 710px;
   }
 }
 
-.contactform p{
+.contactform h6{
   font-size: 0.8em;
   text-align: center;
 }
 
-#advanceNotice {
+.contactform p{
+  font-size: 0.8em;
   color: #034ea2;
+  text-align: center;
 }
 
 .maincontent{
