@@ -437,10 +437,6 @@ img[alt="Promo Ads"] {
   opacity: .8;
 }
 
-.contactform p{
-  text-align: center;
-}
-
 #contactusform {
   display:inline-block;
   margin-left: auto;
@@ -452,6 +448,11 @@ img[alt="Promo Ads"] {
   @include mobile {
     width: 100%;
   }
+}
+
+.contactform p{
+  font-size: 0.8em;
+  text-align: center;
 }
 
 .maincontent{
