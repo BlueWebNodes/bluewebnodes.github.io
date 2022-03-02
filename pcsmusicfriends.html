@@ -1,0 +1,131 @@
+---
+layout: page
+title: PCS Music Friends
+permalink: /pcs-music-friends/
+---
+
+<script
+  src="https://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+  crossorigin="anonymous"></script>
+<script>
+function SubForm (){
+    $.ajax({
+        url:'https://script.google.com/macros/s/AKfycbwTJuMN-rZu_pRVgObEZybWAuZOU_9B51mATi-hZ1W0FZrM9cUVOySpH244gCqsXrYjRw/exec',
+        type:'get',
+        data:$("#registerMembershipForm").serializeArray(),
+        success: function(){
+          alert("Form Data Submitted :)")
+        },
+        error: function(){
+          alert("There was an error :(")
+        }
+    });
+}
+</script>
+
+<div id="headerdiv" class="container">
+  <div id="logodiv" class="row">
+    <img src="pcsmfLogo.png" alt="PCS Music Friends"  width="80%" height="80%">
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <h3 style="text-align: center;">The PCS Music Friends group welcomes new members.</h3>
+    <p> We are a group that formed to support the music programs in the Potsdam Central School (PCS) district. The goals of PCS Music Friends include advocating for a strong music program at PCS and fundraising to support extracurricular music events, NYSSMA, All-County and All-State music event fees, and other needs.</p>
+    <p>Membership is open to anyone who would like to help support the music programs at PCS. The Music Friends group meets about every two months, virtually. Feel free to join even if you feel that you will only have time to help occasionally. You may also opt to become a contributing member.</p>
+  </div>
+</div>
+
+<div id="formdiv" class="container">
+  <div class="row">
+    <div class="col-lg-9 col-md-12 col-sm-12">
+      <form  style="background-color: #eeeeee; padding: 16px; margin-bottom: 8px;" name="Register Membership"  id="registerMembershipForm" onSubmit="WriteToFile(this)">
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="first_name">First Name:</label>
+            <input class="form-control" type="text" id="first_name" name="first_name" placeholder="First Name" required>
+          </div>
+          <div class="form-group col-md-6">
+            <label for="last_name">Last Name:</label>
+            <input class="form-control" type="text" id="last_name" name="last_name" placeholder="Last Name" required>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group col-md-9">
+            <label for="address">Address:</label>
+            <input class="form-control" type="text" id="address" name="address" placeholder="Your address" required>
+          </div>
+          <div class="form-group col-md-3">
+            <label for="phone">Phone Number:</label>
+            <input class="form-control" type="text" id="phone" name="phone" placeholder="xxx-xxx-xxxx">
+          </div>
+        </div>
+        <div class="form-row">      
+          <div class="form-group col-md-7">
+            <label for="email">Email:</label>
+            <input class="form-control" type="text" id="email" name="email" placeholder="Your email address" required>
+          </div>
+          <div class="form-group col-md-5">
+            <label for="email_updates">I would like to receive email updates:</label>
+            <select class="form-control" id="email_updates" name="email_updates">
+              <option value="Not sure">- select -</option>
+              <option value="Yes">Yes</option>
+              <option value="No">No</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="buildings">In which buildings do you have children?</label><br>
+          <div class="form-check-inline">
+            <input class="form-check-input" type="checkbox" id="building1" name="building1" value="High School">
+            <label style="margin-right:16px;" for="building1">High School</label>
+            <input class="form-check-input" type="checkbox" id="building2" name="building2" value="AAK Middle">
+            <label style="margin-right:16px;" for="building2">AAK Middle</label>
+            <input class="form-check-input" type="checkbox" id="building3" name="building3" value="LA Elementary">
+            <label style="margin-right:16px;" for="building3">LA Elementary</label>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="skills">Please circle any special skills that you may be able to contribute to PCS Music Friends:</label><br>
+          <div class="form-check-inline">
+            <input class="form-check-input" type="checkbox" id="skill1" name="skill1" value="Computer skills">
+            <label style="margin-right:16px;" for="skill1">Computer skills</label>
+            <input class="form-check-input" type="checkbox" id="skill2" name="skill2" value="Graphic art skills">
+            <label style="margin-right:16px;" for="skill2">Graphic art skills</label>
+            <input class="form-check-input" type="checkbox" id="skill3" name="skill3" value="Writing skills">
+            <label style="margin-right:16px;" for="skill3">Writing skills</label>
+          </div>
+          <div class="form-check-inline">
+            <input class="form-check-input" type="checkbox" id="skill4" name="skill4" value="Fundraising">
+            <label style="margin-right:16px;" for="skill4">Fundraising</label>
+            <input class="form-check-input" type="checkbox" id="skill5" name="skill5" value="Public speaking">
+            <label style="margin-right:16px;" for="skill5">Public speaking</label>
+            <input class="form-check-input" type="checkbox" id="skill6" name="skill6" value="Call me once to help out">
+            <label style="margin-right:16px;" for="skill6">Call me once to help out</label>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="notes">Notes:</label>
+          <textarea class="form-control" id="notes" name="notes" placeholder="Comments or questions?" style="height:160px"></textarea>
+        </div>
+        <div>
+          <button class="btn btn-primary btn-block" type="submit" value="Submit" id="submit-form" onclick="SubForm ()">Submit</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+  
+<div class="container">
+  <div class="row">
+    <p>After you submit the above form, please click on the button below to make a payment to the PCS Music Friends, or make checks payable to PCS Music Friends and return it to your child’s music teacher. If you would like more information or have any questions, please email <a href="mailto:kfite@clarkson.edu">kfite@clarkson.edu</a>.</p>
+    <p style="color:red;">PayPal Button here<br />
+      Family Membership $25.00<br />
+      Business Membership $25.00<br />
+      Individual Membership $10.00<br />
+      Other Amount</p>
+  </div>
+</div>
