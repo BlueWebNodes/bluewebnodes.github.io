@@ -495,16 +495,6 @@ img[alt="Promo Ads"] {
   border-radius: 0px 0px 0px 50px;
 }
 
-img[alt="PCS Music Friends"] {
-  width: 240px;
-  height: 90px;
-	
-  @include mobile {
-    width: 100%;
-    height: auto;
-  }
-}
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
