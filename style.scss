@@ -493,11 +493,15 @@ img[alt="Promo Ads"] {
   display: inline-block;
   padding: 20px 20px 20px 0px;
   border-radius: 0px 0px 0px 50px;
+  @include mobile {
+    padding: 8px 8px 8px 0px;
+    border-radius: 0px 0px 0px 25px;
+	}
 }
 
 img[alt="PCS Music Friends"] {
   width: 80%;
-  height: auto;
+  height: auto;	
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
