@@ -15,10 +15,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$barlowCondensed: 'Barlow Condensed', sans-serif;
-$georgia: Georgia, serif;
+$barlowCondensed: 'Barlow Condensed', Arial, sans-serif;
+$oranienbaum: 'Oranienbaum', Times New Roman, serif;
+$abrilFatface: 'Abril Fatface', Brush Script MT, cursive;
 
 // Mobile breakpoints
 @mixin mobile {
