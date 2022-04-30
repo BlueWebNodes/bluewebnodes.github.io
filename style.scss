@@ -263,6 +263,10 @@ nav {
 // .main
 //
 
+.page {
+  padding-left:15px;	
+  padding-right:15px;	
+}	
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -274,6 +278,8 @@ nav {
 }
 
 .post {
+  padding-left:15px;	
+  padding-right:15px;	
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -310,7 +316,10 @@ footer {
 }
 
 img[alt="New Design 1"] {
-  width: 100%;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
   height: auto;
 }
 
@@ -407,7 +416,7 @@ img[alt="Promo Ads"] {
   background: #034ea2;
   color: #ffffff;
   text-align: center;
-  width: 240px;
+  width: 30%;
   padding-bottom: 0.8em;
   margin: 20px 30px 16px 30px;
   box-sizing: border-box;
