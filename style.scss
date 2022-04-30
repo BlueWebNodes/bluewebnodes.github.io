@@ -245,7 +245,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 12px; // @TODO: Vertically middle align
   margin-right: 4%;
   font-family: $barlowCondensed;
   font-size: 22px;
@@ -254,12 +254,13 @@ nav {
 	
   @include mobile {
     float: none;
-    margin-top: 16px;
+    margin-top: 4px;
     display: block;
     font-size: 19px;
   }
 
   a {
+    margin-top: 12px;
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
