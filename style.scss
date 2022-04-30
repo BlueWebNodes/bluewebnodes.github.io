@@ -186,7 +186,7 @@ img {
 }
 
 .masthead {
-  padding: 16px 0;
+  padding: 6px 0;
 
   @include mobile {
     text-align: center;
@@ -245,11 +245,10 @@ img {
 
 nav {
   float: right;
-  margin-top: 40px; // @TODO: Vertically middle align
+  margin-top: 23px; // @TODO: Vertically middle align
   margin-right: 4%;
   font-family: $barlowCondensed;
   font-size: 22px;
-  vertical-align: middle;
   padding-bottom: 16px;
   border-bottom: 1px solid $lightGray;
 	
