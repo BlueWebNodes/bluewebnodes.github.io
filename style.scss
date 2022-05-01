@@ -182,7 +182,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .masthead {
@@ -195,19 +195,15 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   margin-right: 15px;
-  margin-left: 8%;
+  margin-left: 6%;
 
   @include mobile {
     float: none;
     display: block;
     margin: 0 auto;
-  }
-
-  img {
-    border-radius: 5px;
   }
 }
 
