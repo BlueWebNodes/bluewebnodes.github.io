@@ -1,7 +1,5 @@
 
 .highlight {
-  width: 100vw;
-  background-color: #efefef;
   overflow: hidden;
   text-align: center;
   background: url(../images/siteBannerBG-01.jpg);
@@ -9,7 +7,12 @@
 	background-size: cover;
 }
 
-.highlight a {
+.welcome {
+  padding: 16px;
+  background-color: rgba(255,255,255,0.80);
+  text-align: center;
+}	
+.welcome a {
   color: #007bff;
   font-weight: 700;
 }	
