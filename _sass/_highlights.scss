@@ -13,16 +13,23 @@
   padding: 16px;
   width: 40%;
   height: auto;
+  
+  @include mobile {
+    margin-left: 2%;
+    width: 96%;
+  }
+
 }	
 
 .welcome a {
+  display: inline-block;
   background-color: #034ea2;
   border-radius: 5px;
-  padding: 12px 16px;
+  padding: 8px 12px;
   color: #ffffff;
   font-weight: 700;
-  margin-right: 6px;
-  margin-bottom: 8px;
+  margin-right: 8px;
+  margin-top: 16px;
 }
 
 code {
