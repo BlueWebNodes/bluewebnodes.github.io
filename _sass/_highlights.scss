@@ -1,6 +1,6 @@
 
 .highlight {
-  background: url(../images/siteBannerBG-01.jpg);
+  background: url(../images/siteBannerBG.jpg);
   background-position: center center;
   background-size: cover;
   padding: 12px 0px 30px 16px;  
@@ -9,13 +9,13 @@
 .welcome {
   background-color: rgba(255,255,255,0.80);
   text-align: left;
-  margin-left: 6%;
+  margin-left: 8%;
   padding: 16px;
   width: 40%;
   height: auto;
   
   @include mobile {
-    margin-left: 2%;
+    margin-left: 1%;
     width: 96%;
   }
 
