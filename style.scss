@@ -31,7 +31,7 @@ html {
 body {
   background: $white;
   font-family: $barlowCondensed;
-  font-size: 18px;
+  font-size: 20px;
   color: $darkGray;
 }
 
@@ -64,7 +64,7 @@ h1 {
 h2 {
   font-family: $barlowCondensed;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 26px;
   color: #f47a5c;
   a {
     color: inherit;
@@ -74,13 +74,13 @@ h2 {
 h3 {
   font-family: $barlowCondensed;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 24px;
 }
 
 h4 {
   font-family: $barlowCondensed;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 22px;
   color: $gray;
 }
 
@@ -91,6 +91,7 @@ h5, h6 {
 
 p {
   font-family: $barlowCondensed;
+  font-size: 20px;
   margin: 15px 0;
 }
 
@@ -99,7 +100,6 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
   }
 }
 
