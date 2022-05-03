@@ -362,21 +362,36 @@ img[alt="Get Started"] {
   float: left;
   margin-right: 12px;
 }
-
 .promo-centered {
-  display: block;
-  margin-left: 12px;
-
-  @include mobile {
-    margin-left: 0px;
-  }
+  width: 100vw;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  -ms-justify-content: space-evenly;
+  -moz-justify-content: space-evenly;
+  -webkit-justify-content: space-evenly;
+  justify-content: space-evenly;
+  -ms-align-items: center;
+  -moz-align-items: center;
+  -webkit-align-items: center;
+  align-items: center;
 }
 
-.promo-centered div {
-  display: inline-block;
+.promo-centered a {
+  display: block;
+  background: #ffffff;
+  color: #034ea2;
+  padding: 8px 12px;
+  border-radius: 5px;
+}
+
+.promo-centered a:hover,
+.promo-centered a:active {
+  opacity: .8;
 }
 
 .promo1 {
+  display: inline-block;
   background: url(../images/promoBG1.jpg);
   background-position: center center;
   background-size: contain;
@@ -388,6 +403,7 @@ img[alt="Get Started"] {
 }
 
 .promo2 {
+  display: inline-block;
   background: url(../images/promoBG2.jpg);
   background-position: center center;
   background-size: contain;
@@ -401,6 +417,7 @@ img[alt="Get Started"] {
 }
 
 .promo3 {
+  display: inline-block;
   background: url(../images/promoBG3.jpg);
   background-position: center center;
   background-size: contain;
@@ -411,89 +428,24 @@ img[alt="Get Started"] {
   vertical-align: middle;
 }
 
-//
-// promo blocks
-//
+.frontstoryfirst {
+  background-color: #e5edf5;
+  height: 300px;
+}
 
-img[alt="Promo Ads"] {
-  width: 240px;
-  height: 90px;
-  border-bottom: 6px solid #ffffff;
-  
+img[alt="New Design 1"] {
+  width: 80%;
+  height: auto;
+  margin-top: 20px;
+	
   @include mobile {
     width: 100%;
-    height: auto;
   }
-}
-
-.promo {
-  background: #034ea2;
-  color: #ffffff;
-  text-align: center;
-  width: 25%;
-  padding-bottom: 0.8em;
-  margin: 20px 30px 16px 30px;
-  box-sizing: border-box;
-
-  @include mobile {
-    width: 100%;
-    margin: 20px 0px 16px 0px;
-  }
-}
-
-.promo h3 {
-  color: #ffffff;
-  font-weight: 700;
-  padding-top: 0.4em;
-  padding-left: 0.4em;
-  padding-right: 0.2em;
-}
-
-.promo p {
-  padding: 0.2em 0.4em;
-  text-align: center;
-}
-
-
-.promo p a {
-  background: #ffffff;
-  color: #034ea2;
-  padding: 0.2em 0.2em;
-  border-radius: 2px;
-  overflow: auto;
-  display: block;
-  width: auto;
-}
-
-.promo p a:hover,
-.promo p a:active {
-  opacity: .8;
-}
-
-.fronttoptitle {
-  text-align: center;
-}
-
-.maincontent{
-  background: #ecf8fe;
-  text-align: center;
 }
 
 //
 // images
 //
-
-img[alt="New Design 1"] {
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 60%;
-  height: auto;
-	
-  @include mobile {
-    width: 96%;
-  }
-}
 
 img[alt="Graphic Design 1"] {
   width: 264px;
