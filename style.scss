@@ -340,6 +340,7 @@ footer {
 img[alt="Get Started"] {
   width: 235px;
   height: 201px;
+  display: inline-block; 
   
   @include mobile {
     width: 60%;
