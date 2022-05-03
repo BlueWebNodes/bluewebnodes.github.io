@@ -276,7 +276,18 @@ nav {
 .page {
   padding-left:15px;	
   padding-right:15px;	
-}	
+}
+
+.page h1 {
+  background: url(../images/sitePageTitleBG.jpg);
+  background-position: center center;
+  background-size: cover;
+  padding-top: 150px;
+  padding-left: 4%
+  width: 100%;
+  height: 250px;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -334,18 +345,22 @@ footer {
 //
 
 .fronttoptopic {
+  background-image: linear-gradient(-15deg, #034ea2, #ffffff);
+  width: 80%;
+  height: auto;
+  padding: 16px;
   text-align: center;
+
+  @include mobile {
+    width: 100%;
+  }
 }
 
 img[alt="Get Started"] {
   width: 235px;
   height: 201px;
-  float: left; 
-  
-  @include mobile {
-    width: 60%;
-    height: auto;
-  }
+  float: left;
+  margin-right: 12px;
 }
 
 .promo-centered {
@@ -364,33 +379,36 @@ img[alt="Get Started"] {
 .promo1 {
   background: url(../images/promoBG1.jpg);
   background-position: center center;
-  background-size: cover;
+  background-size: contain;
   padding: 16px;
-  width: 360px;
-  height: 240px;
+  width: 300px;
+  height: 200px;
   margin-right: 20px;
+  text-align: center;
 }
 
 .promo2 {
   background: url(../images/promoBG2.jpg);
   background-position: center center;
-  background-size: cover;
+  background-size: contain;
   padding: 16px;
   width: 360px;
   height: 240px;
   margin-right: 20px;
   margin-left: 20px;
   margin-right: 20px;
+  text-align: center;
 }
 
 .promo3 {
   background: url(../images/promoBG3.jpg);
   background-position: center center;
-  background-size: cover;
+  background-size: contain;
   padding: 16px;
-  width: 360px;
-  height: 240px;
+  width: 300px;
+  height: 200px;
   margin-left: 20px;
+  text-align: center;
 }
 
 //
