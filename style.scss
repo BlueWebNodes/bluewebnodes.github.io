@@ -132,6 +132,20 @@ strong, b {
   font-weight: bold;
 }
 
+img {
+  max-width: 100%;
+  width: 700px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Fixes images in popup boxes from Google Translate
+.gmnoprint img {
+  max-width: none;
+}
+
 .date {
   font-style: italic;
   color: $gray;
