@@ -1,4 +1,4 @@
-# My GitHub Blog About Web Development, Website Design and Graphic Design
+# My GitHub Blog About Web Development, Web Design and Graphic Design
 
 ## Credits:
 
