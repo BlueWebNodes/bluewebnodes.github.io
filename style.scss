@@ -283,7 +283,7 @@ nav {
   background-position: center center;
   background-size: cover;
   padding-top: 150px;
-  padding-left: 4%
+  padding-left: 4%;
   width: 100%;
   height: 250px;
 }
@@ -345,6 +345,7 @@ footer {
 //
 
 .fronttoptopic {
+  background-image: linear-gradient(-15deg, #034ea2, #ffffff);
   width: 80%;
   height: auto;
   padding: 16px;
@@ -363,6 +364,17 @@ img[alt="Get Started"] {
 }
 .promo-centered {
   width: 100vw;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  -ms-justify-content: space-evenly;
+  -moz-justify-content: space-evenly;
+  -webkit-justify-content: space-evenly;
+  justify-content: space-evenly;
+  -ms-align-items: center;
+  -moz-align-items: center;
+  -webkit-align-items: center;
+  align-items: center;
 }
 
 .promo-centered a {
