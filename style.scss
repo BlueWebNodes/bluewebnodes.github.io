@@ -133,6 +133,9 @@ strong, b {
 }
 
 .containerfixed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
 
   @include mobile {
@@ -345,6 +348,7 @@ nav {
 //
 
 .wrapper-footer {
+  margin-top: 16px;
   background-color: $darkGray;
   padding: 20px 0;
 }
