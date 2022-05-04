@@ -282,11 +282,15 @@ nav {
   background: url(../images/sitePageTitleBG125.jpg);
   background-position: center center;
   background-size: cover;
-  padding-top: 100px;
+  padding-top: 80px;
   padding-left: 4%;
   width: 100%;
   height: 126px;
   color: #ffffff;
+
+  @include mobile {
+  background-position: center right;
+  }
 }
 
 .posts > .post {
@@ -356,7 +360,8 @@ footer {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 8px;
+  margin-top: 12px;
+  margin-bottom: 12px;
   background-image: linear-gradient( #ffffff, #e5edf5);
   width: 80%;
   height: auto;
@@ -373,6 +378,13 @@ img[alt="Get Started"] {
   height: 201px;
   float: left;
   margin-right: 12px;
+
+  @include mobile {
+    width: 100%;
+    height: auto;
+    float: none;
+    margin-right: 0px;
+  }
 }
 .promo-centered {
   width: 100vw;
@@ -405,7 +417,7 @@ img[alt="Get Started"] {
   color: #034ea2;
   padding: 8px 12px;
   border-radius: 5px;
-  width: 160px;
+  width: 80px;
 }
 
 .promo-centered a:hover,
