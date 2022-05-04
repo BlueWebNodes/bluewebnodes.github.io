@@ -279,13 +279,14 @@ nav {
 }
 
 .page h1 {
-  background: url(../images/sitePageTitleBG.jpg);
+  background: url(../images/sitePageTitleBG125.jpg);
   background-position: center center;
   background-size: cover;
-  padding-top: 150px;
+  padding-top: 100px;
   padding-left: 4%;
   width: 100%;
-  height: 250px;
+  height: 126px;
+  color: #ffffff;
 }
 
 .posts > .post {
@@ -309,6 +310,15 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
+
+  .post h1 {
+    background: none;
+    padding-top: 0px;
+    padding-left: 0px;
+    width: auto;
+    height: auto;
+    color: $darkerGray;
+}
 
   .comments {
     margin-top: 10px;
@@ -345,7 +355,11 @@ footer {
 //
 
 .fronttoptopic {
-  background-image: linear-gradient(-15deg, #034ea2, #ffffff);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 8px;
+  background-image: linear-gradient( #e5edf5, #ffffff);
   width: 80%;
   height: auto;
   padding: 16px;
@@ -377,12 +391,21 @@ img[alt="Get Started"] {
   align-items: center;
 }
 
+.promo-centered div {
+  display: inline-block;
+  width: 360px;
+  height: 240px;
+  text-align: center;
+  padding-top: 40px;
+}
+
 .promo-centered a {
   display: block;
   background: #ffffff;
   color: #034ea2;
   padding: 8px 12px;
   border-radius: 5px;
+  width: 160px;
 }
 
 .promo-centered a:hover,
@@ -391,41 +414,21 @@ img[alt="Get Started"] {
 }
 
 .promo1 {
-  display: inline-block;
   background: url(../images/promoBG1.jpg);
   background-position: center center;
   background-size: contain;
-  width: 360px;
-  height: 240px;
-  margin-right: 20px;
-  text-align: center;
-  vertical-align: middle;
 }
 
 .promo2 {
-  display: inline-block;
   background: url(../images/promoBG2.jpg);
   background-position: center center;
   background-size: contain;
-  width: 360px;
-  height: 240px;
-  margin-right: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  text-align: center;
-  vertical-align: middle;
 }
 
 .promo3 {
-  display: inline-block;
   background: url(../images/promoBG3.jpg);
   background-position: center center;
   background-size: contain;
-  width: 360px;
-  height: 240px;
-  margin-left: 20px;
-  text-align: center;
-  vertical-align: middle;
 }
 
 .frontstoryfirst {
@@ -434,13 +437,9 @@ img[alt="Get Started"] {
 }
 
 img[alt="New Design 1"] {
-  width: 80%;
+  width: 100%;
   height: auto;
   margin-top: 20px;
-	
-  @include mobile {
-    width: 100%;
-  }
 }
 
 //
