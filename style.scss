@@ -132,7 +132,7 @@ strong, b {
   font-weight: bold;
 }
 
-.container {
+.containerfixed {
   width: 80%;
 
   @include mobile {
@@ -293,7 +293,7 @@ nav {
   padding-top: 80px;
   padding-left: 4%;
   width: 100%;
-  height: 130px;
+  height: 136px;
   color: #ffffff;
 
   @include mobile {
@@ -345,7 +345,6 @@ nav {
 //
 
 .wrapper-footer {
-  margin-top: 20px;
   background-color: $darkGray;
   padding: 20px 0;
 }
@@ -407,6 +406,7 @@ img[alt="Get Started"] {
   -moz-align-items: center;
   -webkit-align-items: center;
   align-items: center;
+  margin-bottom: 20px;
 }
 
 .promo-centered div {
@@ -414,8 +414,7 @@ img[alt="Get Started"] {
   width: 360px;
   height: 240px;
   text-align: center;
-  padding-top: 40px;
-  margin-bottom: 20px;
+  padding-top: 36px;
 }
 
 .promo1 {
