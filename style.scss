@@ -133,8 +133,11 @@ strong, b {
 }
 
 .container {
-  width: 1140px;
-  max-width: 100%;
+  width: 80%;
+
+  @include mobile {
+    width: 100%;
+  }
 }
 
 img {
@@ -342,7 +345,7 @@ nav {
 //
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 20px;
   background-color: $darkGray;
   padding: 20px 0;
 }
