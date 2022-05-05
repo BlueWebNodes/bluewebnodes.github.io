@@ -13,14 +13,14 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
       </div>
       <div class="center-cropped col-lg-3" id="graphicdesign12">
          <p><a href="/images/tigerYearCard2022.jpg" target="_blank">Full Version</a></p>     
-      </div>
-   </div>        
+      </div>       
       <div class="center-cropped col-lg-3" id="graphicdesign13">
          <p><a href="/images/2021cowYear.jpg" target="_blank">Full Version</a></p>     
       </div>
       <div class="center-cropped col-lg-3" id="graphicdesign14">
          <p><a href="/images/happyNewYear2021E.png" target="_blank">Full Version</a></p>     
       </div>
+   </div>
 </div>
 
 
