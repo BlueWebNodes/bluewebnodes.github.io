@@ -77,7 +77,7 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
    <div class="containerfixed2">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="graphicdesign51">
-            <h2><a href="/files/artsShowProgram2019.pdf" target="_blank">Arts Showcase Program</h2>  
+            <h2><a href="/files/artsShowProgram2019.pdf" target="_blank">Arts Showcase Program</a></h2>  
             <p>Click the Above Tiltle to See It Online</p>   
          </div>
          <div class="col-md-6 col-lg-6" id="graphicdesign52">
