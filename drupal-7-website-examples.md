@@ -14,7 +14,7 @@ Only The Arc Jefferson - St. Lawrence Staff can sign in The Arc Jefferson - St. 
 Lodge at Dodge Pond Hotel Website. There are responsive Google Map and Landscape Gallery on the website. I learned
 how to promo a business on Google Business and Google Hotel from this work.
 
-[![Site Home](/images/ladpHome1.jpg "lodgeatdodgepond.org Home")](https://www.lodgeatdodgepond.org)
+[![Site Home](/images/ladpHome2 "lodgeatdodgepond.org Home")](https://www.lodgeatdodgepond.org)
 
 ### [www.shopthearcjslc.org](https://www.shopthearcjslc.org)
 
