@@ -40,6 +40,19 @@ body {
   padding: 0px 0px 0px 0px;
 }
 
+.containerfixed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+
+  @include mobile {
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   line-height: 1.7;
@@ -127,19 +140,6 @@ em, i {
 
 strong, b {
   font-weight: bold;
-}
-
-.containerfixed {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-
-  @include mobile {
-    width: 100%;
-    padding-left: 16px;
-    padding-right: 16px;
-  }
 }
 
 img {
