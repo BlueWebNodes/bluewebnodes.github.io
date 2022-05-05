@@ -1,63 +1,77 @@
 ---
 layout: page
-title: Graphic Design Examples
+title: Graphic Design
 permalink: /graphic-design-examples/
 ---
 
 Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. 
 
-<div class="gridlayoutfirst">
-<div class="containerfixed2">
-   <div class="row"> 
-      <div class="center-cropped col-lg-3" id="graphicdesign11">
-         <p><a href="/images/ChristmasCardBlueWebNodes.jpg" target="_blank">Full Version</a></p>     
-      </div>
-      <div class="center-cropped col-lg-3" id="graphicdesign12">
-         <p><a href="/images/tigerYearCard2022.jpg" target="_blank">Full Version</a></p>     
-      </div>       
-      <div class="center-cropped col-lg-3" id="graphicdesign13">
-         <p><a href="/images/2021cowYear.jpg" target="_blank">Full Version</a></p>     
-      </div>
-      <div class="center-cropped col-lg-3" id="graphicdesign14">
-         <p><a href="/images/happyNewYear2021E.png" target="_blank">Full Version</a></p>     
+<div class="gridlayoutsecond">
+   <div class="containerfixed2">
+      <div class="row"> 
+         <div class="center-cropped col-md-3 col-lg-3" id="graphicdesign11">
+            <p><a href="/images/ChristmasCardBlueWebNodes.jpg" target="_blank">Full Version</a></p>     
+         </div>
+         <div class="center-cropped col-md-3 col-lg-3" id="graphicdesign12">
+            <p><a href="/images/tigerYearCard2022.jpg" target="_blank">Full Version</a></p>     
+         </div>       
+         <div class="center-cropped col-md-3 col-lg-3" id="graphicdesign13">
+            <p><a href="/images/2021cowYear.jpg" target="_blank">Full Version</a></p>     
+         </div>
+         <div class="center-cropped col-md-3 col-lg-3" id="graphicdesign14">
+            <p><a href="/images/happyNewYear2021E.png" target="_blank">Full Version</a></p>     
+         </div>
       </div>
    </div>
 </div>
+
+<div class="gridlayoutfirst">
+   <div class="containerfixed2">
+      <div class="row"> 
+         <div class="center-cropped col-md-3 col-lg-3" id="graphicdesign21">
+            <p><a href="/images/AWLogo2022.jpg" target="_blank">Full Version</a></p>     
+         </div>
+         <div class="center-cropped col-md-3 col-lg-3" id="graphicdesign22">
+            <p><a href="/images/AWBookLogo.jpg" target="_blank">Full Version</a></p>     
+         </div>       
+         <div class="center-cropped col-md-3 col-lg-3" id="graphicdesign23">
+            <p><a href="/images/AWCircusLogo.jpg" target="_blank">Full Version</a></p>     
+         </div>
+         <div class="center-cropped col-md-3 col-lg-3" id="graphicdesign24">
+            <p><a href="/images/AWDisnepLogo.jpg" target="_blank">Full Version</a></p>     
+         </div>
+      </div>
+   </div>
 </div>
 
-### New Designs
+<div class="gridlayoutsecond">
+   <div class="containerfixed2">
+      <div class="row"> 
+         <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign31">
+            <p>Made by Adobe Indesign.<br /><a href="/images/autismWalkBanner.jpg" target="_blank">Full Version</a></p>     
+         </div>
+         <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign32">
+            <p>Made by Adobe Illustrator.<br /><a href="/images/roseWoman1.jpg" target="_blank">Full Version</a></p>     
+         </div>       
+      </div>
+   </div>
+</div>
 
-![Graphic Design 3](/images/2021cowYear.jpg "Graphic Design 3")
-![Graphic Design 2](/images/happyNewYear2021C.png "Graphic Design 2")
-![Graphic Design 1](/images/amishPoster8.5x11.jpg "Graphic Design 1")
-
-### Event Logos - Autism Walk
-#### (Once a year: Virtual theme in 2020, Book theme in 2019, Circus theme in 2018, Disnep theme in 2017.)
-
-Made by Adobe Illustrator.
-
-![Autism Walk Logo 2020](/images/AWLogo2020.jpg "Autism Walk Logo 2020")
-![Autism Walk Logo 2019](/images/AWBookLogo.jpg "Autism Walk Logo 2019")
-![Autism Walk Logo 2018](/images/AWCircusLogo.jpg "Autism Walk Logo 2018")
-![Autism Walk Logo 2017](/images/AWDisnepLogo.jpg "Autism Walk Logo 2017")
-
-### Banner - Autism Walk 
-
-Made by Adobe Indesign.
-
-![Autism Walk Banner](/images/autismWalkBanner.jpg "Autism Walk Banner")
-
-### Painting - Rose Woman
-
-Made by Adobe Illustrator.
-
-![Rose Woman](/images/roseWoman1.jpg "Rose Woman")
-
-### Showcase Poster
-
-Made by Adobe Indesign and Illustrator.
-
-![Showcase Poster](/images/artsShow2017Flyer8.5x11.jpg "Showcase Poster")
+<div class="gridlayoutfirst">
+   <div class="containerfixed2">
+      <div class="row"> 
+         <div class="center-cropped col-md-6 col-lg-4" id="graphicdesign41">
+            <p><a href="/images/artsShow2017Flyer8.5x11.jpg" target="_blank">Full Version</a></p>     
+         </div>
+         <div class="center-cropped col-md-6 col-lg-4" id="graphicdesign42">
+            <p><a href="/images/childrenCareManagementFlyer2022.jpg" target="_blank">Full Version</a></p>     
+         </div>       
+         <div class="center-cropped col-md-6 col-lg-4" id="graphicdesign42">
+            <p><a href="/images/CPSflyer2018.jpg" target="_blank">Full Version</a></p>     
+         </div>       
+      </div>
+   </div>
+</div>
 
 ### [Arts Showcase Program](/files/artsShowProgram2019.pdf)
 

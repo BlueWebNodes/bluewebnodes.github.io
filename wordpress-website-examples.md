@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WordPress Website Examples
+title: WordPress Website
 permalink: /wordPress-website-examples/
 ---
 

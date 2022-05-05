@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drupal 9 & 8 Website Examples
+title: Drupal 9 & 8 Website
 permalink: /drupal-9-8-website-examples/
 ---
 
