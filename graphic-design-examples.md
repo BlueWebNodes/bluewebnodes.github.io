@@ -7,19 +7,20 @@ permalink: /graphic-design-examples/
 Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. 
 
 <div class="gridlayoutfirst">
-   <div class="containerfixed">
-      <div class="row">         
-         <div class="center-cropped col-lg-4" id="graphicdesign11">
-            <p><a href="/images/2021cowYear.jpg" target="_blank">Full Version</a></p>     
-         </div>
-         <div class="center-cropped col-lg-4" id="graphicdesign12">
-            <p><a href="/images/happyNewYear2021C.png" target="_blank">Full Version</a></p>     
-         </div>
-         <div class="center-cropped col-lg-4" id="graphicdesign13">
-            <p><a href="/images/amishPoster8.5x11.jpg" target="_blank">Full Version</a></p>     
-         </div>
+   <div class="row"> 
+      <div class="center-cropped col-lg-3" id="graphicdesign11">
+         <p><a href="/images/ChristmasCardBlueWebNodes.jpg" target="_blank">Full Version</a></p>     
       </div>
-   </div>
+      <div class="center-cropped col-lg-3" id="graphicdesign12">
+         <p><a href="/images/tigerYearCard2022.jpg" target="_blank">Full Version</a></p>     
+      </div>
+   </div>        
+      <div class="center-cropped col-lg-3" id="graphicdesign13">
+         <p><a href="/images/2021cowYear.jpg" target="_blank">Full Version</a></p>     
+      </div>
+      <div class="center-cropped col-lg-3" id="graphicdesign14">
+         <p><a href="/images/happyNewYear2021E.png" target="_blank">Full Version</a></p>     
+      </div>
 </div>
 
 

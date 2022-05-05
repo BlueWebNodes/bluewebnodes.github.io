@@ -488,7 +488,7 @@ img[alt="New Design 1"] {
 
 .center-cropped {
   height: 300px;
-  margin: 20px 10px;
+  margin: 20px;
 
   p {
     position: absolute;
@@ -507,21 +507,28 @@ img[alt="New Design 1"] {
 }
 
 #graphicdesign11 {
-  background: url(../images/2021cowYear.jpg);
+  background: url(../images/ChristmasCardBlueWebNodes.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #graphicdesign12 {
-  background: url(../images/happyNewYear2021C.png);
+  background: url(../images/tigerYearCard2022.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #graphicdesign13 {
-  background: url(../images/amishPoster8.5x11.jpg);
+  background: url(../images/2021cowYear.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#graphicdesign14 {
+  background: url(../images/happyNewYear2021E.png);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
