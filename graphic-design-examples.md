@@ -60,13 +60,13 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
 <div class="gridlayoutfirst">
    <div class="containerfixed2">
       <div class="row"> 
-         <div class="center-cropped col-md-6 col-lg-4" id="graphicdesign41">
+         <div class="center-cropped col-md-4 col-lg-4" id="graphicdesign41">
             <p><a href="/images/artsShow2017Flyer8.5x11.jpg" target="_blank">Full Version</a></p>     
          </div>
-         <div class="center-cropped col-md-6 col-lg-4" id="graphicdesign42">
+         <div class="center-cropped col-md-4 col-lg-4" id="graphicdesign42">
             <p><a href="/images/childrenCareManagementFlyer2022.jpg" target="_blank">Full Version</a></p>     
          </div>       
-         <div class="center-cropped col-md-6 col-lg-4" id="graphicdesign43">
+         <div class="center-cropped col-md-4 col-lg-4" id="graphicdesign43">
             <p><a href="/images/CPSflyer2018.jpg" target="_blank">Full Version</a></p>     
          </div>       
       </div>
@@ -76,11 +76,26 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
 <div class="gridlayoutsecond">
    <div class="containerfixed2">
       <div class="row"> 
-         <div class="col-md-6 col-lg-6">
-            <p><a href="/files/artsShowProgram2019.pdf" target="_blank">Arts Showcase Program</a></p>   
+         <div class="col-md-6 col-lg-6" id="graphicdesign51">
+            <h2><a href="/files/artsShowProgram2019.pdf" target="_blank">Arts Showcase Program</h2></p>   
+            <p>Click the Above Tiltle to See It Online</p>   
          </div>
-         <div class="col-md-6 col-lg-6">
+         <div class="col-md-6 col-lg-6" id="graphicdesign52">
             <p><a href="/files/dpBooklet2019.pdf" target="_blank">Dodge Pond Vacations Booklet</a></p>     
+            <p>Click the Above Tiltle to See It Online</p>   
+         </div>       
+      </div>
+   </div>
+</div>
+
+<div class="gridlayoutfirst">
+   <div class="containerfixed2">
+      <div class="row"> 
+         <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign61">
+            <p><a href="/images/bridgesBrochure2022.jpg" target="_blank">Full Version</a></p>     
+         </div>
+         <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign62">
+            <p><a href="/images/bridgesBrochure2022-2.jpg" target="_blank">Full Version</a></p>     
          </div>       
       </div>
    </div>
