@@ -29,10 +29,10 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
    <div class="containerfixed2">
       <div class="row"> 
          <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign31">
-            <p>Made by Adobe Indesign.<br /><a href="/images/autismWalkBanner.jpg" target="_blank">Full Version</a></p>     
+            <p><a href="/images/autismWalkBanner.jpg" target="_blank">Full Version</a></p>     
          </div>
          <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign32">
-            <p>Made by Adobe Illustrator.<br /><a href="/images/roseWoman1.jpg" target="_blank">Full Version</a></p>     
+            <p><a href="/images/roseWoman1.jpg" target="_blank">Full Version</a></p>     
          </div>       
       </div>
    </div>
