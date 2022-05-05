@@ -314,7 +314,9 @@ nav {
 }
 
 .post {
-  blockquote {
+  padding-left:15px;	
+  padding-right:15px;	
+    blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
@@ -469,7 +471,7 @@ img[alt="Get Started"] {
   }
 }
 
-.frontstoryfirst {
+.gridlayoutfirst {
   background-color: #e5edf5;
 }
 

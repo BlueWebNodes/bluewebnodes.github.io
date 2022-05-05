@@ -6,6 +6,29 @@ permalink: /graphic-design-examples/
 
 Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. 
 
+<div class="gridlayoutfirst">
+   <div class="containerfixed">
+      <div class="row">         
+         <div class="col-lg-4">
+         ```{r}
+            ![Graphic Design 3](/images/2021cowYear.jpg "Graphic Design 3")
+         ```     
+         </div>
+         <div class="col-lg-4">
+         ```{r}
+            ![Graphic Design 2](/images/happyNewYear2021C.png "Graphic Design 2")
+         ```     
+         </div>
+         <div class="col-lg-4">
+         ```{r}
+            ![Graphic Design 1](/images/amishPoster8.5x11.jpg "Graphic Design 1")
+         ```     
+         </div>
+      </div>
+   </div>
+</div>
+
+
 ### New Designs
 
 ![Graphic Design 3](/images/2021cowYear.jpg "Graphic Design 3")
