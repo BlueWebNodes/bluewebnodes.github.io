@@ -7,6 +7,7 @@ permalink: /graphic-design-examples/
 Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. 
 
 <div class="gridlayoutfirst">
+<div class="containerfixed2">
    <div class="row"> 
       <div class="center-cropped col-lg-3" id="graphicdesign11">
          <p><a href="/images/ChristmasCardBlueWebNodes.jpg" target="_blank">Full Version</a></p>     
@@ -22,7 +23,7 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
       </div>
    </div>
 </div>
-
+</div>
 
 ### New Designs
 
