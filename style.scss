@@ -486,6 +486,41 @@ img[alt="New Design 1"] {
 // images
 //
 
+.center-cropped {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  position: relative;
+  height: 300px;
+
+  p {
+    position: absolute;
+    bottom: 4px;
+  }
+  a {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: #ffffff;
+    color: #034ea2;
+    padding: 8px;
+    border-radius: 5px;
+  }
+}
+
+#graphicdesign11 {
+  background: url(../images/2021cowYear.jpg);
+}
+
+#graphicdesign12 {
+  background: url(../images/happyNewYear2021C.png);
+}
+
+#graphicdesign13 {
+  background: url(../images/amishPoster8.5x11.jpg);
+}
+
 img[alt="Graphic Design 1"] {
   width: 264px;
   height: 204px;
