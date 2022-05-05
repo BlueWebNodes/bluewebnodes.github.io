@@ -10,14 +10,10 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
    <div class="containerfixed">
       <div class="row">         
          <div class="col-lg-4">
-         ```{r}
-            ![Graphic Design 3](/images/2021cowYear.jpg "Graphic Design 3")
-         ```     
+            ![Graphic Design 3](/images/2021cowYear.jpg "Graphic Design 3")  
          </div>
          <div class="col-lg-4">
-         ```{r}
-            ![Graphic Design 2](/images/happyNewYear2021C.png "Graphic Design 2")
-         ```     
+            <p><a href="/images/happyNewYear2021C.png" target="_blank">Full Version</a></p>     
          </div>
          <div class="col-lg-4">
          ```{r}
