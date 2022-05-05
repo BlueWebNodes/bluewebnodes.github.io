@@ -28,8 +28,21 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
 <div class="gridlayoutfirst">
    <div class="containerfixed2">
       <div class="row"> 
+         <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign31">
+            <p>Made by Adobe Indesign.<br /><a href="/images/autismWalkBanner.jpg" target="_blank">Full Version</a></p>     
+         </div>
+         <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign32">
+            <p>Made by Adobe Illustrator.<br /><a href="/images/roseWoman1.jpg" target="_blank">Full Version</a></p>     
+         </div>       
+      </div>
+   </div>
+</div>
+
+<div class="gridlayoutsecond">
+   <div class="containerfixed2">
+      <div class="row"> 
          <div class="center-cropped col-md-3 col-lg-3" id="graphicdesign21">
-            <p><a href="/images/AWLogo2022.jpg" target="_blank">Full Version</a></p>     
+            <p><a href="/images/autismWalkLogo2022.jpg" target="_blank">Full Version</a></p>     
          </div>
          <div class="center-cropped col-md-3 col-lg-3" id="graphicdesign22">
             <p><a href="/images/AWBookLogo.jpg" target="_blank">Full Version</a></p>     
@@ -44,19 +57,6 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
    </div>
 </div>
 
-<div class="gridlayoutsecond">
-   <div class="containerfixed2">
-      <div class="row"> 
-         <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign31">
-            <p>Made by Adobe Indesign.<br /><a href="/images/autismWalkBanner.jpg" target="_blank">Full Version</a></p>     
-         </div>
-         <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign32">
-            <p>Made by Adobe Illustrator.<br /><a href="/images/roseWoman1.jpg" target="_blank">Full Version</a></p>     
-         </div>       
-      </div>
-   </div>
-</div>
-
 <div class="gridlayoutfirst">
    <div class="containerfixed2">
       <div class="row"> 
@@ -66,17 +66,22 @@ Graphic Design includes logo, business card, postcard, fold, flyer, poster, and 
          <div class="center-cropped col-md-6 col-lg-4" id="graphicdesign42">
             <p><a href="/images/childrenCareManagementFlyer2022.jpg" target="_blank">Full Version</a></p>     
          </div>       
-         <div class="center-cropped col-md-6 col-lg-4" id="graphicdesign42">
+         <div class="center-cropped col-md-6 col-lg-4" id="graphicdesign43">
             <p><a href="/images/CPSflyer2018.jpg" target="_blank">Full Version</a></p>     
          </div>       
       </div>
    </div>
 </div>
 
-### [Arts Showcase Program](/files/artsShowProgram2019.pdf)
-
-Made by Adobe Indesign.
-
-### [Dodge Pond Vacations Booklet](/files/dpBooklet2019.pdf)
-
-Made by Adobe Indesign.
+<div class="gridlayoutsecond">
+   <div class="containerfixed2">
+      <div class="row"> 
+         <div class="col-md-6 col-lg-6">
+            <p><a href="/files/artsShowProgram2019.pdf" target="_blank">Arts Showcase Program</a></p>   
+         </div>
+         <div class="col-md-6 col-lg-6">
+            <p><a href="/files/dpBooklet2019.pdf" target="_blank">Dodge Pond Vacations Booklet</a></p>     
+         </div>       
+      </div>
+   </div>
+</div>
