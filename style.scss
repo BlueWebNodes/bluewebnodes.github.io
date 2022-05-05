@@ -348,7 +348,6 @@ nav {
 //
 
 .wrapper-footer {
-  margin-top: 16px;
   background-color: $darkGray;
   padding: 20px 0;
 }
@@ -418,13 +417,14 @@ img[alt="Get Started"] {
   width: 360px;
   height: 240px;
   text-align: center;
-  padding-top: 36px;
+
 }
 
 .promo1 {
   background: url(../images/promoBG1.jpg);
   background-position: center center;
   background-size: contain;
+  padding-top: 40px;
   a {
     display: block;
     margin-left: auto;
@@ -441,6 +441,7 @@ img[alt="Get Started"] {
   background: url(../images/promoBG2.jpg);
   background-position: center center;
   background-size: contain;
+  padding-top: 36px;
   a {
     display: block;
     margin-left: auto;
@@ -457,6 +458,7 @@ img[alt="Get Started"] {
   background: url(../images/promoBG3.jpg);
   background-position: center center;
   background-size: contain;
+  padding-top: 40px;
   a {
     display: block;
     margin-left: auto;
@@ -578,6 +580,10 @@ img[alt="Autism Walk Flag"] {
   @include mobile {
     height: 710px;
   }
+}
+
+#contactusForm {
+  margin-bottom: 20px;
 }
 
 //
