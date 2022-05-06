@@ -358,6 +358,14 @@ nav {
   }
 }
 
+.submenuright {
+  text-align: right;
+  padding-right: 20px;
+  a {
+    margin-right: 20px;
+  }
+}
+
 //
 // Footer
 //
@@ -518,7 +526,8 @@ img[alt="New Design 1"] {
     color: $white;
     padding: 8px;
     border-radius: 5px;
-    width: 120px;
+    width: 240px;
+    bottom: 8px;
   }
 }
 
@@ -539,7 +548,8 @@ img[alt="New Design 1"] {
     color: $white;
     padding: 8px;
     border-radius: 5px;
-    width: 120px;
+    width: 240px;
+    bottom: 8px;
   }
 }
 
