@@ -8,6 +8,9 @@
 /* Font for body and titles: font-family: $barlowCondensed: 'Barlow Semi Condensed', sans-serif; */
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&display=swap');
 
+/* Font for body and titles: font-family: $barlow: 'Barlow', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap"');
+
 /* Font for body and titles: font-family: $oranienbaum: 'Oranienbaum', serif; */
 @import url('https://fonts.googleapis.com/css2?family=Oranienbaum&display=swap');
 
@@ -30,35 +33,10 @@ html {
 
 body {
   background: $white;
-  font-family: $barlowCondensed;
+  font-family: $barlow;
   font-size: 20px;
   color: $darkGray;
-}
-
-.container-fluid {
-  margin: 0px 0px 0px 0px;
-  padding: 0px 0px 0px 0px;
-}
-
-.containerfixed {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-
-  @include mobile {
-    width: 100%;
-    padding-left: 16px;
-    padding-right: 16px;
-  }
-}
-
-.containerfixed2 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  width: 90%;
+  line-height: 1.1;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -76,7 +54,7 @@ h1 {
   font-family: $abrilFatface;
   font-weight: normal;
   font-size: 30px;
-  color: #034ea2;
+  color: $logoBlue;
   a {
     color: inherit;
   }
@@ -86,7 +64,7 @@ h2 {
   font-family: $barlowCondensed;
   font-weight: bold;
   font-size: 26px;
-  color: #f47a5c;
+  color: $Orange;
 }
 
 h3 {
@@ -108,16 +86,18 @@ h5, h6 {
 }
 
 p {
-  font-family: $barlowCondensed;
+  font-family: $barlow;
   font-size: 20px;
   margin: 15px 0;
+  line-height: 1.1;
 }
 
 a {
-  color: $blue;
+  color: $linkBlue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
+    color: $lighBlue;
   }
 }
 
@@ -159,6 +139,33 @@ img {
   margin-right: auto;
 }
 
+// Containers
+.container-fluid {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+.containerfixed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+
+  @include mobile {
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+.containerfixed2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 90%;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -196,7 +203,7 @@ img {
 /*********************/
 
 //
-// .masthead
+// Headtop
 //
 
 .wrapper-masthead {
@@ -239,10 +246,9 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $barlowCondensed;
+  font-family: $barlow;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
   display: none;
 }
 
@@ -261,7 +267,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   margin-right: 4%;
-  font-family: $barlowCondensed;
+  font-family: $barlow;
   font-size: 22px;
   padding-bottom: 16px;
   border-bottom: 1px solid $lightGray;
@@ -304,7 +310,7 @@ nav {
   padding-left: 4%;
   width: 100%;
   height: 136px;
-  color: #ffffff;
+  color: $white;
 
   @include mobile {
   background-position: center right;
@@ -368,7 +374,7 @@ footer {
 
 .copyrightjl {
   text-align: center;
-  color: #ffffff;
+  color: $white;
 }
 
 //
@@ -381,7 +387,7 @@ footer {
   margin-right: auto;
   margin-top: 12px;
   margin-bottom: 20px;
-  background-image: linear-gradient( #ffffff, #e5edf5);
+  background-image: linear-gradient( $white, $whiteBlue);
   width: 80%;
   height: auto;
   padding: 16px;
@@ -437,8 +443,8 @@ img[alt="Get Started"] {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    background: #ffffff;
-    color: #034ea2;
+    background: $white;
+    color: $logoBlue;
     padding: 8px;
     border-radius: 5px;
     width: 160px;
@@ -454,8 +460,8 @@ img[alt="Get Started"] {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    background: #ffffff;
-    color: #034ea2;
+    background: $white;
+    color: $logoBlue;
     padding: 8px;
     border-radius: 5px;
     width: 56px;
@@ -471,16 +477,17 @@ img[alt="Get Started"] {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    background: #ffffff;
-    color: #034ea2;
+    background: $white;
+    color: $logoBlue;
     padding: 8px;
     border-radius: 5px;
     width: 120px;
   }
 }
 
+//Other page use this Div features too
 .gridlayoutfirst {
-  background-color: #e5edf5;
+  background-color: $whiteBlue;
 }
 
 img[alt="New Design 1"] {
@@ -491,7 +498,27 @@ img[alt="New Design 1"] {
 }
 
 //
-// Graphic design images
+// Products Page
+//
+
+#products11 {
+  padding-top: 20px;
+  padding-bottom: 12px;
+}
+
+#products12 {
+  padding-top: 20px;
+  padding-bottom: 12px;
+  background-color: $whiteBlue;
+}
+
+img[alt="Logo"] {
+  width: 85%;
+}
+
+
+//
+// Graphic Design Page
 //
 
 .center-cropped {
@@ -508,7 +535,7 @@ img[alt="New Design 1"] {
     margin-left: auto;
     margin-right: auto;
     background: rgba(255,255,255,.8);
-    color: #034ea2;
+    color: $logoBlue;
     padding: 8px;
     border-radius: 5px;
   }
@@ -644,10 +671,6 @@ img[alt="New Design 1"] {
   height: 420px;
 }
 
-img[alt="Autism Walk Flag"] {
-  width: 85%;
-}
-
 //
 // Contact Us Form
 //
@@ -672,7 +695,7 @@ img[alt="Autism Walk Flag"] {
 
 .contactform p{
   font-size: 0.8em;
-  color: #034ea2;
+  color: $logoBlue;
   text-align: center;
 }
 
