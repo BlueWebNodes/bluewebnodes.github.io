@@ -507,6 +507,18 @@ img[alt="New Design 1"] {
 
   h2 {
     text-align: center;
+    color: $Orange;
+  }
+  h4 {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: $logoBlue;
+    color: $white;
+    padding: 8px;
+    border-radius: 5px;
+    width: 120px;
   }
 }
 
@@ -518,10 +530,21 @@ img[alt="New Design 1"] {
   h2 {
     text-align: center;
   }
+  h4 {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: $logoBlue;
+    color: $white;
+    padding: 8px;
+    border-radius: 5px;
+    width: 120px;
+  }
 }
 
 img[alt="Logo"] {
-  height: 120px;
+  height: 100px;
   width: auto;
 }
 
