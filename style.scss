@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-family: $abrilFatface;
   font-weight: normal;
-  font-size: 30px;
+  font-size: 32px;
   color: $logoBlue;
   a {
     color: inherit;
@@ -64,7 +64,7 @@ h1 {
 h2 {
   font-family: $barlowCondensed;
   font-weight: bold;
-  font-size: 26px;
+  font-size: 28px;
   color: $Orange;
 }
 
@@ -90,7 +90,7 @@ p {
   font-family: $barlow;
   font-size: 20px;
   margin: 15px 0;
-  line-height: 1.1;
+  line-height: 1.4;
 }
 
 a {
@@ -277,7 +277,7 @@ nav {
     float: none;
     margin-top: 4px;
     display: block;
-    font-size: 19px;
+    font-size: 20px;
   }
 
   a {
@@ -509,7 +509,7 @@ img[alt="New Design 1"] {
     text-align: center;
     color: $Orange;
   }
-  h4 {
+  h4 a {
     text-align: center;
     display: block;
     margin-left: auto;
@@ -530,7 +530,7 @@ img[alt="New Design 1"] {
   h2 {
     text-align: center;
   }
-  h4 {
+  h4 a {
     text-align: center;
     display: block;
     margin-left: auto;
