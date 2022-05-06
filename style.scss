@@ -36,7 +36,7 @@ body {
   font-family: $barlow;
   font-size: 20px;
   color: $darkGray;
-  line-height: 1.1;
+  line-height: 1.4;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -284,7 +284,6 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 400;
-    letter-spacing: 1px;
     line-height: 1.4;
 
     @include mobile {
@@ -513,9 +512,9 @@ img[alt="New Design 1"] {
 }
 
 img[alt="Logo"] {
-  width: 85%;
+  height: 120px;
+  width: auto;
 }
-
 
 //
 // Graphic Design Page
