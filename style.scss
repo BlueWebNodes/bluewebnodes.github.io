@@ -506,12 +506,11 @@ img[alt="New Design 1"] {
 }
 
 //
-// Products Page
+// Pages
 //
 
-#products11 {
+#pagelayout11 {
   padding-top: 20px;
-  padding-bottom: 12px;
 
   h2 {
     text-align: center;
@@ -519,9 +518,8 @@ img[alt="New Design 1"] {
   }
 }
 
-#products12 {
+#pagelayout12 {
   padding-top: 20px;
-  padding-bottom: 12px;
   background-color: $whiteBlue;
 
   h2 {
@@ -529,8 +527,9 @@ img[alt="New Design 1"] {
   }
 }
 
-#products21 {
+#pagelayout21 {
   text-align: center;
+  padding-bottom: 12px;
   a {
     background: $logoBlue;
     color: $white;
@@ -540,9 +539,10 @@ img[alt="New Design 1"] {
   }
 }
 
-#products22 {
+#pagelayout22 {
   background-color: $whiteBlue;
   text-align: center;
+  padding-bottom: 12px;
   a {
     background: $logoBlue;
     color: $white;
@@ -551,6 +551,10 @@ img[alt="New Design 1"] {
     width: 240px;
   }
 }
+
+//
+// Products Page
+//
 
 img[alt="Logo"] {
   height: 100px;
