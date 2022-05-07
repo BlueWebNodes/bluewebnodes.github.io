@@ -72,6 +72,7 @@ permalink: /products/
          <div class="col-md-3 col-lg-3" id="products11">
             <p>&nbsp;</p>
          </div>
+      </div>
       <div class="row"> 
          <div class="col-md-3 col-lg-3" id="products21">
             <p>&nbsp;</p>
