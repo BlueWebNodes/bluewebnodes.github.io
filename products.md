@@ -65,7 +65,7 @@ permalink: /products/
             <p>&nbsp;</p>
          </div>
          <div class="col-md-6 col-lg-6" id="products11">
-            <h2>Web Applications</a></h2>
+            <h2>Web Applications</h2>
             <p><img src="/images/LogoWebApp.png" alt="Logo"></p>  
             <p>A HTML form without database stores the data on the Google Sheet.</p>
          </div>       
