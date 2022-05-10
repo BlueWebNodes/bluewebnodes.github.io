@@ -9,12 +9,12 @@ permalink: /wordPress-website-examples/
    <hr width="54%">
 </div>
 
-<div class="gridlayoutthird">
-    <p>WordPress is the world’s most popular content management system. 35% of the web uses WordPress, from hobby blogs to the biggest news sites online.</p>
-</div>
+WordPress is the world’s most popular content management system. 35% of the web uses WordPress, from hobby blogs to the biggest news sites online. We have created many WordPress websites, but most of them are not online anymore.
 
-### [https://theaitu.com](https://theaitu.com)
+<div class="gridlayoutthird">
+    <h2><a href="https://www.theaitu.com" target="_blank">www.theaitu.com</a></h2>
+</div>
 
 The AITU website is for Association of Independent Technological Universities. I built a WordPress custom theme using Bootstrap 4 for this website. It is created by PHP, HTML, CSS. The slideshow is built in. News feeds from all the university members.
 
-[![Site Home](/images/theAitu1.jpg "theaitu.com Home")](https://theaitu.com)
+[![Site Home](/images/theAitu1.jpg "theaitu.com Home")](https://www.theaitu.com)
