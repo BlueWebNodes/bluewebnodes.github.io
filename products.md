@@ -4,7 +4,8 @@ title: Products
 permalink: /products/
 ---
 <div class="submenuright">
-   <p><a href="/drupal-9-8-website-examples/">Drupal 9 &amp; 8 Websites</a><a href="/wordPress-website-examples/">WordPress Websites</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/drupal-7-website-examples/">Drupal 7 Websites</a>Static Websites</p> 
+   <p><a href="/drupal-9-8-website-examples/">Drupal 9 &amp; 8 Websites</a><a href="/wordPress-website-examples/">WordPress Websites</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/drupal-7-website-examples/">Drupal 7 Websites</a>Static Websites</p>
+   <hr width="60%">
 </div>
 
 <div class="gridlayoutsecond">

@@ -361,11 +361,7 @@ nav {
 .submenuright {
   text-align: right;
   padding-right: 20px;
-  padding-bottom: 8px;
-  p{
-    padding-bottom: 8px;
-    border-bottom: 1px solid $lightGray;
-  }
+  margin-bottom: 8px;
   a {
     display: inline-block;
     margin-right: 20px;
