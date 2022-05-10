@@ -5,22 +5,20 @@ permalink: /services/
 ---
 
 <div class="gridlayoutsecond">
-   <div class="container-fluid">
+   <div class="containerfixed">
       <div class="row"> 
          <div class="col-md-3 col-lg-3" id="pagelayout11">
-            <p>&nbsp;</p>
+            <p><a href="https://www.bluewebnodes.com"><img src="blueWebNodesLogoFullColor.jpg" alt="BWN Logo"></a></p>
          </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout11">
+         <div class="col-md-9 col-lg-9" id="pagelayout11">
             <p>Blue Web Nodes was created in 2013. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
             <p>Our services include: <a href="/drupal-9-8-website-examples/">Drupal 9 &amp; 8 Websites</a>, <a href="/wordPress-website-examples/">WordPress Websites</a>, <a href="/graphic-design-examples/">Graphic Design</a>, and <a href="/drupal-7-website-examples/">Drupal 7 Websites</a></p>
             <p>We will provide technical support of our services.</p>  
             <p>Locate in Potsdam, St. Lawrence County, NY, USA.</p>  
          </div>       
-         <div class="col-md-3 col-lg-3" id="pagelayout11">
-            <p>&nbsp;</p>
-         </div>
       </div>
    </div>
+   <hr>
 </div>
 
 <div class="gridlayoutsecond">
