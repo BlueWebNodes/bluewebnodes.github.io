@@ -52,9 +52,11 @@ permalink: /pricing/
             <li>Fix breaks from updates</li>
             <li>Trouble shooting</li>
             </ul>
-            <div class="row" id="pagelayout12">
-            <h2>Website (Without CMS) Maintenance</h2>
-            <p>Old web pages updating: $25/hour</p>
+            <div class="row">
+               <div class="col-md-12 col-lg-12" id="pagelayout12">
+                  <h2>Website (Without CMS) Maintenance</h2>
+                  <p>Old web pages updating: $25/hour</p>
+               </div>
             </div>
             <h2>Website Content Updating</h2>
             <p>New web pages (Web forms are not included): $50/ea<br />
@@ -66,7 +68,7 @@ permalink: /pricing/
    </div>
 </div>
 
-<div class="gridlayoutthrid">
+<div class="gridlayoutthird">
     <h2>Graphic Design</h2>
     <p>Basic Pricing Rule - We will quote each design project just for you after we discuss what you need. Some examples is below.</p>
 </div>
