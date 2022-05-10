@@ -538,12 +538,33 @@ img[alt="New Design 1"] {
   background-color: $whiteBlue;
 
   h5 {
-    border-bottom: 1px solid $white;
     line-height: 1.4;
-    margin: 0 0 0 0;
+    margin: 0.4em 0 0 0;
+    border-bottom: 1px solid $white;
   }
 }
 
+#postlayout11 {
+  padding-top: 20px;
+  
+  h1 {
+    background: url(../images/sitePageTitleBG125.jpg);
+    background-position: center center;
+    background-size: cover;
+    padding-top: 86px;
+    padding-left: 0;
+    width: 100%;
+    color: $white;
+    padding-top: 0px;
+    padding-left: 0px;
+    height: auto;
+    color: $darkerGray;
+  }
+
+  h2 {
+    color: $orange;
+  }
+}
 //
 // Pages
 //
