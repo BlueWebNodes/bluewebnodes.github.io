@@ -5,10 +5,10 @@ permalink: /graphic-design-examples/
 ---
 
 <div class="submenuright">
-   <p><a href="/drupal-9-8-website-examples/">Drupal 9 &amp; 8 Websites</a><a href="/wordPress-website-examples/">WordPress Websites</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/drupal-7-website-examples/">Drupal 7 Websites</a>Static Websites</p> 
+   <p>Products: <a href="/drupal-9-8-website-examples/">Drupal 9 &amp; 8 Websites</a><a href="/wordPress-website-examples/">WordPress Websites</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/drupal-7-website-examples/">Drupal 7 Websites</a>Static Websites</p> 
 </div>
 
-<div class="gridlayoutsecond">
+<div class="gridlayoutthird">
     <p>Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. </p>
 </div>
 
