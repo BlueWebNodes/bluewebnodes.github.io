@@ -5,7 +5,7 @@ layout: default
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
-         <div class="col-md-9 col-lg-9" id="bloglayout11">
+         <div class="col-md-9 col-lg-9" id="postlayout11">
             <article class="post">
                <h1>{{ page.title }}</h1>
                <div class="entry">
@@ -20,6 +20,7 @@ layout: default
             </article>
          </div>       
          <div class="col-md-3 col-lg-3" id="bloglayout12">
+            <h2>More Topics</h2>
             <div class="posts">
                {% for post in site.posts %}
                   <article class="post">
