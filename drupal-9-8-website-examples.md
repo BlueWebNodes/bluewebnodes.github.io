@@ -23,8 +23,6 @@ The St. Lawrence County Public Transit Website is built with Drupal 9 and a cust
 
 [![Site Home](/images/churchOnTheParkWebsite2.jpg "churchonthepark.org Home")](https://www.churchonthepark.org/cotp/web/)
 
-### [www.slcnypublictransit.com](http://www.slcnypublictransit.com)
-
 <div class="gridlayoutthird">
     <h2><a href="http://www.slcnypublictransit.com" target="_blank">www.slcnypublictransit.com</a></h2>
 </div>

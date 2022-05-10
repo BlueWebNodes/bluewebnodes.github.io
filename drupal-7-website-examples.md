@@ -13,7 +13,7 @@ permalink: /drupal-7-website-examples/
     <h2>Upgrade your Drupal 7 site ASAP.</h2>
 </div>
 
-If you have a Drupal 7 website needs maintanence or recreation to Drupal 9, I can help. Drupal community support will no longer be available after November 2021, but there’s a Drupal 7 Extended Support program which will continue to provide security updates for Drupal 7 core and certain contrib modules.
+If you have a Drupal 7 website needs maintanence or recreation to Drupal 9, I can help. Drupal community support will no longer be available after November 2021, but there’s a Drupal 7 Extended Support program which will continue to provide security updates for Drupal 7 core and certain contrib modules. We have created many Drupal 7 websites, but most of them are not online anymore.
 
 <div class="gridlayoutthird">
     <h2><a href="http://www.lodgeatdodgepond.org" target="_blank">www.lodgeatdodgepond.org</a></h2>
