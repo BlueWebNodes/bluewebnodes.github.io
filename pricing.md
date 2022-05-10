@@ -54,7 +54,7 @@ permalink: /pricing/
             </ul>
             <div class="row">
                <div class="col-md-12 col-lg-12" id="pagelayout12">
-                  <h2>Website (Without CMS) Maintenance</h2>
+                  <h2>Static Website Maintenance</h2>
                   <p>Old web pages updating: $25/hour</p>
                </div>
             </div>
