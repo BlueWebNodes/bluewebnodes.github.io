@@ -66,9 +66,9 @@ permalink: /products/
             <p>&nbsp;</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2>Web Applications</h2>
+            <h2>Static Websites</h2>
             <p><img src="/images/LogoWebApp.png" alt="Logo"></p>  
-            <p>A HTML form without database stores the data on the Google Sheet.</p>
+            <p>We can build static websites with web-form without a database, and an HTML form will store the submissions on a Google Sheet.</p>
          </div>       
          <div class="col-md-3 col-lg-3" id="pagelayout11">
             <p>&nbsp;</p>
