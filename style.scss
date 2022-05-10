@@ -506,6 +506,10 @@ img[alt="Get Started"] {
   background-color: $whiteBlue;
 }
 
+.gridlayoutsecond {
+
+}
+
 .gridlayoutthird {
   text-align: center;
 }
@@ -515,6 +519,27 @@ img[alt="New Design 1"] {
   height: auto;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+//
+// Blog and Posts
+//
+
+#bloglayout11 {
+  padding-top: 20px;
+
+  h2 {
+    color: $Orange;
+  }
+}
+
+#bloglayout12 {
+  padding-top: 20px;
+  background-color: $whiteBlue;
+
+  p {
+    border-bottom: 1px solid $lightGray;
+  }
 }
 
 //

@@ -7,35 +7,27 @@ permalink: /blog/
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
-         <div class="col-md-9 col-lg-9" id="pagelayout11">
-
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.content | truncatewords:50 }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
-
+         <div class="col-md-9 col-lg-9" id="bloglayout11">
+            <div class="posts">
+               {% for post in site.posts %}
+                  <article class="post">
+                     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+                     <div class="entry">
+                        {{ post.content | truncatewords:50 }}
+                     </div>
+                     <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+                  </article>
+               {% endfor %}
+            </div>
          </div>       
-         <div class="col-md-3 col-lg-3" id="pagelayout12">
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-      <h6><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h6>
-    </article>
-  {% endfor %}
-</div>
-
+         <div class="col-md-3 col-lg-3" id="bloglayout12">
+            <div class="posts">
+               {% for post in site.posts %}
+                  <article class="post">
+                  <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+                  </article>
+               {% endfor %}
+            </div>
          </div>       
       </div>
    </div>
