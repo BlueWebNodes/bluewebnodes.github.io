@@ -10,8 +10,8 @@ permalink: /drupal-9-8-website-examples/
 </div>
 
 <div class="gridlayoutthird">
-    <p>Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility; modularity is one of its core principles. Its tools help you build the versatile, structured content that dynamic web experiences need. Drupal powers 2.3% of all websites and has a 4.6% share of the content management system market.</p>
     <h2>Drupal 9 is the latest version. </h2>
+    <p>Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility; modularity is one of its core principles. Its tools help you build the versatile, structured content that dynamic web experiences need. Drupal powers 2.3% of all websites and has a 4.6% share of the content management system market.</p>
 </div>
 
 ### [https://churchonthepark.org](https://churchonthepark.org/cotp/web/)

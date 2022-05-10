@@ -10,7 +10,8 @@ permalink: /drupal-7-website-examples/
 </div>
 
 <div class="gridlayoutthird">
-    <p>If you have a Drupal 7 website needs maintanence or migration to Drupal 8, I can help. Drupal community support will no longer be available after November 2021, but there’s a Drupal 7 Extended Support program which will continue to provide security updates for Drupal 7 core and certain contrib modules.</p>
+    <h2>Upgrade Your Drupal 7 Site ASAP</h2>
+    <p>If you have a Drupal 7 website needs maintanence or recreation to Drupal 9, I can help. Drupal community support will no longer be available after November 2021, but there’s a Drupal 7 Extended Support program which will continue to provide security updates for Drupal 7 core and certain contrib modules.</p>
 </div>
 
 ### [www.lodgeatdodgepond.org](https://www.lodgeatdodgepond.org)
