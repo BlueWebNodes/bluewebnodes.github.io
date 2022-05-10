@@ -65,7 +65,7 @@ h2 {
   font-family: $barlowCondensed;
   font-weight: bold;
   font-size: 28px;
-  color: $Orange;
+  color: $orange;
 }
 
 h3 {
@@ -354,6 +354,7 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+    margin-bottom: 1em;
   }
 }
 
@@ -528,7 +529,7 @@ img[alt="New Design 1"] {
   padding-top: 20px;
 
   h2 {
-    color: $Orange;
+    color: $orange;
   }
 }
 
@@ -536,8 +537,10 @@ img[alt="New Design 1"] {
   padding-top: 20px;
   background-color: $whiteBlue;
 
-  p {
-    border-bottom: 1px solid $lightGray;
+  h5 {
+    border-bottom: 1px solid $white;
+    line-height: 1.4;
+    margin: 0 0 0 0;
   }
 }
 
@@ -550,7 +553,7 @@ img[alt="New Design 1"] {
 
   h2 {
     text-align: center;
-    color: $Orange;
+    color: $orange;
   }
 }
 
