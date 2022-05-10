@@ -4,9 +4,14 @@ title: Drupal 9 & 8 Website
 permalink: /drupal-9-8-website-examples/
 ---
 
-Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility; modularity is one of its core principles. Its tools help you build the versatile, structured content that dynamic web experiences need. Drupal powers 2.3% of all websites and has a 4.6% share of the content management system market.
+<div class="submenuright">
+   <p><a href="/drupal-9-8-website-examples/">Drupal 9 &amp; 8 Websites</a><a href="/wordPress-website-examples/">WordPress Websites</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/drupal-7-website-examples/">Drupal 7 Websites</a>Static Websites</p> 
+</div>
 
-## Drupal 9 is the latest version. 
+<div class="gridlayoutthird">
+    <p>Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility; modularity is one of its core principles. Its tools help you build the versatile, structured content that dynamic web experiences need. Drupal powers 2.3% of all websites and has a 4.6% share of the content management system market.</p>
+    <h2>Drupal 9 is the latest version. </h2>
+</div>
 
 ### [https://churchonthepark.org](https://churchonthepark.org/cotp/web/)
 
@@ -26,7 +31,11 @@ The Arc Jefferson - St. Lawrence agency website is created and developed by Drup
 
 [![Site Home](/images/thearcjslcHome1.jpg "thearcjslc.org Home")](https://www.thearcjslc.org)
 
-## Drupal 8 is the biggest update in Drupal's history.
+### [www.thearcjslc.org/suggestionbox](http://www.thearcjslc.org/suggestionbox)
 
-All Drupal 8 websites I built were updated to Drupal 9.
+Only The Arc Jefferson - St. Lawrence Staff can sign in The Arc Jefferson - St. Lawrence Membership Website. For this website, group users import and login system security are most important. “Rules” module is a must for this website development.
 
+<div class="gridlayoutthird">
+    <h2>Drupal 8 is the biggest update in Drupal's history.</h2>
+    <p>All Drupal 8 websites I built were updated to Drupal 9.</p>
+</div>

@@ -4,7 +4,13 @@ title: WordPress Website
 permalink: /wordPress-website-examples/
 ---
 
-WordPress is the world’s most popular content management system. 35% of the web uses WordPress, from hobby blogs to the biggest news sites online.
+<div class="submenuright">
+   <p><a href="/drupal-9-8-website-examples/">Drupal 9 &amp; 8 Websites</a><a href="/wordPress-website-examples/">WordPress Websites</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/drupal-7-website-examples/">Drupal 7 Websites</a>Static Websites</p> 
+</div>
+
+<div class="gridlayoutthird">
+    <p>WordPress is the world’s most popular content management system. 35% of the web uses WordPress, from hobby blogs to the biggest news sites online.</p>
+</div>
 
 ### [https://theaitu.com](https://theaitu.com)
 
