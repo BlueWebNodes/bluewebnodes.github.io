@@ -44,7 +44,6 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   line-height: 1.7;
   margin: 0.8em 0 15px;
-  padding: 0;
 
   @include mobile {
     line-height: 1.4;
@@ -318,6 +317,7 @@ nav {
 }
 
 .posts > .post {
+  padding-bottom: 0.4em;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -354,7 +354,6 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
-    padding-bottom: 1em;
   }
 }
 
@@ -533,9 +532,16 @@ img[alt="New Design 1"] {
   padding-top: 20px;
   background-color: $whiteBlue;
 
+  h2 {
+    padding-left: 15px;
+    margin: 0 0 0 0;
+    border-bottom: 1px solid $white;
+  }
+
+
   h5 {
     line-height: 1.4;
-    margin: 0.4em 0 0 0;
+    margin: 0 0 0 0;
     border-bottom: 1px solid $white;
   }
 }
@@ -548,13 +554,13 @@ img[alt="New Design 1"] {
     background-position: center center;
     background-size: cover;
     padding-top: 86px;
-    padding-left: 0;
+    padding-left: 1%;
     width: 100%;
     color: $white;
     padding-top: 0px;
     padding-left: 0px;
     height: 136px;
-    color: $darkerGray;
+    color: $white;
   }
 }
 //
