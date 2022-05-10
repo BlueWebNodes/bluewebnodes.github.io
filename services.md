@@ -8,7 +8,7 @@ permalink: /services/
    <div class="containerfixed">
       <div class="row"> 
          <div class="col-md-3 col-lg-3" id="pagelayout11">
-            <p><a href="https://www.bluewebnodes.com"><img src="blueWebNodesLogoFullColor.jpg" alt="BWN Logo"></a></p>
+            <p><a href="https://www.bluewebnodes.com"><img src="/images/blueWebNodesLogoFullColor.jpg" alt="BWN Logo"></a></p>
          </div>
          <div class="col-md-9 col-lg-9" id="pagelayout11">
             <p>Blue Web Nodes was created in 2013. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
@@ -18,13 +18,13 @@ permalink: /services/
          </div>       
       </div>
    </div>
-   <hr>
 </div>
 
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
+            <hr>
             <h2>Website Design</h2>
             <p>Beautiful, professional website is a great on-line advertisement of your business. 24 hours a day, 7 days a week works for you! We will create and even manage it for you.</p>  
             <p>After following steps, your website will be on-line easily:</p>
