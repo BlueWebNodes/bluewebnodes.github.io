@@ -354,7 +354,7 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
-    margin-bottom: 1em;
+    padding-bottom: 1em;
   }
 }
 
@@ -527,10 +527,6 @@ img[alt="New Design 1"] {
 
 #bloglayout11 {
   padding-top: 20px;
-
-  h2 {
-    color: $orange;
-  }
 }
 
 #bloglayout12 {
@@ -545,7 +541,7 @@ img[alt="New Design 1"] {
 }
 
 #postlayout11 {
-  padding-top: 20px;
+  padding-top: 0;
   
   h1 {
     background: url(../images/sitePageTitleBG125.jpg);
@@ -557,12 +553,8 @@ img[alt="New Design 1"] {
     color: $white;
     padding-top: 0px;
     padding-left: 0px;
-    height: auto;
+    height: 136px;
     color: $darkerGray;
-  }
-
-  h2 {
-    color: $orange;
   }
 }
 //
@@ -574,7 +566,6 @@ img[alt="New Design 1"] {
 
   h2 {
     text-align: center;
-    color: $orange;
   }
 }
 
