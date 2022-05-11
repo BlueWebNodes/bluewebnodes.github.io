@@ -618,6 +618,13 @@ img[alt="New Design 1"] {
   }  
 }
 
+#coldisplayno {
+  @include mobile {
+    display: none;
+  }  
+}
+
+
 //
 // Services Page
 //
