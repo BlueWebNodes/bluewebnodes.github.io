@@ -560,6 +560,10 @@ img[alt="New Design 1"] {
     width: 100%;
     height: 136px;
     color: $white;
+
+    @include mobile {
+      height: 176px;
+    }  
   }
 }
 //
@@ -606,6 +610,12 @@ img[alt="New Design 1"] {
     border-radius: 5px;
     width: 240px;
   }
+}
+
+.coldisplayno {
+  @include mobile {
+    display: none;
+  }  
 }
 
 //
