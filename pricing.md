@@ -141,7 +141,7 @@ permalink: /pricing/
                Ask for a custom quote</p>
          </div>
          <div class="col-md-3 col-lg-3" id="pagelayout12">
-            <h3>Photo Manipulation/Restoration or Other Picture Editing - $35/hour</h3>
+            <h3>Photo Manipulation/ Restoration or Other Picture Editing - $35/hour</h3>
             <p>Ask for a custom quote</p>
          </div>       
       </div>
