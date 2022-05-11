@@ -429,15 +429,18 @@ img[alt="Get Started"] {
 }
 .promo-centered {
   margin-bottom: 20px;
-  text-align: center;
 }
 
-#promo1 {
+.promo1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 360px;
+  height: 240px;
+  text-align: center;
   background: url(../images/promoBG1.jpg);
   background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 360px;
+  background-size: contain;
   padding-top: 40px;
   a {
     display: block;
@@ -451,12 +454,16 @@ img[alt="Get Started"] {
   }
 }
 
-#promo2 {
+.promo2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 360px;
+  height: 240px;
+  text-align: center;
   background: url(../images/promoBG2.jpg);
   background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 360px;
+  background-size: contain;
   padding-top: 36px;
   a {
     display: block;
@@ -470,12 +477,16 @@ img[alt="Get Started"] {
   }
 }
 
-#promo3 {
+.promo3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 360px;
+  height: 240px;
+  text-align: center;
   background: url(../images/promoBG3.jpg);
   background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 360px;
+  background-size: contain;
   padding-top: 40px;
   a {
     display: block;
