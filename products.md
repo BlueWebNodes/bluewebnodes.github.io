@@ -62,7 +62,7 @@ permalink: /products/
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
-         <div class="col-md-3 col-lg-3" id="pagelayout11">
+         <div class="col-md-3 col-lg-3" id="coldisplayno">
             <p>&nbsp;</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
@@ -70,7 +70,7 @@ permalink: /products/
             <p><img src="/images/LogoWebApp.png" alt="Logo"></p>  
             <p>We can build static websites with web-form without a database, and an HTML form will store the submissions on a Google Sheet.</p>
          </div>       
-         <div class="col-md-3 col-lg-3" id="pagelayout11">
+         <div class="col-md-3 col-lg-3" id="coldisplayno">
             <p>&nbsp;</p>
          </div>
       </div>
