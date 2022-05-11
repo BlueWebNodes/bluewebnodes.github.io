@@ -735,6 +735,10 @@ img[alt="Logo"] {
   background-size: contain;
   background-repeat: no-repeat;
   height: 350px;
+
+  @include mobile {
+    height: 200px;
+  }
 }
 
 #graphicdesign32 {
@@ -743,6 +747,10 @@ img[alt="Logo"] {
   background-size: contain;
   background-repeat: no-repeat;
   height: 350px;
+
+  @include mobile {
+    height: 200px;
+  }
 }
 
 #graphicdesign41 {
@@ -751,6 +759,10 @@ img[alt="Logo"] {
   background-size: contain;
   background-repeat: no-repeat;
   height: 500px;
+
+  @include mobile {
+    height: 400px;
+  }
 }
 
 #graphicdesign42 {
@@ -759,6 +771,10 @@ img[alt="Logo"] {
   background-size: contain;
   background-repeat: no-repeat;
   height: 500px;
+
+  @include mobile {
+    height: 400px;
+  }
 }
 
 #graphicdesign43 {
@@ -767,6 +783,10 @@ img[alt="Logo"] {
   background-size: contain;
   background-repeat: no-repeat;
   height: 500px;
+
+  @include mobile {
+    height: 400px;
+  }
 }
 
 #graphicdesign51 {
@@ -785,6 +805,10 @@ img[alt="Logo"] {
   background-size: contain;
   background-repeat: no-repeat;
   height: 420px;
+
+  @include mobile {
+    height: 200px;
+  }
 }
 
 #graphicdesign62 {
@@ -793,6 +817,10 @@ img[alt="Logo"] {
   background-size: contain;
   background-repeat: no-repeat;
   height: 420px;
+
+  @include mobile {
+    height: 200px;
+  }
 }
 
 //
