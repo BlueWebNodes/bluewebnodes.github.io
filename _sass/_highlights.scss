@@ -4,7 +4,13 @@
   background-position: center center;
   background-size: cover;
   padding-top: 12px;  
-  padding-bottom: 16px;  
+  padding-bottom: 16px;
+
+  @media (max-width:992px) {
+    background: url(../images/siteBannerBGMobile.jpg);
+    background-position: center center;
+    background-size: cover;
+  }  
 }
 
 .welcome {
@@ -33,6 +39,10 @@
   font-weight: 700;
   margin-right: 8px;
   margin-top: 16px;
+
+  @media (max-width:992px) {
+    font-size: 0.8em;
+  }  
 }
 
 code {
