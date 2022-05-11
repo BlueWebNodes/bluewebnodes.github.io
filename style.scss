@@ -429,12 +429,15 @@ img[alt="Get Started"] {
 }
 .promo-centered {
   margin-bottom: 20px;
+  height: 240px;
+  text-align: center;
 }
 
 #promo1 {
   background: url(../images/promoBG1.jpg);
   background-position: center center;
-  background-size: contain;
+  background-size: cover;
+  background-repeat: no-repeat;
   padding-top: 40px;
   a {
     display: block;
@@ -451,7 +454,8 @@ img[alt="Get Started"] {
 #promo2 {
   background: url(../images/promoBG2.jpg);
   background-position: center center;
-  background-size: contain;
+  background-size: cover;
+  background-repeat: no-repeat;
   padding-top: 36px;
   a {
     display: block;
@@ -468,7 +472,8 @@ img[alt="Get Started"] {
 #promo3 {
   background: url(../images/promoBG3.jpg);
   background-position: center center;
-  background-size: contain;
+  background-size: cover;
+  background-repeat: no-repeat;
   padding-top: 40px;
   a {
     display: block;
