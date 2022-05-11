@@ -39,14 +39,15 @@
 }
 
 #leave-a-comment {
+    text-align: center;
+    border-top: 1px solid $lightGray;
     padding: 1rem;
 
     a {
         color: #fff;
-        border-bottom-color: #fff;
-        outline-color: #fff;
         background: #034ea2;
-        padding: 8px 16px;
+        border-radius: 5px;
+        padding: 8px 12px;
         margin-right: 8px;
 
     }
