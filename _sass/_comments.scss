@@ -18,7 +18,6 @@
             img {
                 border-radius: 10%;
                 border: 1px solid #999999;
-                box-shadow: 0 0 3px #666666;
             }
         }
 
@@ -40,14 +39,16 @@
 }
 
 #leave-a-comment {
-    background: #034ea2;
-    color: #cccccc;
     padding: 1rem;
 
     a {
         color: #fff;
         border-bottom-color: #fff;
         outline-color: #fff;
+        background: #034ea2;
+        padding: 8px 16px;
+        margin-right: 8px;
+
     }
 }
 
