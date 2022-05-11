@@ -9,7 +9,7 @@ permalink: /blog/
       <div class="row"> 
          <div class="col-md-9 col-lg-9" id="bloglayout11">
             <div class="posts">
-               {% for post in site.posts %}
+               {% for post in site.posts limit: 2 %}
                   <article class="post">
                      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
                      <div class="entry">
