@@ -612,12 +612,17 @@ img[alt="New Design 1"] {
   }
 }
 
-#coldisplayno {
+#colmddisplayno {
   @media (max-width:768px) {
     display: none;
   }  
 }
 
+#collgdisplayno {
+  @media (max-width:992px) {
+    display: none;
+  }  
+}
 
 //
 // Services Page

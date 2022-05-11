@@ -23,7 +23,7 @@ permalink: /products/
             <p>WordPress is the world’s most popular content management system. 35% of the web uses WordPress, from hobby blogs to the biggest news sites online.</p>
           </div>       
       </div>
-      <div class="row" id="coldisplayno"> 
+      <div class="row" id="colmddisplayno"> 
          <div class="col-md-6 col-lg-6" id="pagelayout21">
             <p><a href="/drupal-9-8-website-examples">View More Examples</a></p>
          </div>
@@ -48,7 +48,7 @@ permalink: /products/
             <p>If you have a Drupal 7 website needs maintanence or recreation to Drupal 9, I can help. Drupal community support will no longer be available after November 2021, but there’s a Drupal 7 Extended Support program which will continue to provide security updates for Drupal 7 core and certain contrib modules.</p>
          </div>       
       </div>
-      <div class="row" id="coldisplayno"> 
+      <div class="row" id="colmddisplayno"> 
          <div class="col-md-6 col-lg-6" id="pagelayout22">
             <p><a href="/graphic-design-examples">View More Examples</a></p>
          </div>
@@ -62,7 +62,7 @@ permalink: /products/
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
-         <div class="col-md-3 col-lg-3" id="coldisplayno">
+         <div class="col-md-3 col-lg-3" id="colmddisplayno">
             <p>&nbsp;</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
@@ -70,11 +70,11 @@ permalink: /products/
             <p><img src="/images/LogoWebApp.png" alt="Logo"></p>  
             <p>We can build static websites with web-form without a database, and an HTML form will store the submissions on a Google Sheet.</p>
          </div>       
-         <div class="col-md-3 col-lg-3" id="coldisplayno">
+         <div class="col-md-3 col-lg-3" id="colmddisplayno">
             <p>&nbsp;</p>
          </div>
       </div>
-      <div class="row" id="coldisplayno"> 
+      <div class="row" id="colmddisplayno"> 
          <div class="col-md-3 col-lg-3" id="pagelayout21">
             <p>&nbsp;</p>
          </div>
