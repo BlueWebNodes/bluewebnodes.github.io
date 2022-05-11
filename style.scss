@@ -612,14 +612,8 @@ img[alt="New Design 1"] {
   }
 }
 
-.coldisplayno {
-  @include mobile {
-    display: none;
-  }  
-}
-
 #coldisplayno {
-  @include mobile {
+  @media (max-width:768px) {
     display: none;
   }  
 }

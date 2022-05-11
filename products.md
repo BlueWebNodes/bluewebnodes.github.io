@@ -23,7 +23,7 @@ permalink: /products/
             <p>WordPress is the world’s most popular content management system. 35% of the web uses WordPress, from hobby blogs to the biggest news sites online.</p>
           </div>       
       </div>
-      <div class="row coldisplayno"> 
+      <div class="row" id="coldisplayno"> 
          <div class="col-md-6 col-lg-6" id="pagelayout21">
             <p><a href="/drupal-9-8-website-examples">View More Examples</a></p>
          </div>
@@ -48,7 +48,7 @@ permalink: /products/
             <p>If you have a Drupal 7 website needs maintanence or recreation to Drupal 9, I can help. Drupal community support will no longer be available after November 2021, but there’s a Drupal 7 Extended Support program which will continue to provide security updates for Drupal 7 core and certain contrib modules.</p>
          </div>       
       </div>
-      <div class="row coldisplayno"> 
+      <div class="row" id="coldisplayno"> 
          <div class="col-md-6 col-lg-6" id="pagelayout22">
             <p><a href="/graphic-design-examples">View More Examples</a></p>
          </div>
@@ -74,7 +74,7 @@ permalink: /products/
             <p>&nbsp;</p>
          </div>
       </div>
-      <div class="row coldisplayno"> 
+      <div class="row" id="coldisplayno"> 
          <div class="col-md-3 col-lg-3" id="pagelayout21">
             <p>&nbsp;</p>
          </div>
