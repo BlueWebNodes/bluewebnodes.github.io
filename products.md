@@ -12,7 +12,7 @@ permalink: /products/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2><a href="/drupal-9-8-website-examples">Drupal 9 & 8 Websites</a></h2>
+            <h2><a href="/drupal-9-8-website-examples">Drupal 9 &amp; 8 Websites</a></h2>
             <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal9.png" alt="Logo"></a></p>  
             <p>Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility; modularity is one of its core principles. Its tools help you build the versatile, structured content that dynamic web experiences need. Drupal powers 2.3% of all websites and has a 4.6% share of the content management system market.</p>
             <p>Drupal 8 is the biggest update in Drupal's history. Creating content is easier. Every built-in theme is responsively designed. Drupal 9 is the latest version.</p>
