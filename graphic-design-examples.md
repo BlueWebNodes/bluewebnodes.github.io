@@ -83,11 +83,11 @@ permalink: /graphic-design-examples/
 <div class="gridlayoutsecond">
    <div class="containerfixed2">
       <div class="row"> 
-         <div class="col-md-6 col-lg-6" id="graphicdesign51">
+         <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign51">
             <h2><a href="/files/artsShowProgram2019.pdf" target="_blank">Arts Showcase Program</a></h2>  
             <p>Click the Above Tiltle to See It Online</p>   
          </div>
-         <div class="col-md-6 col-lg-6" id="graphicdesign52">
+         <div class="center-cropped col-md-6 col-lg-6" id="graphicdesign52">
             <h2><a href="/files/dpBooklet2019.pdf" target="_blank">Dodge Pond Vacations Booklet</a></h2>     
             <p>Click the Above Tiltle to See It Online</p>   
          </div>       
