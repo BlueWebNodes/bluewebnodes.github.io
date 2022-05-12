@@ -116,7 +116,7 @@ permalink: /graphic-design-examples/
             </div>
          </div>
          <div class="col-md-6 col-lg-6">
-            <div class="col-lg-12" id="graphicdesign51">
+            <div class="col-lg-12" id="graphicdesign52">
                <h2><a href="/files/dpBooklet2019.pdf" target="_blank">Dodge Pond Vacations Booklet</a></h2>     
                <p>Click the Above Tiltle to See It Online</p>   
             </div>
@@ -134,7 +134,7 @@ permalink: /graphic-design-examples/
             </div>
          </div>
          <div class="col-md-6 col-lg-6">
-            <div class="center-cropped col-lg-12" id="graphicdesign61">
+            <div class="center-cropped col-lg-12" id="graphicdesign62">
                <p><a href="/images/bridgesBrochure2022-2.jpg" target="_blank">Full Version</a></p>     
             </div>
          </div>       
