@@ -648,7 +648,11 @@ img[alt="Logo"] {
 .center-cropped {
   margin-top: 20px;
   margin-bottom: 20px;
-
+	
+  @media (max-width:992px) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
   p {
     position: absolute;
     bottom: 0;
