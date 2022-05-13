@@ -19,7 +19,7 @@ Drupal is content management software. It's used to make many of the websites an
     <h2><a href="https://www.churchonthepark.org/cotp/web/" target="_blank">www.churchonthepark.org</a></h2>
 </div>
 
-The St. Lawrence County Public Transit Website is built with Drupal 9 and a custom sub-theme of Barrio Bootstrap 4 base theme. The company logo and main menu are on the big top background.  Different web-pages have different titles, but same secondary menu on the different background images. The features include responsive design, Google analytics, Meta tags for improving SEO, HTLM email newsletters, spam-off contact webform, Facebook page plug-in, Awesome Font icons, downloaded PDF directly, and etc.
+It is created and developed by Drupal 9 with a custom sub-theme of Barrio Bootstrap 5 base theme. More regions are added in the sub-theme to make the layouts more flexible. Lots of features: Responsive design, drop-down main menu, custom size slideshow, HTML Email Newsletters, calendar with different color for event catalogs, image gallery, spam-off contact form, etc.
 
 [![Site Home](/images/churchOnTheParkWebsite2.jpg "churchonthepark.org Home")](https://www.churchonthepark.org/cotp/web/)
 
