@@ -20,7 +20,7 @@ permalink: /services/
    </div>
 </div>
 
-<div class="gridlayoutfirst">
+<div class="gridlayoutfourth">
    <div class="containerfixed">
       <div class="row"> 
          <div class="col-md-9 col-lg-9" id="pagelayout11">
@@ -35,8 +35,6 @@ permalink: /services/
       </div>
    </div>
 </div>
-
-<div><p>&nbsp;</p></div>
 
 <div class="gridlayoutsecond">
    <div class="container-fluid">
