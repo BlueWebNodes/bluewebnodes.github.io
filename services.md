@@ -7,10 +7,10 @@ permalink: /services/
 <div class="gridlayoutsecond">
    <div class="containerfixed">
       <div class="row"> 
-         <div class="col-md-3 col-lg-3" id="pagelayout11">
+         <div class="col-md-3 col-lg-3" id="pagelayoutservice11">
             <p><a href="https://www.bluewebnodes.com"><img src="/images/blueWebNodesLogoFullColor.jpg" alt="Blue Web Nodes Logo"></a></p>
          </div>
-         <div class="col-md-9 col-lg-9" id="pagelayout11">
+         <div class="col-md-9 col-lg-9" id="pagelayoutservice11">
             <p>Blue Web Nodes was created in 2013. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
             <p>We provide design, development, and maintenance services of <a href="/drupal-9-8-website-examples/">Drupal 9 &amp; 8 websites</a>, <a href="/wordPress-website-examples/">WordPress websites</a>, <a href="/drupal-7-website-examples/">Drupal 7 websites</a>, and static websites. We offers a full range of <a href="/graphic-design-examples/">graphic design</a> services.</p>
             <p>We will provide technical support of our services.</p>  
