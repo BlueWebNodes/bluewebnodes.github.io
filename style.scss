@@ -414,6 +414,28 @@ footer {
   }
 }
 
+.importanttitle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+.importanttitle span {
+  position: relative;
+  display: inline-block;
+  font-size: 40px;
+  color: #034ea2;
+  text-transform: uppercase;
+  animation: flip 2s infinite;
+  animation-delay: calc(.2s * var(--i))
+}
+@keyframes flip {
+  0%,80% {
+    transform: rotateY(360deg) 
+  }
+}
+
 img[alt="Get Started"] {
   width: 235px;
   height: 201px;
