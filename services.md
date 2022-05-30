@@ -14,7 +14,8 @@ permalink: /services/
             <p>Blue Web Nodes was created in 2013. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
             <p>We provide design, development, and maintenance services of <a href="/drupal-9-8-website-examples/">Drupal 9 &amp; 8 websites</a>, <a href="/wordPress-website-examples/">WordPress websites</a>, <a href="/drupal-7-website-examples/">Drupal 7 websites</a>, and static websites. We offers a full range of <a href="/graphic-design-examples/">graphic design</a> services.</p>
             <p>We will provide technical support of our services.</p>  
-            <p>Locate in Potsdam, St. Lawrence County, NY, USA.</p>  
+            <p>Locate in Potsdam, St. Lawrence County, NY, USA.</p>
+            <p><a href="/files/BlueWebNodesBrochure2022.pdf" target="_blank" class="downloadfile">Blue Web Nodes Brochure</a></p> 
          </div>       
       </div>
    </div>
