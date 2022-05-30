@@ -430,7 +430,7 @@ footer {
   font-size: 32px;
   color: $logoBlue;
   text-transform: uppercase;
-  animation: flip 3s infinite;
+  animation: flip 5s infinite;
   animation-delay: calc(.2s * var(--i))
 }
 @keyframes flip {
@@ -661,6 +661,14 @@ img[alt="New Design 1"] {
 //
 // Services Page
 //
+
+.downloadfile {
+  background-color: #034ea2;
+  border-radius: 5px;
+  padding: 8px 12px;
+  color: #ffffff;
+  font-weight: 700;
+}
 
 img[alt="Blue Web Nodes Logo"] {
   width: 200px;
