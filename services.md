@@ -15,7 +15,7 @@ permalink: /services/
             <p>We provide design, development, and maintenance services of <a href="/drupal-9-8-website-examples/">Drupal 9 &amp; 8 websites</a>, <a href="/wordPress-website-examples/">WordPress websites</a>, <a href="/drupal-7-website-examples/">Drupal 7 websites</a>, and static websites. We offers a full range of <a href="/graphic-design-examples/">graphic design</a> services.</p>
             <p>We will provide technical support of our services.</p>  
             <p>Locate in Potsdam, St. Lawrence County, NY, USA.</p>
-            <p><a href="/files/BlueWebNodesBrochure2022.pdf" target="_blank" class="downloadfile">Blue Web Nodes Brochure</a></p> 
+            <p class="downloadfile"><a href="/files/BlueWebNodesBrochure2022.pdf" target="_blank">Blue Web Nodes Brochure</a></p> 
          </div>       
       </div>
    </div>
@@ -29,7 +29,7 @@ permalink: /services/
             <p>She is a Master of Engineering of Electrical and Computer Engineering in Clarkson University. She has more than ten years of designer experience. She believes "Beauty is in the Details". She loves painting, drawing, and reading.</p>
             <p>Please feel free to contact her by Email <a href="mailto: bluewebnodes@gmail.com">bluewebnodes@gmail.com</a>.</p>
             <p>Thank you!</p>
-            <p><a href="/files/portfolioJenYu2022.pdf" target="_blank" class="downloadfile">Jenny Yu's Portfolio</a></p>  
+            <p class="downloadfile"><a href="/files/portfolioJenYu2022.pdf" target="_blank">Jenny Yu's Portfolio</a></p>  
          </div>       
          <div class="col-md-3 col-lg-3" id="pagelayout11">
             <p><img src="/images/jennyu2022.jpg" alt="Jenny Yu Image"></p>
