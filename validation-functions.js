@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('#contactusForm').bootstrapValidator({
-        //submitButtons: '#postForm',
+        //submitButtons: '#submit-form',
         // To use feedback icons, ensure that you use Bootstrap v3.1.0 or later
         feedbackIcons: {
             valid: 'glyphicon glyphicon-ok',
@@ -65,10 +65,10 @@ $(document).ready(function() {
         var bv = $form.data('bootstrapValidator');
 
         // Use Ajax to submit form data
-        var url = 'https://script.google.com/macros/s/AKfycbxEX1bQj0Ukd3Uyh8lXUy3m-4muw3UMfPzs-T6rFoSW8A34Qv9YyDpd2TRzl5cP9GsN/exec'';
+        var url = 'https://script.google.com/macros/s/AKfycbxEX1bQj0Ukd3Uyh8lXUy3m-4muw3UMfPzs-T6rFoSW8A34Qv9YyDpd2TRzl5cP9GsN/exec';
         var redirectUrl = 'success-page.html';
         // show the loading 
-        $('#postForm').prepend($('<span></span>').addClass('glyphicon glyphicon-refresh glyphicon-refresh-animate'));
+        $('#submit-form').prepend($('<span></span>').addClass('glyphicon glyphicon-refresh glyphicon-refresh-animate'));
         var jqxhr = $.post(url, $form.serialize(), function(data) {
             console.log("Success! Data: " + data.statusText);
             $(location).attr('href',redirectUrl);
