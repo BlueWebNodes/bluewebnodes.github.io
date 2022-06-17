@@ -6,24 +6,7 @@ permalink: /contact/
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
-<script>
-
-var $form = $('form#contactusForm'),
-    url = 'https://script.google.com/macros/s/AKfycbwuSk3CwbbPWy0wk2T3HMfOLIUgpk66y4A2BhypmNxeEPZMx2P9THqA4-Tqyv2U53Vyvg/exec'
-
-$('#submit-form').on('click', function(e) {
-  e.preventDefault();
-  var jqxhr = $.ajax({
-    url: url,
-    method: "GET",
-    dataType: "json",
-    data: $form.serializeObject()
-  }).success(
-    alert("Form Data Submitted :)")
-  );
-})
-
-</script>
+<script src="validation-functions.js"></script>
 
 <div class="contactform">
   <p>We read every message and typically respond within 48 hours if a reply is required.</p>
@@ -33,7 +16,7 @@ $('#submit-form').on('click', function(e) {
   <div class="row">
     <div class="col-lg-2 col-md-12 col-sm-12" id="collgdisplayno"><p>&nbsp;</p></div>
     <div class="col-lg-8 col-md-12 col-sm-12">
-      <form name="Contact Us" id="contactusForm" onSubmit="WriteToFile(this)">
+      <form name="Contact Us" id="contactusForm">
 
        <div class="form-row">
         <div class="form-group col-md-6">
