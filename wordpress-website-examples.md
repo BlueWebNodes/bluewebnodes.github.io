@@ -6,7 +6,10 @@ permalink: /wordPress-website-examples/
 
 <div class="submenuright">
    <p><a href="/drupal-9-8-website-examples/">Drupal 9 &amp; 8 Websites</a><a href="/wordPress-website-examples/">WordPress Websites</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/drupal-7-website-examples/">Drupal 7 Websites</a><span>Static Websites</span></p>
-   <hr width="54%">
+</div>
+
+<div class="submenurighthr">
+   <hr>
 </div>
 
 WordPress is the world’s most popular content management system. 35% of the web uses WordPress, from hobby blogs to the biggest news sites online. We have created many WordPress websites, but most of them are not online anymore.
