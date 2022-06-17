@@ -9,7 +9,7 @@ permalink: /contactUs/
 function SubForm (){
     $.ajax({
         url:'https://script.google.com/macros/s/AKfycbwuSk3CwbbPWy0wk2T3HMfOLIUgpk66y4A2BhypmNxeEPZMx2P9THqA4-Tqyv2U53Vyvg/exec',
-        type:'post',
+        type:'get',
         data:$("#contactusForm").serializeArray(),
         success: function(){
           alert("Form Data Submitted :)")
