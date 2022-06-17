@@ -1,0 +1,83 @@
+---
+layout: page
+title: Contact Us
+permalink: /contactUs/
+---
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script>
+function SubForm (){
+    $.ajax({
+        url:'https://script.google.com/macros/s/AKfycbwuSk3CwbbPWy0wk2T3HMfOLIUgpk66y4A2BhypmNxeEPZMx2P9THqA4-Tqyv2U53Vyvg/exec',
+        type:'get',
+        data:$("#contactusForm").serializeArray(),
+        success: function(){
+          alert("Form Data Submitted :)")
+        },
+        error: function(){
+          alert("There was an error :(")
+        }
+    });
+}
+</script>
+
+<div class="contactform">
+  <p>We read every message and typically respond within 48 hours if a reply is required.</p>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-2 col-md-12 col-sm-12" id="collgdisplayno"><p>&nbsp;</p></div>
+    <div class="col-lg-8 col-md-12 col-sm-12">
+      <form name="Contact Us" id="contactusForm" onSubmit="WriteToFile(this)">
+
+       <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="fname">First Name:</label>
+          <input class="form-control" type="text" id="fname" name="firstname" placeholder="Your first name">
+        </div>
+        <div class="form-group col-md-6">
+          <label for="lname">Last Name:</label>
+          <input class="form-control" type="text" id="lname" name="lastname" placeholder="Your last name">
+        </div>
+       </div>
+ 
+       <div class="form-group">
+        <label for="email">Email:</label>
+        <input class="form-control" type="text" id="email" name="email" placeholder="Your email address">
+       </div>
+
+       <div class="form-group">
+        <label for="phone">Phone Number:</label>
+        <input class="form-control" type="text" id="phone" name="phone" placeholder="xxx-xxx-xxxx">
+       </div>
+
+       <div class="form-group">
+        <label for="business">Business:</label>
+        <input class="form-control" type="text" id="business" name="business" placeholder="Company/Organization name">
+       </div>
+
+       <div class="form-group">
+        <label for="budget">Budget</label>
+        <select class="form-control" id="budget" name="budget">
+         <option value="Not sure">- select -</option>
+         <option value="Less than $100">Less than $100</option>
+         <option value="$100-$1,000">$100-$1,000</option>
+         <option value="$1,000-$2,000">$1,000-$2,000</option>
+         <option value="$2,000-$5,000">$2,000-$5,000</option>
+         <option value="$5,000-$10,000">$5,000-$10,000</option>
+         <option value="$10,000+">$10,000+</option>
+        </select>
+       </div>
+
+       <div class="form-group">
+        <label for="project">Project Details</label>
+        <textarea class="form-control" id="project" name="project" placeholder="Write something.." style="height:200px"></textarea>
+       </div>
+
+      <button  class="btn btn-primary btn-block" type="submit" value="Submit" id="submit-form" onclick="SubForm ()">Submit</button>
+
+    </form>
+    </div>
+  </div>
+</div>
