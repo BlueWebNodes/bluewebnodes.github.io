@@ -4,24 +4,25 @@ title: Contact Us
 permalink: /contact/
 ---
 
-<script
-  src="https://code.jquery.com/jquery-3.4.1.js"
-  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
-  crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
 <script>
-function SubForm (){
-    $.ajax({
-        url:'https://script.google.com/macros/s/AKfycbwuSk3CwbbPWy0wk2T3HMfOLIUgpk66y4A2BhypmNxeEPZMx2P9THqA4-Tqyv2U53Vyvg/exec',
-        type:'get',
-        data:$("#contactusForm").serializeArray(),
-        success: function(){
-          alert("Form Data Submitted :)")
-        },
-        error: function(){
-          alert("There was an error :(")
-        }
-    });
-}
+
+var $form = $('form#contactusForm'),
+    url = 'https://script.google.com/macros/s/AKfycbwuSk3CwbbPWy0wk2T3HMfOLIUgpk66y4A2BhypmNxeEPZMx2P9THqA4-Tqyv2U53Vyvg/exec'
+
+$('#submit-form').on('click', function(e) {
+  e.preventDefault();
+  var jqxhr = $.ajax({
+    url: url,
+    method: "GET",
+    dataType: "json",
+    data: $form.serializeObject()
+  }).success(
+    alert("Form Data Submitted :)")
+  );
+})
+
 </script>
 
 <div class="contactform">
@@ -78,7 +79,7 @@ function SubForm (){
         <textarea class="form-control" id="project" name="project" placeholder="Write something.." style="height:200px"></textarea>
        </div>
 
-      <button  class="btn btn-primary btn-block" type="submit" value="Submit" id="submit-form" onclick="SubForm ()">Submit</button>
+      <button  class="btn btn-primary btn-block" type="submit" value="Submit" id="submit-form">Submit</button>
 
     </form>
     </div>
