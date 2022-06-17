@@ -21,7 +21,7 @@ permalink: /products/
             <p>Drupal 8 is the biggest update in Drupal's history. Creating content is easier. Every built-in theme is responsively designed. Drupal 9 is the latest version.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
-            <h2><a href="//wordPress-website-examples">WordPress Websites</a></h2>
+            <h2><a href="/wordPress-website-examples">WordPress Websites</a></h2>
             <p><a href="https://www.wordpress.org/" target="_blank"><img src="/images/LogoWordPress.png" alt="Logo"></a></p>  
             <p>WordPress is the world’s most popular content management system. 35% of the web uses WordPress, from hobby blogs to the biggest news sites online.</p>
           </div>       
@@ -31,7 +31,7 @@ permalink: /products/
             <p><a href="/drupal-9-8-website-examples">View More Examples</a></p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout22">
-            <p><a href="//wordPress-website-examples">View More Examples</a></p>
+            <p><a href="/wordPress-website-examples">View More Examples</a></p>
          </div>       
       </div>
    </div>
