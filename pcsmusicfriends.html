@@ -18,7 +18,7 @@ function SubForm (){
           alert("Form Data Submitted :)")
         },
         error: function(){
-          alert("Form Data Submitted :)")
+          alert("There was an error :(")
         }
     });
 }
@@ -76,7 +76,7 @@ function SubForm (){
 <div id="formdiv" class="container">
   <div class="row">
     <div class="col-lg-9 col-md-12 col-sm-12">
-      <form  style="background-color: #eeeeee; padding: 16px; margin-bottom: 8px;" name="Register Membership"  id="registerMembershipForm" onSubmit="WriteToFile(this)">
+      <form  style="background-color: #eeeeee; padding: 16px; margin-bottom: 8px;" name="Register Membership"  id="registerMembershipForm">
         <div class="form-row">
           <div class="form-group col-md-6">
             <label for="first_name">First Name:</label>
@@ -145,10 +145,8 @@ function SubForm (){
           <label for="notes">Notes:</label>
           <textarea class="form-control" id="notes" name="notes" placeholder="Comments or questions?" style="height:160px"></textarea>
         </div>
-        <div>
-          <button class="btn btn-primary btn-block" type="submit" value="Submit" id="submit-form" onclick="SubForm ()">Submit</button>
-        </div>
       </form>
+      <button class="btn btn-primary btn-block" type="submit" value="Submit" id="submit-form" onclick="SubForm()">Submit</button>
     </div>
   </div>
 </div>
