@@ -705,6 +705,7 @@ img[alt="Logo"] {
 //
 
 .center-cropped {
+  position: relative;
   margin-top: 20px;
   margin-bottom: 20px;
 	
@@ -713,7 +714,7 @@ img[alt="Logo"] {
     margin-bottom: 16px;
   }
   p {
-    position: relative;
+    position: absolute;
     bottom: 0;
     right: 6px;
   }
