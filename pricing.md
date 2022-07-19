@@ -13,8 +13,8 @@ permalink: /pricing/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Create A Brand New Website</h2>
-            <h6>Non-ecommerce Website with CMS: Starting at $1,499 (Maximum $2,500)<br />
-               Ecommerce Website with CMS: Starting at $2,999 (Maximum $4,000)</h6>  
+            <h5>Non-ecommerce Website with CMS: Starting at $1,499 (Maximum $2,500)</h5>
+            <h5>Ecommerce Website with CMS: Starting at $2,999 (Maximum $4,000)</h5>  
             <p>The website features:</p>
             <ul>
             <li>Homepage</li>
@@ -36,7 +36,15 @@ permalink: /pricing/
             <li>Full ownership of your website</li>
             <li>one on one training (2 hours)</li>
             </ul>
-            <h6>Static Website: Starting at $999, (Maximum $1,500)</h6>
+            <h5>Static Website: Starting at $999, (Maximum $1,500)</h5>
+            <p>The website features:</p>
+            <ul>
+            <li>Homepage</li>
+            <li>About us</li>
+            <li>Services</li>
+            <li>News or Eevents</li>
+            <li>Contact us (Message Board)</li>
+            </ul>
             <p>Additional pages (Web forms are not included): $50/ea</p>
         </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
@@ -53,6 +61,7 @@ permalink: /pricing/
             <li>Fix breaks from updates</li>
             <li>Trouble shooting</li>
             </ul>
+            <p>Website content updating is not included.</p>
             <div class="row">
                <div class="col-md-12 col-lg-12" id="pagelayout12">
                   <h2>Static Website Maintenance</h2>
