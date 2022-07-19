@@ -13,8 +13,8 @@ permalink: /pricing/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Create A Brand New Website</h2>
-            <p>Website with CMS: Starting at $1,499 (Maximum $2,500)<br />
-               Ecommerce Website with CMS: Starting at $2,999 (Maximum $4,000)</p>  
+            <h6>Non-ecommerce Website with CMS: Starting at $1,499 (Maximum $2,500)<br />
+               Ecommerce Website with CMS: Starting at $2,999 (Maximum $4,000)</h6>  
             <p>The website features:</p>
             <ul>
             <li>Homepage</li>
@@ -23,8 +23,8 @@ permalink: /pricing/
             <li>News or Eevents</li>
             <li>Contact us (Message Board)</li>
             <li>On-line ADMIN area</li>
-            <li>Additional pages (Web forms are not included): $50/ea</li>
             </ul>
+            <p>Additional pages (Web forms are not included): $50/ea</p>
             <p>The services include:</p>
             <ul>
             <li>100% custom-made webpage design</li>
@@ -36,8 +36,9 @@ permalink: /pricing/
             <li>Full ownership of your website</li>
             <li>one on one training (2 hours)</li>
             </ul>
-            <p>Static Website: Starting at $999, ($1,500 Down)</p>
-         </div>
+            <h6>Static Website: Starting at $999, (Maximum $1,500)</h6>
+            <p>Additional pages (Web forms are not included): $50/ea</p>
+        </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Website (with CMS) Basic Maintenance</h2>
             <p>Small: $30/mo; or $27/mo, Billed Annually<br />
