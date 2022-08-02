@@ -32,7 +32,7 @@ permalink: /services/
             <p class="downloadfile"><a href="/files/portfolioJenYu.pdf" target="_blank">Jenny Yu's Portfolio</a></p>  
          </div>       
          <div class="col-md-3 col-lg-3" id="pagelayout11">
-            <p><img src="/images/JennyYuJuly2022.jpg" alt="Jenny Yu Image"></p>
+            <p><img src="/images/JennyYuJuly102022.jpg" alt="Jenny Yu Image"></p>
          </div>
       </div>
    </div>
