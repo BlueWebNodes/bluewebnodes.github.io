@@ -87,6 +87,7 @@ function SubForm (){
             <input class="form-control" type="text" id="last_name" name="last_name" placeholder="Last Name" required>
           </div>
         </div>
+        
         <div class="row">
           <div class="col-md-9">
             <label for="address">Address:</label>
@@ -145,6 +146,11 @@ function SubForm (){
           <label for="notes">Notes:</label>
           <textarea class="form-control" id="notes" name="notes" placeholder="Comments or questions?" style="height:160px"></textarea>
         </div>
+        
+       <div class="col-12">
+        <label for="currentdate">Date:</label>
+        <input class="form-control" type="text" id="currentdate" name="currentdate" placeholder="MM/DD/YYYY">
+       </div>
       </form>
       <div class="col-12 text-center">
         <button class="btn btn-primary btn-block" type="submit" value="Submit" id="submit-form" onclick="SubForm()">Submit</button>
