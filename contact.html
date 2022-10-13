@@ -75,6 +75,18 @@ permalink: /contact/
         <label for="project">Project Details</label>
         <textarea class="form-control" id="project" name="project" placeholder="Write something.." style="height:200px"></textarea>
        </div>
+	      
+       <div class="row">
+        <div class="col-md-6">
+          <label for="fname">Current Date:</label>
+          <input class="form-control" type="text" id="currentdate" name="currentdate" placeholder="Today">
+        </div>
+        <div class="col-md-6">
+          <label for="lname">Completion Date:</label>
+          <input class="form-control" type="text" id="completiondate" name="completiondate" placeholder="Expected or no deadline">
+        </div>
+       </div>
+	      
       </form>
       <div class="col-12 text-center">
         <button class="btn btn-primary btn-block" type="submit" value="Submit" id="submit-form" onclick="SubForm()">Submit</button>
