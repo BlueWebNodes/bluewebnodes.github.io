@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drupal 7 Website
+title: Drupal 7 Websites
 permalink: /drupal-7-website-examples/
 ---
 
