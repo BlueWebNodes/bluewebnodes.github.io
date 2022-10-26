@@ -15,6 +15,14 @@ permalink: /wordPress-website-examples/
 WordPress is the world’s most popular content management system. 35% of the web uses WordPress, from hobby blogs to the biggest news sites online. We have created many WordPress websites, but most of them are not online anymore.
 
 <div class="gridlayoutthird">
+    <h2><a href="https://www.w8-time.com" target="_blank">www.w8-time.com</a></h2>
+</div>
+
+The W8 website is for restaurant reservation. Visitors can join the waitlist or purchase the FastPass to get faster. It is an eCommerce website created and developed by WordPress WooCommerce. 
+
+[![Site Home](/images/w8-time.jpg "w8-time.com Home")](https://www.w8-time.com)
+
+<div class="gridlayoutthird">
     <h2><a href="https://www.theaitu.com" target="_blank">www.theaitu.com</a></h2>
 </div>
 
