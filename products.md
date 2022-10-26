@@ -57,8 +57,8 @@ permalink: /products/
    </div>
 </div>
 
-<div class="submenurighthr">
-   <hr>
+<div class="gridlayoutthird">
+    <h2>Tools</h2>
 </div>
 
 <div class="gridlayoutsecond">
