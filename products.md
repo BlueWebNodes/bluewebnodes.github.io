@@ -39,9 +39,11 @@ permalink: /products/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2><a href="/graphic-design-examples">Graphic Design</a></h2>
+            <p>Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. </p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2><a href="/more-website-examples">More Websites</a></h2>
+            <h2><a href="/pcs-music-friends">Static Websites</a></h2>
+            <p>We can build static websites with web-form without a database, and an HTML form will store the submissions on a Google Sheet.</p>
          </div>       
       </div>
       <div class="row" id="colmddisplayno"> 
@@ -49,39 +51,14 @@ permalink: /products/
             <p><a href="/graphic-design-examples">View More Examples</a></p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout21">
-            <p><a href="/more-website-examples">View More Examples</a></p>
+            <p><a href="/pcs-music-friends">View More Examples</a></p>
          </div>       
       </div>
    </div>
 </div>
 
-<div class="gridlayoutsecond">
-   <div class="container-fluid">
-      <div class="row"> 
-         <div class="col-md-3 col-lg-3" id="colmddisplayno">
-            <p>&nbsp;</p>
-         </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2><a href="/pcs-music-friends">Static Websites</a></h2>
-            <p><img src="/images/LogoWebApp.png" alt="Logo"></p>  
-            <p>We can build static websites with web-form without a database, and an HTML form will store the submissions on a Google Sheet.</p>
-         </div>       
-         <div class="col-md-3 col-lg-3" id="colmddisplayno">
-            <p>&nbsp;</p>
-         </div>
-      </div>
-      <div class="row" id="colmddisplayno"> 
-         <div class="col-md-3 col-lg-3" id="pagelayout21">
-            <p>&nbsp;</p>
-         </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout21">
-            <p><a href="/pcs-music-friends">View More Examples</a></p>
-         </div>       
-         <div class="col-md-3 col-lg-3" id="pagelayout21">
-            <p>&nbsp;</p>
-         </div>
-      </div>
-   </div>
+<div class="submenurighthr">
+   <hr>
 </div>
 
 <div class="gridlayoutsecond">
@@ -108,12 +85,11 @@ permalink: /products/
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Graphic Design</h2>
             <p><a href="https://www.adobe.com/" target="_blank"><img src="/images/LogoAdobe.png" alt="Logo"></a></p>  
-            <p>Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. </p>
+            <p>We are experts in Adobe Photoshop, Illustrator, InDesign, and Acrobat Pro. Proficiency in Adobe Dreamweaver, Premiere, and After Effects, etc.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2>Drupal 7 Websites</h2>
-            <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal7.png" alt="Logo"></a></p>  
             <h2>Upgrade your Drupal 7 site ASAP.</h2>
+            <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal7.png" alt="Logo"></a></p>  
             <p>If you have a Drupal 7 website needs maintanence or recreation to Drupal 9, I can help. Drupal community support will no longer be available after November 2021, but there’s a Drupal 7 Extended Support program which will continue to provide security updates for Drupal 7 core and certain contrib modules. We have created many Drupal 7 websites, but most of them are not online anymore.</p>
          </div>       
       </div>
