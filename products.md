@@ -42,7 +42,7 @@ permalink: /products/
             <p>Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. </p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2><a href="/pcs-music-friends">Static Websites</a></h2>
+            <h2>Static Websites</h2>
             <p>We can build static websites with web-form without a database, and an HTML form will store the submissions on a Google Sheet.</p>
          </div>       
       </div>
@@ -57,8 +57,8 @@ permalink: /products/
    </div>
 </div>
 
-<div class="gridlayoutthird">
-    <h2>Tools</h2>
+<div class="submenurighthr">
+   <hr>
 </div>
 
 <div class="gridlayoutsecond">
