@@ -21,9 +21,9 @@ The W8 website is for restaurant reservation. Visitors can join the waitlist or 
 [![Site Home](/images/w8-time.jpg "w8-time.com Home")](https://www.w8-time.com)
 
 <div class="gridlayoutthird">
-    <h2><a href="https://www.shopthearcjslc.org/index.20220321.php" target="_blank">www.shopthearcjslc.org</a></h2>
+    <h2>www.shopthearcjslc.org</h2>
 </div>
 
 The Arc Jefferson - St. Lawrence G.O.A.L. in Canton website is a Drupal 7 eCommerce Website. I created it all by myself, even the draft of policies, and I became an expert on making an eCommerce website as a PCI Compliance for Credit Card Payment Security.
 
-[![Site Home](/images/goalHome.jpg "shopthearcjslc.org Home")](https://www.shopthearcjslc.org/index.20220321.php)
+![Site Home](/images/goalHome.jpg "shopthearcjslc.org Home")
