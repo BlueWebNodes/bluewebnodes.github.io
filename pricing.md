@@ -5,7 +5,7 @@ permalink: /pricing/
 ---
 
 <div class="gridlayoutthird">
-    <h2>Don't Be Afraid to Ask a quote based on your budget!</h2>
+    <h2>Don't Be Afraid to Ask a Quote Based on Your Budget!</h2>
 </div>
 
 <div class="gridlayoutsecond">
