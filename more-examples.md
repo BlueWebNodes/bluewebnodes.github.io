@@ -26,3 +26,5 @@ how to promo a business on Google Business and Google Hotel from this work.
 </div>
 
 Only The Arc Jefferson - St. Lawrence Staff can sign in The Arc Jefferson - St. Lawrence Membership Website. For this website, group users import and login system security are most important. “Rules” module is a must for this website development.
+
+[![Site Home](/images/suggestionboxHome.jpg "thearcjslc.org/suggestionbox Home")](https://www.thearcjslc.org/suggestionbox)
