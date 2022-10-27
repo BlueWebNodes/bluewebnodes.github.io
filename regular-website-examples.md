@@ -5,7 +5,7 @@ permalink: /regular-website-examples/
 ---
 
 <div class="submenuright">
-   <p><a href="/regular-website-examples/">Regular Informational Websites</a><a href="/ecommerce-website-examples/">Ecommerce Websites</a><a href="/graphic-design-examples/">Graphic Design</a><span>Static Websites</span><a href="/more-examples/">More ...</a></p>
+   <p><a href="/regular-website-examples/">Regular Informational Websites</a><a href="/ecommerce-website-examples/">Ecommerce Websites</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/more-examples/">More ...</a></p>
 </div>
 
 <div class="submenurighthr">
