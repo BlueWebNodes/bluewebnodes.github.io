@@ -14,7 +14,7 @@ permalink: /pricing/
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Create A Brand New Website</h2>
             <h5>Non-ecommerce Website with CMS: Starting at $1,499 (Maximum $2,500)</h5>
-            <h5>Ecommerce Website with CMS: Starting at $2,999 (Maximum $4,000)</h5>  
+            <h5>Ecommerce Website with CMS: Starting at $2,999 (Maximum $4,200)</h5>  
             <p>The website features:</p>
             <ul>
             <li>Homepage</li>
