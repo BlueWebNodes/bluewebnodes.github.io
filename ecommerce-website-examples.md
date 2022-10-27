@@ -5,7 +5,7 @@ permalink: /ecommerce-website-examples/
 ---
 
 <div class="submenuright">
-   <p><a href="/regular-website-examples/">Regular Informational Websites</a><a href="/ecommerce-website-examples/">Ecommerce Websites</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/more-website-examples/">More Websites</a><span>Static Websites</span></p>
+   <p><a href="/regular-website-examples/">Regular Informational Websites</a><a href="/ecommerce-website-examples/">Ecommerce Websites</a><a href="/graphic-design-examples/">Graphic Design</a><span>Static Websites</span><a href="/more-examples/">More ...</a></p>
 </div>
 
 <div class="submenurighthr">
@@ -16,7 +16,7 @@ permalink: /ecommerce-website-examples/
     <h2><a href="https://www.w8-time.com" target="_blank">www.w8-time.com</a></h2>
 </div>
 
-The W8 website is for restaurant reservation. Visitors can join the waitlist or purchase the FastPass to get faster. It is an eCommerce website created and developed by WordPress WooCommerce. 
+The W8 website is an eCommerce website for restaurant reservations built with WordPress and WooCommerce. The customers visit the restaurant waitlist page by scanning the QR code. They can fill out the form to join the regular waitlist or purchase a FastPass to go faster. The features include QR code, webforms, front-end table, shipping cart, credit card payment gateway, SMS and Email notifications, etc.
 
 [![Site Home](/images/w8-time.jpg "w8-time.com Home")](https://www.w8-time.com)
 
