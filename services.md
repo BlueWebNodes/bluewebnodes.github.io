@@ -43,7 +43,6 @@ permalink: /services/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Website Design</h2>
-            <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Qikp08PPBf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
             <p>Beautiful, professional website is a great on-line advertisement of your business. 24 hours a day, 7 days a week works for you! We will create and even manage it for you.</p>  
             <p>After following steps, your website will be on-line easily:</p>
             <ol>
