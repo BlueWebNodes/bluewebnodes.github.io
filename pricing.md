@@ -49,9 +49,9 @@ permalink: /pricing/
         </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Website (with CMS) Basic Maintenance</h2>
-            <p>Small: $30/mo; or $27/mo, Billed Annually<br />
-               Medium: $40/mo; or $36/mo, Billed Annually<br />
-               Large: $50/mo; or $45/mo, Billed Annually</p>  
+            <p>Small: $35/mo; or $32/mo, Billed Annually<br />
+               Medium: $45/mo; or $42/mo, Billed Annually<br />
+               Large: $55/mo; or $52/mo, Billed Annually</p>  
             <p>The services include:</p>
             <ul>
             <li>System Updates</li>
