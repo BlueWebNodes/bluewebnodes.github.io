@@ -21,7 +21,7 @@ permalink: /graphic-design-examples/
       <div class="row"> 
          <div class="col-md-3 col-lg-3">
             <div class="center-cropped col-lg-12" id="graphicdesign11">
-               <p><a href="/images/ChristmasCardBlueWebNodes.jpg" target="_blank">Full Version</a></p>
+               <p><a href="/images/rabbitYear2023.jpg" target="_blank">Full Version</a></p>
             </div>    
          </div>
          <div class="col-md-3 col-lg-3">
@@ -36,7 +36,7 @@ permalink: /graphic-design-examples/
          </div>
          <div class="col-md-3 col-lg-3">
             <div class="center-cropped col-lg-12" id="graphicdesign14">
-               <p><a href="/images/happyNewYear2021E.png" target="_blank">Full Version</a></p>     
+               <p><a href="/images/ChristmasCardBlueWebNodes.jpg" target="_blank">Full Version</a></p>     
             </div>
          </div>
       </div>
