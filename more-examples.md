@@ -13,15 +13,6 @@ permalink: /more-examples/
 </div>
 
 <div class="gridlayoutthird">
-    <h2><a href="http://www.lodgeatdodgepond.org" target="_blank">www.lodgeatdodgepond.org</a></h2>
-</div>
-
-Lodge at Dodge Pond Hotel Website. There are responsive Google Map and Landscape Gallery on the website. I learned
-how to promo a business on Google Business and Google Hotel from this work.
-
-[![Site Home](/images/ladpHome2.jpg "lodgeatdodgepond.org Home")](http://www.lodgeatdodgepond.org)
-
-<div class="gridlayoutthird">
     <h2><a href="https://www.thearcjslc.org/suggestionbox" target="_blank">www.thearcjslc.org/suggestionbox</a></h2>
 </div>
 
