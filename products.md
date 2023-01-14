@@ -84,12 +84,12 @@ permalink: /products/
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Wix.com Websites</h2>
             <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo"></a></p>  
-            <p>One of the Best Website Editor</p>
+            <p>Wix.com is one of the Best Website Editor. Many website themes and extra advanced options can be added on to change the details.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Weebly.com Websites</h2>
             <p><a href="https://www.weebly.com/" target="_blank"><img src="/images/LogoWeebly.jpg" alt="Logo"></a></p>  
-            <p>One of the Best Website Editor</p>
+            <p>Weebly.com is one of the Best Website Editor. Plenty of website themes. Easily to be handled. Weebly offers a very user-friendly interface to integrate with Square.</p>
          </div>       
       </div>
    </div>
