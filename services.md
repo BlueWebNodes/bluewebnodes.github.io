@@ -25,7 +25,7 @@ permalink: /services/
    <div class="containerfixed">
       <div class="row"> 
          <div class="col-md-9 col-lg-9" id="pagelayout11">
-            <p>Jenny Yu, a Web Graphic Designer works at Blue Web Nodes.</p>
+            <p>Jenny Yu, a Graphic Web Designer works at Blue Web Nodes.</p>
             <p>She is a Master of Engineering of Electrical and Computer Engineering in Clarkson University. She has more than ten years of designer experience. She believes "Beauty is in the Details". She loves painting, drawing, and reading.</p>
             <p>Please feel free to contact her by Email <a href="mailto: bluewebnodes@gmail.com">bluewebnodes@gmail.com</a>.</p>
             <p>Thank you!</p>
