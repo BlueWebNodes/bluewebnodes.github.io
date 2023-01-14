@@ -65,10 +65,9 @@ permalink: /products/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2>Drupal 9 &amp; 8 Websites</h2>
+            <h2>Drupal 9 Websites</h2>
             <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal9.png" alt="Logo"></a></p>  
             <p>Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility and modularity. Drupal powers 2.3% of all websites and has a 4.6% share of the content management system market.</p>
-            <p>Drupal 8 is the biggest update in Drupal's history. All Drupal 8 websites I built were updated to Drupal 9. Drupal 9 is the latest version.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>WordPress Websites</h2>
@@ -83,11 +82,28 @@ permalink: /products/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
+            <h2>Wix.com Websites</h2>
+            <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo"></a></p>  
+            <p>One of the Best Website Editor</p>
+         </div>
+         <div class="col-md-6 col-lg-6" id="pagelayout11">
+            <h2>Weebly.com Websites</h2>
+            <p><a href="https://www.weebly.com/" target="_blank"><img src="/images/LogoWeebly.jpg" alt="Logo"></a></p>  
+            <p>One of the Best Website Editor</p>
+         </div>       
+      </div>
+   </div>
+</div>
+
+<div class="gridlayoutsecond">
+   <div class="container-fluid">
+      <div class="row"> 
+         <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Graphic Design</h2>
             <p><a href="https://www.adobe.com/" target="_blank"><img src="/images/LogoAdobe.png" alt="Logo"></a></p>  
             <p>We are experts in Adobe Photoshop, Illustrator, InDesign, and Acrobat Pro. Proficiency in Adobe Dreamweaver, Premiere, and After Effects, etc.</p>
          </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout11">
+         <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Upgrade your Drupal 7 site ASAP.</h2>
             <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal7.png" alt="Logo"></a></p>  
             <p>If you have a Drupal 7 website needs maintanence or recreation to Drupal 9, I can help. Drupal community support will no longer be available after November 2021, but there’s a Drupal 7 Extended Support program which will continue to provide security updates for Drupal 7 core and certain contrib modules. We have created many Drupal 7 websites, but most of them are not online anymore.</p>
