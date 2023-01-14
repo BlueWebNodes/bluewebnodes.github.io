@@ -43,8 +43,8 @@ permalink: /services/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Website Design</h2>
-            <p>Beautiful, professional website is a great on-line advertisement of your business. 24 hours a day, 7 days a week works for you! We will create and even manage it for you.</p>  
-            <p>After following steps, your website will be on-line easily:</p>
+            <p>A beautiful, professional website is a tremendous online advertisement for your business. 24 hours a day, 7 days a week, works for you! We will create and even manage it for you.</p>  
+            <p>After following steps, your website will be online easily:</p>
             <ol>
             <li>Pre-design meeting</li>
             <li>Site information</li>
@@ -59,11 +59,11 @@ permalink: /services/
             </ol>
             <p>We create the following Websites:</p>
             <ul>
-            <li>Websites with CMS (Drupal or WordPress)</li>
-            <li>Ecommerce Websites with CMS (Drupal or WordPress)</li>
+            <li>Websites with CMS (Drupal or WordPress), or any website editor (Weebly.com, Wix.com, etc.)</li>
+            <li>Ecommerce Websites with CMS (Drupal or WordPress), or any website editor (Weebly.com, Wix.com, etc.)</li>
             <li>Static Websites (HTML, CSS, and Javascript)</li>
             </ul>
-            <p>If you already have a website and need to improve it with more functionalities, we would like to help you to convert it by DruPal or WordPress CMS. Please feel free to ask a price for that.</p>
+            <p>If you already have a website and need to improve it with more functionalities, We would like to help you convert it to a more powerful Content Management System such as DruPal or WordPress. Please feel free to ask a price for that.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Web Development</h2>
