@@ -25,6 +25,6 @@ The W8 website is an eCommerce website for restaurant reservations built with Wo
     <p>(The online store paused because of a shortage of workers.)</p>
 </div>
 
-The Arc Jefferson - St. Lawrence G.O.A.L. in Canton website is a Drupal 7 eCommerce Website. I created it all by myself, even the draft of policies, and I became an expert on making an eCommerce website as a PCI Compliance for Credit Card Payment Security.
+The Arc Jefferson - St. Lawrence G.O.A.L. in Canton website is a Drupal eCommerce Website. I created it all by myself, even the draft of policies, and I became an expert on making an eCommerce website as a PCI Compliance for Credit Card Payment Security.
 
 ![Site Home](/images/goalHome.jpg "shopthearcjslc.org Home")
