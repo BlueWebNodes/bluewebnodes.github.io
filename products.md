@@ -65,7 +65,7 @@ permalink: /products/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2>Drupal 9 Websites</h2>
+            <h2>Drupal Websites</h2>
             <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal9.png" alt="Logo"></a></p>  
             <p>Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility and modularity. Drupal powers 2.3% of all websites and has a 4.6% share of the content management system market.</p>
          </div>
@@ -104,9 +104,14 @@ permalink: /products/
             <p>We are experts in Adobe Photoshop, Illustrator, InDesign, and Acrobat Pro. Proficiency in Adobe Dreamweaver, Premiere, and After Effects, etc.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
-            <h2>Upgrade your Drupal 7 site ASAP.</h2>
-            <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal7.png" alt="Logo"></a></p>  
-            <p>If you have a Drupal 7 website needs maintanence or recreation to Drupal 9, I can help. Drupal community support will no longer be available after November 2021, but there’s a Drupal 7 Extended Support program which will continue to provide security updates for Drupal 7 core and certain contrib modules. We have created many Drupal 7 websites, but most of them are not online anymore.</p>
+            <h2>Web Hosting Provider</h2>
+            <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo"></a></p>  
+            <ul>
+               <li>All-in-one dashboard</li>
+               <li>Fast, reliable performance</li>
+               <li>Free Domain, SSL and CDN</li>
+               <li>24/7 hosting support</li>
+            </ul>
          </div>       
       </div>
    </div>
