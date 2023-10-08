@@ -671,8 +671,13 @@ img[alt="New Design 1"] {
   padding-bottom: 12px;
 }
 
-.downloadfile a {
+.downloadfile {
   display: inline-blox;
+  margin-right: 8px;
+  margin-bottom: 4px;
+}
+
+.downloadfile a {
   background-color: #034ea2;
   border-radius: 5px;
   padding: 8px 12px;
@@ -972,17 +977,23 @@ img[alt="Logo"] {
 }
 
 #logodiv {
-  width: 30%;
+  width: 24%;
   height: auto;
   background: rgba(255,255,255,.8);
   display: inline-block;
   padding: 16px 16px 16px 0px;
   border-radius: 0px 0px 0px 50px;
 
+  @include tablet {
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 0px 0px 0px 25px;
+  }
+
   @include mobile {
     width: 94%;
     padding: 6px 6px 6px 0px;
-    border-radius: 0px 0px 0px 25px;
+    border-radius: 0px 0px 0px 18px;
 	}
 }
 
