@@ -672,17 +672,17 @@ img[alt="New Design 1"] {
 }
 
 .downloadfile {
-  display: inline-block;
+  background-color: #034ea2;
+  display: block;
   margin-right: 8px;
   margin-bottom: 4px;
+  border-radius: 5px;
+  padding: 8px 12px;
+  text-align: center;
 }
 
 .downloadfile a {
-  background-color: #034ea2;
-  border-radius: 5px;
-  padding: 8px 12px;
   color: #ffffff;
-  text-align: center;
   font-weight: 700;
 }
 
@@ -977,22 +977,22 @@ img[alt="Logo"] {
 }
 
 #logodiv {
-  width: 26%;
+  width: 24%;
   height: auto;
   background: rgba(255,255,255,.8);
   display: inline-block;
   padding: 16px 16px 16px 0px;
   border-radius: 0px 0px 0px 50px;
-  text-align: right;
+  text-align: center;
 
-  @media only screen and (max-width: 768px) {
-    width: 50%;
+  @media only screen and (max-width: 900px) {
+    width: 36%;
     padding: 10px 10px 10px 10px;
     border-radius: 0px 0px 0px 25px;
   }
 
   @include mobile {
-    width: 94%;
+    width: 90%;
     padding: 6px 6px 6px 0px;
     border-radius: 0px 0px 0px 18px;
 	}
