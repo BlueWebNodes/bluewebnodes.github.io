@@ -671,17 +671,13 @@ img[alt="New Design 1"] {
   padding-bottom: 12px;
 }
 
-.downloadfile {
+.downloadfile a {
   background-color: #034ea2;
   display: block;
   margin-right: 8px;
   margin-bottom: 4px;
   border-radius: 5px;
   padding: 8px 12px;
-  text-align: center;
-}
-
-.downloadfile a {
   color: #ffffff;
   font-weight: 700;
 }
@@ -986,13 +982,13 @@ img[alt="Logo"] {
   text-align: center;
 
   @media only screen and (max-width: 900px) {
-    width: 36%;
+    width: 30%;
     padding: 10px 10px 10px 10px;
     border-radius: 0px 0px 0px 25px;
   }
 
   @include mobile {
-    width: 90%;
+    width: 80%;
     padding: 6px 6px 6px 0px;
     border-radius: 0px 0px 0px 18px;
 	}
