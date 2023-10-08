@@ -672,10 +672,12 @@ img[alt="New Design 1"] {
 }
 
 .downloadfile a {
+  display: inline-blox;
   background-color: #034ea2;
   border-radius: 5px;
   padding: 8px 12px;
   color: #ffffff;
+  text-align: center;
   font-weight: 700;
 }
 
@@ -970,7 +972,7 @@ img[alt="Logo"] {
 }
 
 #logodiv {
-  width: 24%;
+  width: 30%;
   height: auto;
   background: rgba(255,255,255,.8);
   display: inline-block;
