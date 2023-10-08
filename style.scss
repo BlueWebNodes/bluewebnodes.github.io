@@ -984,7 +984,7 @@ img[alt="Logo"] {
   padding: 16px 16px 16px 0px;
   border-radius: 0px 0px 0px 50px;
 
-  @include tablet {
+  @media only screen and (max-width: 740px) {
     width: 50%;
     padding: 10px 10px 10px 10px;
     border-radius: 0px 0px 0px 25px;
