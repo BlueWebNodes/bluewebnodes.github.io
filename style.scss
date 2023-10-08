@@ -672,7 +672,7 @@ img[alt="New Design 1"] {
 }
 
 .downloadfile {
-  display: inline-blox;
+  display: inline-block;
   margin-right: 8px;
   margin-bottom: 4px;
 }
@@ -977,14 +977,15 @@ img[alt="Logo"] {
 }
 
 #logodiv {
-  width: 24%;
+  width: 26%;
   height: auto;
   background: rgba(255,255,255,.8);
   display: inline-block;
   padding: 16px 16px 16px 0px;
   border-radius: 0px 0px 0px 50px;
+  text-align: right;
 
-  @media only screen and (max-width: 740px) {
+  @media only screen and (max-width: 768px) {
     width: 50%;
     padding: 10px 10px 10px 10px;
     border-radius: 0px 0px 0px 25px;
