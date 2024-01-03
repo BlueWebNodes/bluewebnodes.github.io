@@ -28,8 +28,7 @@ permalink: /services/
             <p>Jenny Yu, a Graphic Web Designer works at Blue Web Nodes.</p>
             <p>She is a Master of Engineering of Electrical and Computer Engineering in Clarkson University. She has more than ten years of designer experience. She believes "Beauty is in the Details." She loves painting, drawing, and reading.</p>
             <p>Please feel free to contact her by Email <a href="mailto:jyu@bluewebnodes.com">jyu@bluewebnodes.com</a>.</p>
-            <p>Thank you!</p>
-            <p class="downloadfile"><a href="/files/portfolioJennyYu.pdf" target="_blank">Jenny Yu's Portfolio</a></p>  
+            <p>Thank you!</p>  
          </div>       
          <div class="col-md-3 col-lg-3" id="pagelayout11">
             <p><img src="/images/jennyu2022.jpg" alt="Jenny Yu Image"></p>
