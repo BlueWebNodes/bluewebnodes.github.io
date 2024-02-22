@@ -43,7 +43,7 @@ permalink: /products/
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Static Websites</h2>
-            <p>We can build static websites with web-form without a database, and an HTML form will store the submissions on a Google Sheet.</p>
+            <p>We can build static websites with contact webform without a database. It is an HTML form that stores the submissions on a Google Sheet. Another fantastic feature is a blog with comments and an automatic index menu.</p>
          </div>       
       </div>
       <div class="row" id="colmddisplayno"> 
@@ -66,7 +66,7 @@ permalink: /products/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Drupal Websites</h2>
-            <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal9.png" alt="Logo"></a></p>  
+            <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal9.png" alt="Logo1"></a></p>  
             <p>Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility and modularity. Drupal powers 2.3% of all websites and has a 4.6% share of the content management system market.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
@@ -83,7 +83,7 @@ permalink: /products/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Wix.com Websites</h2>
-            <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo"></a></p>  
+            <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo3"></a></p>  
             <p>Wix.com is one of the Best Website Editor. Many website themes and extra advanced options can be added on to change the details.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
@@ -105,7 +105,7 @@ permalink: /products/
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Web Hosting Provider</h2>
-            <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo"></a></p>  
+            <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo2"></a></p>  
             <ul>
                <li>All-in-one dashboard</li>
                <li>Fast, reliable performance</li>
