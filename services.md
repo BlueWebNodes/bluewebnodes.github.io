@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-<div class="gridlayoutfirst">
+<div class="gridlayoutsecond">
    <div class="containerfixed">
       <div class="row"> 
          <div class="col-md-3 col-lg-3" id="pagelayoutservice11">
