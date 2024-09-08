@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-<div class="gridlayoutsecond">
+<div class="gridlayoutfirst">
    <div class="containerfixed">
       <div class="row"> 
          <div class="col-md-3 col-lg-3" id="pagelayoutservice11">
@@ -15,20 +15,13 @@ permalink: /services/
             <p>We provide design, development, and maintenance services of <a href="/regular-website-examples/">CMS websites</a>, <a href="/ecommerce-website-examples/">eCommerce CMS websites</a>, and static websites. We offers a full range of <a href="/graphic-design-examples/">graphic design</a> services.</p>
             <p>We will provide technical support of our services.</p>  
             <p>Locate in Potsdam, St. Lawrence County, NY, USA.</p>
+            <p>Please feel free to <a href="/contact/">contact us</a>. Thank you!</p>
             <p class="downloadfile"><a href="/files/BlueWebNodesBrochure.pdf" target="_blank">Blue Web Nodes Brochure</a></p> 
          </div>       
       </div>
    </div>
 </div>
-<div class="gridlayoutfourth">
-   <div class="containerfixed">
-      <div class="row"> 
-         <div class="col-md-12 col-lg-12" id="pagelayout11">
-            <p>Please feel free to <a href="/contact/">contact us</a>. Thank you!</p>
-         </div>       
-      </div>
-   </div>
-</div>
+
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
