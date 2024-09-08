@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ecommerce Websites
+title: Ecommerce CMS Websites
 permalink: /ecommerce-website-examples/
 ---
 

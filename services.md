@@ -12,17 +12,23 @@ permalink: /services/
          </div>
          <div class="col-md-9 col-lg-9" id="pagelayoutservice11">
             <p>Blue Web Nodes was created in 2017. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
-            <p>We provide design, development, and maintenance services of <a href="/regular-website-examples/">CMS informational websites</a>, <a href="/ecommerce-website-examples/">eCommerce websites</a>, and static websites. We offers a full range of <a href="/graphic-design-examples/">graphic design</a> services.</p>
+            <p>We provide design, development, and maintenance services of <a href="/regular-website-examples/">CMS websites</a>, <a href="/ecommerce-website-examples/">eCommerce CMS websites</a>, and static websites. We offers a full range of <a href="/graphic-design-examples/">graphic design</a> services.</p>
             <p>We will provide technical support of our services.</p>  
             <p>Locate in Potsdam, St. Lawrence County, NY, USA.</p>
-            <p>Please feel free to contact us by Email <a href="mailto:jyu@bluewebnodes.com">jyu@bluewebnodes.com</a>.</p>
             <p class="downloadfile"><a href="/files/BlueWebNodesBrochure.pdf" target="_blank">Blue Web Nodes Brochure</a></p> 
-            <p>Thank you!</p>  
          </div>       
       </div>
    </div>
 </div>
-
+<div class="gridlayoutfourth">
+   <div class="containerfixed">
+      <div class="row"> 
+         <div class="col-md-12 col-lg-12" id="pagelayout11">
+            <p>Please feel free to <a href="/contact/">contact us</a>. Thank you!</p>
+         </div>       
+      </div>
+   </div>
+</div>
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
