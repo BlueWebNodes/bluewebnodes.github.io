@@ -12,27 +12,13 @@ permalink: /services/
          </div>
          <div class="col-md-9 col-lg-9" id="pagelayoutservice11">
             <p>Blue Web Nodes was created in 2017. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
-            <p>We provide design, development, and maintenance services of <a href="/regular-website-examples/">regular informational websites</a>, <a href="/ecommerce-website-examples/">eCommerce websites</a>, and static websites. We offers a full range of <a href="/graphic-design-examples/">graphic design</a> services.</p>
+            <p>We provide design, development, and maintenance services of <a href="/regular-website-examples/">CMS informational websites</a>, <a href="/ecommerce-website-examples/">eCommerce websites</a>, and static websites. We offers a full range of <a href="/graphic-design-examples/">graphic design</a> services.</p>
             <p>We will provide technical support of our services.</p>  
             <p>Locate in Potsdam, St. Lawrence County, NY, USA.</p>
+            <p>Please feel free to contact us by Email <a href="mailto:jyu@bluewebnodes.com">jyu@bluewebnodes.com</a>.</p>
             <p class="downloadfile"><a href="/files/BlueWebNodesBrochure.pdf" target="_blank">Blue Web Nodes Brochure</a></p> 
-         </div>       
-      </div>
-   </div>
-</div>
-
-<div class="gridlayoutfourth">
-   <div class="containerfixed">
-      <div class="row"> 
-         <div class="col-md-9 col-lg-9" id="pagelayout11">
-            <p>Jenny Yu, a Graphic Web Designer works at Blue Web Nodes.</p>
-            <p>She is a Master of Engineering of Electrical and Computer Engineering in Clarkson University. She has more than ten years of designer experience. She believes "Beauty is in the Details." She loves painting, drawing, and reading.</p>
-            <p>Please feel free to contact her by Email <a href="mailto:jyu@bluewebnodes.com">jyu@bluewebnodes.com</a>.</p>
             <p>Thank you!</p>  
          </div>       
-         <div class="col-md-3 col-lg-3" id="pagelayout11">
-            <p><img src="/images/jennyu2022.jpg" alt="Jenny Yu Image"></p>
-         </div>
       </div>
    </div>
 </div>
