@@ -2,8 +2,8 @@
 layout: default
 ---
 <div class="highlight">
-   <div class="welcome">
-     <h1>We Create One-of-a-Kind Projects</h1>
+   <div id="welcomeWindow" class="welcome">
+     <h1 id="onekind">We Create One-of-a-Kind Projects</h1>
      <p>Our products include:</p>
      <p><a href="/regular-website-examples/">CMS Websites</a><a href="/ecommerce-website-examples/">Ecommerce CMS Websites</a><br />
      <a href="/graphic-design-examples/">Graphic Design</a><a href="/more-examples/">More ...</a></p>
@@ -91,3 +91,11 @@ layout: default
       </div>
    </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script>
+var targetDiv1 = document.getElementById("onekind"); gsap.from(targetDiv1, {x:-500, duration:5, ease:'elastic',});
+var targetDiv2 = document.getElementById("welcomeWindow"); gsap.to(targetDiv2, {x:800, duration:20, ease:'none', delay:5, repeat:4,});
+</script>
+
