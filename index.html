@@ -32,7 +32,7 @@ layout: default
    </div>
    <img src="/images/poppyFlower.png" alt="Get Started">
    <p><a href="/contact/">Contact us</a> to start a conversation and show you how we can help!</p>
-   <h3>We accept online payments by using Encrypted Website Payments.</h3>
+   <h3 id="promoTrigger">We accept online payments by using Encrypted Website Payments.</h3>
    <p style="font-size: 0.8em;">50% of total estimated fee upon agreement of initial design will be paid first. Remainder of fee payable not more than 14 days after receipt of finished product. You will receive all the origianl files related initial design after full payment.</p>
    <p>&nbsp;</p>
 </div>
@@ -54,7 +54,7 @@ layout: default
          </div>       
          <div class="col-md-12 col-lg-12 col-xl-4">
             <div class="promo3">
-               <h3>Get A Quote</h3>
+               <h3 id="promoItem">Get A Quote</h3>
                <p><a href="/contact/">Contact Us</a></p> 
             </div> 
          </div>
@@ -97,5 +97,6 @@ layout: default
 <script>
 var targetDiv1 = document.getElementById("onekind"); gsap.from(targetDiv1, {x:-500, duration:6, ease:'elastic',});
 var targetDiv2 = document.getElementById("welcomeWindow"); gsap.to(targetDiv2, {x:"40vw", duration:8, ease:'none', repeat:-1, delay:5, yoyo:true,});
+var targetDiv3 = document.getElementById("promoItem"); gsap.fromto(targetDiv3, {scrollTrigger:{trigger: "#promoTrigger",}, rotation: 30, duration:2, ease:'none', repeat:-1, yoyo:true,});
 </script>
 
