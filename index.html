@@ -97,5 +97,6 @@ layout: default
 <script>
 var targetDiv1 = document.getElementById("onekind"); gsap.from(targetDiv1, {x:-500, duration:6, ease:'elastic',});
 var targetDiv2 = document.getElementById("welcomeWindow"); gsap.to(targetDiv2, {x:"50vw", duration:8, ease:'none', repeat:-1, delay:5, yoyo:true,});
+gsap.fromto(".importanttitle", {opacity: 0,}, {opacity: 1, duration:1, ease:'none', delay:12,});
 </script>
 
