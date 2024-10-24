@@ -62,7 +62,7 @@ layout: default
    </div>
 </div>
 
-<div class="gridlayoutfirst">
+<div id="newDesignTrigger" class="gridlayoutfirst">
    <div class="containerfixed">
       <div class="row">         
          <div class="col-xl-6">
@@ -71,7 +71,7 @@ layout: default
             <p>It is an eCommerce website for restaurant reservations built with WordPress and WooCommerce. The customers visit the restaurant waitlist page by scanning the QR code. They can fill out the form to join the regular waitlist or purchase a FastPass to go faster. The features include QR code, webforms, front-end table, shipping cart, credit card payment gateway, SMS and Email notifications, etc.</p>
          </div>
          <div class="col-xl-6">
-            <a href="https://www.w8-time.com"><img src="/images/w8-timeHome1.jpg" alt="New Design 1"></a>
+            <a href="https://www.w8-time.com"><img  id="newdesign1" src="/images/w8-timeHome1.jpg" alt="New Design 1"></a>
          </div>
       </div>
    </div>
@@ -81,7 +81,7 @@ layout: default
    <div class="containerfixed">
       <div class="row">         
          <div class="col-xl-6">
-            <a href="https://churchonthepark.org"><img src="/images/churchOnTheParkWebsite1.jpg" alt="New Design 1"></a>
+            <a href="https://churchonthepark.org"><img id="newdesign2" src="/images/churchOnTheParkWebsite1.jpg" alt="New Design 1"></a>
          </div>
          <div class="col-xl-6">
             <h2>New Design</h2>
@@ -97,8 +97,13 @@ layout: default
 <script>
 var targetDiv1 = document.getElementById("onekind"); gsap.from(targetDiv1, {x:-500, duration:6, ease:'elastic',});
 var targetDiv2 = document.getElementById("welcomeWindow"); gsap.to(targetDiv2, {x:"40vw", duration:8, ease:'none', repeat:1, delay:5, yoyo:true,});
-var targetDiv3 = document.getElementById("promoItem"); 
-var targetDiv4 = document.getElementById("promoTrigger"); 
-gsap.to(targetDiv3, {scrollTrigger:{trigger:targetDiv4,}, rotation: 30, duration:2, ease:'none', repeat:-1, yoyo:true,});
+var targetDiv3 = document.getElementById("promoTrigger"); 
+var targetDiv4 = document.getElementById("promoItem"); 
+gsap.to(targetDiv4, {scrollTrigger:{trigger:targetDiv3,}, rotation: 30, duration:2, ease:'none', repeat:-1, yoyo:true,});
+var targetDiv5 = document.getElementById("newDesignTrigger"); 
+var targetDiv6 = document.getElementById("newdesign1"); 
+gsap.to(targetDiv6, {scrollTrigger:{trigger:targetDiv5,}, y: 30, duration:10, ease:'elastic',});
+var targetDiv7 = document.getElementById("newdesign2"); 
+gsap.to(targetDiv7, {scrollTrigger:{trigger:targetDiv5,}, y: 30, duration:10, ease:'elastic',});
 </script>
 
