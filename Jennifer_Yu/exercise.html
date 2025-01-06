@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <title>2024 Subaru Crosstrek</title>
+</head>
+
+<body>
+
+<div id="headdiv" class="container-fluid jumbotron text-center">
+  <div class="row" id="head1" >
+    <h1>2024 Subaru Crosstrek</h1>
+    <p>in Charlotte, NC</p>
+  </div>
+  <div class="row" id="head2">
+    <div id="reviewdiv">
+      <h2>★ ★ ★ ★ ★</h2>
+      <h3>4.39</h3>
+      <p>(74 Reviews)</p>
+    </div>
+  </div>
+  <div class="row" id="head3">
+    <div id="textdiv" class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-6 col-sm-6 col-xs-6" >
+          <h2>MSRP</h2>
+          <h3>$28,245</h3>
+        </div>
+        <div id="mpgdiv" class="col-lg-12 col-md-6 col-sm-6 col-xs-6">
+          <h2>MPG</h2>
+          <h3>29 | 35</h3>
+          <p>City | Highway</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="highlightdiv" class="container text-center">
+  <div class="row" id="highlight1">
+      <h2><a href="/searchnew.aspx" target="_blank" id="blueButtonCenter">Search Available Inventory</a></h2>
+      <h3>Always room for stories.</h3>
+      <p>The 2024 Subaru Crosstrek is the most powerful, most fun to drive, and safest Crosstrek we’ve ever made, with performance, technology, and design updates throughout.</p>
+  </div>
+</div>
+
+<div id="contentdiv" class="container-fluid">
+  <div class="row" id="content1">
+    <h2>Extra Power, Capability, and Fun</h2>
+    <div class="contenttext1">
+      <p>The 2024 Crosstrek features a newly available 2.5-liter direct-injection SUBARU BOXER engine that delivers more torque and increases output to 182 horsepower – extra power that makes all your trips more exciting and responsive.</p>
+    </div>
+  </div>
+  <div class="row" id="content2">
+    <h2>Sporty Exterior Design</h2>
+    <div class="contenttext2">
+      <p>Crosstrek Sport features unique exterior design elements like its aggressively styled grille and wheel arch moldings, gunmetal finish exterior accents, and exclusive dark gray wheels.</p>
+    </div>
+  </div>
+  <div class="row" id="content3">
+    <h2>Comfortable and Modern Interior</h2>
+    <div class="contenttext1">
+      <p>Inside the Crosstrek Sport, you’ll find a comfortable interior that combines modern style and durable high-tech materials – like its standard, adventure-ready StarTex® water-repellent upholstery with yellow contrast stitching and yellow accent trim.</p>
+    </div>
+  </div>
+  <div class="row" id="content4">
+    <h2>Safe, Convenient, and Entertaining</h2>
+    <div class="contenttext2">
+      <p>The 2024 Crosstrek features STARLINK Multimedia with standard Apple CarPlay® and Android Auto™ integration. Wireless pairing and hands-free smartphone operation allow for safe and easy connection to your favorite apps and content. Access news, navigation, music, podcasts, and more through available cloud-based STARLINK apps and SiriusXM®. An 8-inch touchscreen is available, as well as a built-in and voice-activated navigation system powered by TomTom®.</p>
+    </div>
+  </div>
+</div>
+
+<div id="footerdiv" class="container-fluid text-center">
+  <div class="row" id="footer1">
+    <p>Sales: <a href="tel:15558775434">555-877-5434</a> | Service: <a href="tel:15558775435">555-877-5435</a><br />
+    <a href="/hours.aspx" target="_blank">1326 SE Enterprise, Charlotte, NC 28204</a></p>
+  </div>    
+  <div class="row" id="footer2">
+    <p>
+      © Copyright 2024 Jennifer Yu
+    </p>
+  </div>    
+</div>
+
+<script>
+var targetDiv1 = document.getElementById("blueButtonCenter"); gsap.from(targetDiv1, {x:-500, duration:4, ease:'elastic',});
+var targetDiv1 = document.getElementById("contentdiv"); 
+var targetDiv2 = document.getElementById("content1"); 
+gsap.from(targetDiv2, {scrollTrigger:{trigger:targetDiv1,}, opacity:0, duration:8, delay:0.5});
+var targetDiv1 = document.getElementById("content1"); 
+var targetDiv2 = document.getElementById("content2"); 
+gsap.from(targetDiv2, {scrollTrigger:{trigger:targetDiv1,}, opacity:0, duration:8, delay:1});
+var targetDiv1 = document.getElementById("content2"); 
+var targetDiv2 = document.getElementById("content3"); 
+gsap.from(targetDiv2, {scrollTrigger:{trigger:targetDiv1,}, opacity:0, duration:8, delay:1});
+var targetDiv1 = document.getElementById("content3"); 
+var targetDiv2 = document.getElementById("content4"); 
+gsap.from(targetDiv2, {scrollTrigger:{trigger:targetDiv1,}, opacity:0, duration:8, delay:2});
+</script>
+
+</body>
+</html>
