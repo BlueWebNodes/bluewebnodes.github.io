@@ -1,0 +1,425 @@
+/********************
+FONTS
+********************/
+
+/* Font for brand: font-family: "Michroma", serif; */
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+/* Font for title: font-family: "Helvetica Neue LT W05 55 Roman", sans-serif; */
+@import url(https://db.onlinewebfonts.com/c/fc650de7c3b3af62825a0e743b69425f?family=Helvetica+Neue+LT+W05+55+Roman);
+/* Font for content: font-family: "Roboto", serif; */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@font-face {
+  font-family: Michroma;
+  src: url('../fonts/Michroma/Michroma-Regular.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url('../fonts/Roboto/Roboto-Regular.ttf')  format('truetype');
+}
+
+/********************
+GENERAL
+********************/
+
+html {
+  min-height:101%;
+}
+
+body {
+  font-family: "Roboto", serif;
+  color: #333333;
+  color: rgba(51,51,51,1) !important;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: "Michroma", serif;
+  color: #14478a;
+}
+
+.jumbotron h1 {
+  color: #14478a;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Helvetica Neue LT W05 55 Roman', sans-serif;
+  font-weight: 600;
+}
+
+h2 {
+  color: #14478a;
+}
+
+h3 {
+  color: #14478a;
+}
+
+h4, h5, h6 {
+  color: #000000;
+}
+
+p {
+  font-size: 1.35em;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #a3c7f5;
+}
+
+#blueButtonCenter {
+    color: #ffffff;
+    background-color: #1a73e8;
+    padding: 0.5em 1em 0.5em 1em;
+    display: inline-block;
+    border-radius: 5px;
+    margin-bottom: 0.5em;
+}
+
+strong {
+  font-weight: 600;
+}
+
+@media (max-width: 992px) {
+  h2 {
+    font-size: 1.8em;
+  }
+  p {
+    font-size: 1em;
+  }
+}
+
+/* ARIA example: role="heading" aria-level="x";
+If it's a link: role="button"
+If target="_blank": aria-label="Opens in a new tab" tabindex="0";
+If it's a exteranl link: aria-label="Opens in a new tab" rel="noopener noreferrer" */
+
+/********************
+Heading
+********************/
+
+#headdiv {
+  position: relative;
+  min-height: 700px;
+  background: url(../images/crosstrek6.jpg);
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#head2 {
+  position: absolute;
+  top: 0;
+  height: 60%;
+  width: 18%;
+  background-color:  rgba(0, 0, 0, 0.65);
+  clip-path: polygon(0 0, 100% 0,0 100%);
+}
+
+#reviewdiv {
+  float: left;
+  margin-left: 4%;
+  margin-top: 10px;
+}
+
+@media (min-width: 1600px) {
+  #headdiv {
+    min-height: 860px;
+    background: url(../images/crosstrek6.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #reviewdiv {
+    margin-left: 18%;
+  }
+}
+
+@media (max-width: 1300px) {
+  #head2 {
+    position: relative;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 30px;
+    top: auto;
+    height: auto;
+    width: auto;
+    clip-path: none;
+  }
+  #reviewdiv {
+    margin-left: 6px;
+  }
+}
+
+#head2 h2 {
+  background: -webkit-linear-gradient(0deg, #f7941d 90%, black 10%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#head2 h3 {
+  color: white;
+  font-size: 3.6em;
+  font-weight: 600;
+}
+
+#head2 p {
+  color: white;
+  font-weight: 600;
+}
+
+/* Head 3th Div */
+
+#head3 {
+  position: absolute;
+  bottom: 0;
+  height: 100%;
+  width: 30%;
+  background-color: rgba(0, 0, 0, 0.65);
+  clip-path: polygon(100% 0,100% 100%,0 100%);
+  right: 0;
+  text-align: center;
+}
+
+#head3 h2 {
+  color: #f7941d;
+  font-weight: 600;
+}
+
+#head3 h3 {
+  color: white;
+  font-size: 3.6em;
+  font-weight: 600;
+}
+
+#head3 p {
+  color: white;
+  font-weight: 600;
+}
+
+#textdiv {
+  position: absolute;
+  bottom: 20px;
+  color: white;
+  margin-left: 15%;
+  margin-top: 10px;  
+}
+
+@media (max-width: 1200px) {
+  #head3 {
+    height: 184px;
+    width: 100%;
+    clip-path: none;
+    right: auto;
+  }
+  #textdiv {
+    margin-left: auto;
+  }
+  #mpgdiv p {
+    display: block;
+    float: right;
+    margin-top: -40px;
+  }
+}
+
+@media (max-width: 992px) {
+  #head3 {
+    height: 200px;
+  }
+  .jumbotron .container {
+    width: 100vw;
+}
+  #mpgdiv p {
+    display: inherit;
+    float: none;
+    margin-top: 0px;
+  }
+}
+
+@media (max-width: 576px) {
+  #head3 {
+    height: 200px;
+  }
+  #head3 h2 {
+    font-size: 1.6em;
+  }
+  #head3 h3 {
+    font-size: 2em;
+  }
+}
+
+/********************
+Highlight
+********************/
+
+#highlightdiv {
+  margin-top:30px;
+  margin-bottom:30px;
+}
+
+/********************
+Main Content
+********************/
+
+#content1 {
+  width: 100vw;
+  min-height: 400px;
+  margin-top: 24px;
+  background: url(../images/crosstrek2.jpg);
+  background-position: left center;
+  background-size: 50% auto;
+  background-repeat: no-repeat;
+}
+
+#content1 h2 {
+  margin-left: 55%;
+}
+
+.contenttext1 {
+  width: 72%;
+  height: auto;
+  margin-left: 24%;
+  padding: 24px;
+  background: rgba(237, 237, 237, 0.65);
+}
+
+#content2 {
+  width: 100%;
+  min-height: 400px;
+  margin-top: 24px;
+  background: url(../images/crosstrek2.png);
+  background-position: right center;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+
+#content2 h2 {
+  margin-left: 4%;
+}
+
+.contenttext2 {
+  width: 72%;
+  height: auto;
+  margin-left: 4%;
+  padding: 24px;
+  background: rgba(237, 237, 237, 0.65);
+}
+
+#content3 {
+  width: 100vw;
+  min-height: 400px;
+  margin-top: 24px;
+  background: url(../images/crosstrek5.jpg);
+  background-position: left center;
+  background-size: 50% auto;
+  background-repeat: no-repeat;
+}
+
+#content3 h2 {
+  margin-left: 55%;
+}
+
+#content4 {
+  width: 100vw;
+  min-height: 400px;
+  margin-top: 24px;
+  background: url(../images/crosstrek8.jpg);
+  background-position: right center;
+  background-size: 50% auto;
+  background-repeat: no-repeat;
+}
+
+#content4 h2 {
+  margin-left: 4%;
+}
+
+@media (max-width: 576px) {
+  #content1, #content2, #content3, #content4 {
+    margin-top: 0px;
+    background-position: center center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+  }
+  #content1 h2 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #content2 h2 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #content3 h2 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #content4 h2 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .contenttext1, .contenttext2 {
+    width: 100vw;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+    background: rgba(237, 237, 237, 1);
+  }
+}
+
+@media (max-width: 400px) {
+  #content4 .contenttext2 {
+    margin-top: 100px;
+  }
+}
+
+/********************
+Footer
+********************/
+
+#footer1 {
+  background: rgba(68, 68, 68, 1);
+  padding-top: 24px;
+  padding-bottom: 16px;
+}
+
+#footer1 p {
+  color: white;
+}
+
+#footer1 a {
+  color: #d1e3fa;
+}
+
+#footer1 a:hover {
+  color: #a3c7f5;
+}
+
+#footer2 {
+  background: rgba(34, 34, 34, 1);
+  padding-top: 24px;
+  padding-bottom: 16px;
+}
+
+#footer2 p {
+  color: white;
+}
+
+#footer2 a {
+  color: #d1e3fa;
+}
+
+#footer2 a:hover {
+  color: #a3c7f5;
+}
+
+
