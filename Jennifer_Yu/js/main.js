@@ -1,0 +1,13 @@
+var targetDiv1 = document.getElementById("blueButtonCenter"); gsap.from(targetDiv1, {x:-500, duration:4, ease:'elastic',});
+var targetDiv1 = document.getElementById("contentdiv"); 
+var targetDiv2 = document.getElementById("content1"); 
+gsap.from(targetDiv2, {scrollTrigger:{trigger:targetDiv1,}, opacity:0, duration:8, delay:0.5});
+var targetDiv1 = document.getElementById("content1"); 
+var targetDiv2 = document.getElementById("content2"); 
+gsap.from(targetDiv2, {scrollTrigger:{trigger:targetDiv1,}, opacity:0, duration:8, delay:1});
+var targetDiv1 = document.getElementById("content2"); 
+var targetDiv2 = document.getElementById("content3"); 
+gsap.from(targetDiv2, {scrollTrigger:{trigger:targetDiv1,}, opacity:0, duration:8, delay:1});
+var targetDiv1 = document.getElementById("content3"); 
+var targetDiv2 = document.getElementById("content4"); 
+gsap.from(targetDiv2, {scrollTrigger:{trigger:targetDiv1,}, opacity:0, duration:8, delay:2});

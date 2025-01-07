@@ -85,7 +85,7 @@ strong {
   font-weight: 600;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1020px) {
   h2 {
     font-size: 1.8em;
   }
@@ -140,7 +140,7 @@ Heading
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1360px) {
   #head2 {
     position: relative;
     display: inline-block;
@@ -339,10 +339,16 @@ Main Content
   margin-left: 4%;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1200px) {
+  #content1, #content2, #content3, #content4 {
+    min-height: auto;
+  }
+}
+
+@media (max-width: 795px) {
   #content1, #content2, #content3, #content4 {
     margin-top: 0px;
-    background-position: center center;
+    background-position: center top;
     background-size: 100% auto;
     background-repeat: no-repeat;
   }
@@ -350,34 +356,53 @@ Main Content
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    padding: 6px;
+    max-width: 80%;
+    background-color: rgba(237, 237, 237, 0.65);
   }
   #content2 h2 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    padding: 6px;
+    max-width: 80%;
+    background-color: rgba(237, 237, 237, 0.65);
   }
   #content3 h2 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    padding: 6px;
+    max-width: 80%;
+    background-color: rgba(237, 237, 237, 0.65);
   }
   #content4 h2 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    padding: 6px;
+    max-width: 80%;
+    background-color: rgba(237, 237, 237, 0.65);
   }
   .contenttext1, .contenttext2 {
     width: 100vw;
-    margin-top: 200px;
+    margin-top: 240px;
     margin-left: auto;
     margin-right: auto;
-    padding: 8px;
+    min-height: 100px;
+    padding: 12px;
     background: rgba(237, 237, 237, 1);
   }
 }
 
-@media (max-width: 400px) {
-  #content4 .contenttext2 {
+@media (max-width: 576px) {
+  .contenttext1, .contenttext2 {
+    margin-top: 160px;
+  }
+}
+
+@media (max-width: 470px) {
+  .contenttext1, .contenttext2 {
     margin-top: 100px;
   }
 }
