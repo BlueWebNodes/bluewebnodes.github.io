@@ -39,10 +39,10 @@ permalink: /pricing/
             <h5>Static Website: Starting at $999</h5>
             <p>The website features:</p>
             <ul>
-            <li>Homepage</li>
+            <li>Homepage with main menu</li>
             <li>About us</li>
             <li>Services</li>
-            <li>News or Eevents</li>
+            <li>News or Events</li>
             <li>Contact us (Message Board)</li>
             </ul>
             <p>Additional pages (Web forms are not included): $50/ea</p>
