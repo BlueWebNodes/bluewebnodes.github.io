@@ -17,10 +17,10 @@ permalink: /pricing/
             <h5>Ecommerce Website with CMS: Starting at $2,999</h5>  
             <p>The website features:</p>
             <ul>
-            <li>Homepage</li>
+            <li>Homepage with main menu</li>
             <li>About us</li>
             <li>Services</li>
-            <li>News or Eevents</li>
+            <li>News or Events</li>
             <li>Contact us (Message Board)</li>
             <li>On-line ADMIN area</li>
             </ul>
@@ -56,7 +56,7 @@ permalink: /pricing/
             <ul>
             <li>System Updates</li>
             <li>Plugin Updates</li>
-            <li>Weekly Site Backup</li>
+            <li>Biweekly Site Backup</li>
             <li>Uptime Monitoring</li>
             <li>Fix breaks from updates</li>
             <li>Trouble shooting</li>
