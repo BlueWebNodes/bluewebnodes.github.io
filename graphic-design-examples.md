@@ -16,33 +16,6 @@ permalink: /graphic-design-examples/
     <p>Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. </p>
 </div>
 
-<div class="gridlayoutsecond">
-   <div class="containerfixed2">
-      <div class="row"> 
-         <div class="col-md-3 col-lg-3">
-            <div class="center-cropped col-lg-12" id="graphicdesign11">
-               <p><a href="/images/rabbitYear2023.jpg" target="_blank">Full Version</a></p>
-            </div>    
-         </div>
-         <div class="col-md-3 col-lg-3">
-            <div class="center-cropped col-lg-12" id="graphicdesign12">
-               <p><a href="/images/tigerYearCard2022.jpg" target="_blank">Full Version</a></p>     
-            </div>
-         </div>       
-         <div class="col-md-3 col-lg-3">
-            <div class="center-cropped col-lg-12" id="graphicdesign13">
-               <p><a href="/images/2021cowYear.jpg" target="_blank">Full Version</a></p>     
-            </div>
-         </div>
-         <div class="col-md-3 col-lg-3">
-            <div class="center-cropped col-lg-12" id="graphicdesign14">
-               <p><a href="/images/ChristmasCardBlueWebNodes.jpg" target="_blank">Full Version</a></p>     
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-
 <div class="gridlayoutfirst">
    <div class="containerfixed2">
       <div class="row"> 
@@ -141,6 +114,33 @@ permalink: /graphic-design-examples/
                <p><a href="/images/bridgesBrochure2022-2.jpg" target="_blank">Full Version</a></p>     
             </div>
          </div>       
+      </div>
+   </div>
+</div>
+
+<div class="gridlayoutsecond">
+   <div class="containerfixed2">
+      <div class="row"> 
+         <div class="col-md-3 col-lg-3">
+            <div class="center-cropped col-lg-12" id="graphicdesign11">
+               <p><a href="/images/poppyFlowers.jpg" target="_blank">Full Version</a></p>
+            </div>    
+         </div>
+         <div class="col-md-3 col-lg-3">
+            <div class="center-cropped col-lg-12" id="graphicdesign12">
+               <p><a href="/images/2023NewYear.jpg" target="_blank">Full Version</a></p>     
+            </div>
+         </div>       
+         <div class="col-md-3 col-lg-3">
+            <div class="center-cropped col-lg-12" id="graphicdesign13">
+               <p><a href="/images/logoDFP.jpg" target="_blank">Full Version</a></p>     
+            </div>
+         </div>
+         <div class="col-md-3 col-lg-3">
+            <div class="center-cropped col-lg-12" id="graphicdesign14">
+               <p><a href="/images/ChristmasCardBlueWebNodes.jpg" target="_blank">Full Version</a></p>     
+            </div>
+         </div>
       </div>
    </div>
 </div>

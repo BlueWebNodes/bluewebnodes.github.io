@@ -13,12 +13,20 @@ permalink: /regular-website-examples/
 </div>
 
 <div class="gridlayoutthird">
-    <h2><a href="https://www.churchonthepark.org/cotp/web/" target="_blank">www.churchonthepark.org</a></h2>
+    <h2><a href="https://www.thearcjslc.org/newsite/oneworld/web/" target="_blank">1 word foundation</a></h2>
+</div>
+
+The site is coming soon! It was created and developed on Drupal 10 with a custom sub-theme of the Barrio Bootstrap 5 base theme. More regions are added to the sub-theme to make the layouts more flexible. It has many features: responsive design, fullscreen Slideshow, beautiful and multi-style layouts on the home page, page titles on different background images, paragraph and event titles in a circle, HTML Email Newsletters, calendar with varying colors for event catalogs, spam-off contact form, dropdown main menu, etc.
+
+[![Site Home](/images/oneWorld.jpg "churchonthepark.org Home")](https://www.thearcjslc.org/newsite/oneworld/web/)
+
+<div class="gridlayoutthird">
+    <h2><a href="https://www.churchonthepark.org" target="_blank">www.churchonthepark.org</a></h2>
 </div>
 
 The site is created and developed on Drupal 9 with a custom sub-theme of Barrio Bootstrap 5 base theme. More regions are added in the sub-theme to make the layouts more flexible. Lots of features: Responsive design, drop-down main menu, custom size slideshow, HTML Email Newsletters, calendar with different colors for event catalogs, image gallery, count-down event, spam-off contact form, etc.
 
-[![Site Home](/images/churchOnTheParkWebsite2.jpg "churchonthepark.org Home")](https://www.churchonthepark.org/cotp/web/)
+[![Site Home](/images/churchOnTheParkWebsite2.jpg "churchonthepark.org Home")](https://www.churchonthepark.org)
 
 <div class="gridlayoutthird">
     <h2><a href="https://www.theaitu.com" target="_blank">www.theaitu.com</a></h2>
