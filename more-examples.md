@@ -20,7 +20,7 @@ This attractive, user-friendly page promotes the Subaru Crosstrek. It is for the
 at https://solutions.dealeron.com/design-contractor.html. It is not on any CMS but was coded by hand.
 It was created with HTML, CSS, the Bootstrap 3 framework, and Javascript within a limited time.
 
-[![Site Home](/images/suggestionboxHome.jpg "2024SubaruCrosstrek Home")](https://www.bluewebnodes.com/exercises/subaru/)
+[![Site Home](/images/home2024Subaru.jpg "2024SubaruCrosstrek Home")](https://www.bluewebnodes.com/exercises/subaru/)
 
 <div class="gridlayoutthird">
     <h2><a href="https://www.thearcjslc.org/suggestionbox" target="_blank">www.thearcjslc.org/suggestionbox</a></h2>

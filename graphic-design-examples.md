@@ -13,7 +13,7 @@ permalink: /graphic-design-examples/
 </div>
 
 <div>
-    <p>Graphic Design includes logo, business card, postcard, folder, flyer, poster, booklet, and advertisement design. I would like to help to edit photos or pictures for you too. </p>
+    <p>Graphic Design includes logo, business card, postcard, folder, flyer, poster, booklet, and advertisement design. I would like to help to edit photos and pictures for you too. </p>
 </div>
 
 <div class="gridlayoutfirst">
