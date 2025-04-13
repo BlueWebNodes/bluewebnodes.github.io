@@ -29,12 +29,12 @@ The site is created and developed on Drupal 9 with a custom sub-theme of Barrio 
 [![Site Home](/images/churchOnTheParkWebsite2.jpg "churchonthepark.org Home")](https://www.churchonthepark.org)
 
 <div class="gridlayoutthird">
-    <h2><a href="https://www.theaitu.com" target="_blank">www.theaitu.com</a></h2>
+    <h2><a href="https://theaitu.com" target="_blank">www.theaitu.com</a></h2>
 </div>
 
 The AITU website is for the Association of Independent Technological Universities. I built a WordPress custom theme using Bootstrap 4, PHP, HTML, and CSS. The slideshow was built in the custom theme. News feeds from all the university members.
 
-[![Site Home](/images/theAitu1.jpg "theaitu.com Home")](https://www.theaitu.com)
+[![Site Home](/images/theAitu1.jpg "theaitu.com Home")](https://theaitu.com)
 
 <div class="gridlayoutthird">
     <h2><a href="http://www.slcnypublictransit.com" target="_blank">www.slcnypublictransit.com</a></h2>
