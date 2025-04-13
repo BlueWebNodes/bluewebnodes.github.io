@@ -13,12 +13,12 @@ permalink: /regular-website-examples/
 </div>
 
 <div class="gridlayoutthird">
-    <h2><a href="https://www.thearcjslc.org/newsite/oneworld/web/" target="_blank">1 word foundation</a></h2>
+    <h2><a href="https://www.thearcjslc.org/newsite/oneworld/web/" target="_blank">1 World Foundation</a></h2>
 </div>
 
 The site is coming soon! It was created and developed on Drupal 10 with a custom sub-theme of the Barrio Bootstrap 5 base theme. More regions are added to the sub-theme to make the layouts more flexible. It has many features: responsive design, fullscreen Slideshow, beautiful and multi-style layouts on the home page, page titles on different background images, paragraph and event titles in a circle, HTML Email Newsletters, calendar with varying colors for event catalogs, spam-off contact form, dropdown main menu, etc.
 
-[![Site Home](/images/oneWorld.jpg "1WordFoundation Home")](https://www.thearcjslc.org/newsite/oneworld/web/)
+[![Site Home](/images/oneWorld.jpg "1WorldFoundation Home")](https://www.thearcjslc.org/newsite/oneworld/web/)
 
 <div class="gridlayoutthird">
     <h2><a href="https://www.churchonthepark.org" target="_blank">www.churchonthepark.org</a></h2>

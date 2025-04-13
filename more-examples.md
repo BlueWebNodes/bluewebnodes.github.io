@@ -13,7 +13,7 @@ permalink: /more-examples/
 </div>
 
 <div class="gridlayoutthird">
-    <h2><a href="https://www.bluewebnodes.com/exercises/subaru/" target="_blank">2024 Subaru Crosstrek/a></h2>
+    <h2><a href="https://www.bluewebnodes.com/exercises/subaru/" target="_blank">2024 Subaru Crosstrek</a></h2>
 </div>
 
 This attractive, user-friendly page promotes the Subaru Crosstrek. It is for the web designer assessment
