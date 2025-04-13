@@ -12,7 +12,7 @@ permalink: /graphic-design-examples/
    <hr>
 </div>
 
-<div class="gridlayoutthird">
+<div>
     <p>Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. </p>
 </div>
 
