@@ -25,7 +25,7 @@ permalink: /pricing/
             <li>Contact us page (Contact webform)</li>
             <li>On-line ADMIN area</li>
             </ul>
-            <p>Additional page (Web form is not included): $50/ea</p>
+            <p>Additional page (Web form is not included): $80/ea</p>
             <p>The services include:</p>
             <ul>
             <li>100% custom-made webpage design</li>
@@ -47,7 +47,7 @@ permalink: /pricing/
             <li>Events page with single event template page</li>
             <li>Contact us page (Contact webform)</li>
             </ul>
-            <p>Additional page (Web form is not included): $50/ea</p>
+            <p>Additional page (Web form is not included): $80/ea</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
                   <h2>Website (with CMS) Basic Maintenance</h2>
@@ -72,7 +72,7 @@ permalink: /pricing/
             <div class="row">
                <div class="col-md-12 col-lg-12" id="pagelayout12">
                   <h2>Website Content Updating</h2>
-                  <p>Web page with a new layout design(Web form is not included): $50/ea<br />
+                  <p>Web page with a new layout design(Web form is not included): $80/ea<br />
                   Old web page updating: $25/hour<br />
                   Image editing: $35/hour</p>
                </div>
