@@ -49,7 +49,7 @@ permalink: /pricing/
             </ul>
             <p>Additional page (Web form is not included): $50/ea</p>
          </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout12">
+         <div class="col-md-6 col-lg-6" id="pagelayout11">
                   <h2>Website (with CMS) Basic Maintenance</h2>
                   <p>Small: $35/mo; or $32/mo, Billed Annually<br />
                   Medium: $45/mo; or $41/mo, Billed Annually<br />
@@ -70,21 +70,15 @@ permalink: /pricing/
                   <li>Website new functional development</li>
                   </ul>
             <div class="row">
-               <div class="col-md-12 col-lg-12" id="pagelayout11">
-                  <h2>Static Website Maintenance</h2>
-                  <p>Old web page updating: $25/hour</p>
-               </div>
-            </div>
+               <div class="col-md-12 col-lg-12" id="pagelayout12">
                   <h2>Website Content Updating</h2>
                   <p>Web page with a new layout design(Web form is not included): $50/ea<br />
                   Old web page updating: $25/hour<br />
-                  Images editing: $35/hour</p>
-            <div class="row">
-               <div class="col-md-12 col-lg-12" id="pagelayout11">
-            <h2>Web Development</h2>
-            <p>Website new functional development: $50/hour</p>
-               </div>       
+                  Image editing: $35/hour</p>
+               </div>
             </div>
+            <h2>Web Development</h2>
+            <p>Web new functional development: $50/hour</p>
          </div>       
       </div>
    </div>
