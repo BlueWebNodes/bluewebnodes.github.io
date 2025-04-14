@@ -67,7 +67,7 @@ permalink: /pricing/
                   <ul>
                   <li>Domain registration, web hosting company services, and third-party services</li>
                   <li>Website content updating</li>
-                  <li>Website new functional development</li>
+                  <li>Website development</li>
                   </ul>
             <div class="row">
                <div class="col-md-12 col-lg-12" id="pagelayout12">
@@ -78,7 +78,7 @@ permalink: /pricing/
                </div>
             </div>
             <h2>Web Development</h2>
-            <p>Web new functional development: $50/hour</p>
+            <p>Website new functionality, optimization, etc.: $50/hour</p>
          </div>       
       </div>
    </div>
