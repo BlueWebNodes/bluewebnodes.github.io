@@ -18,13 +18,14 @@ permalink: /pricing/
             <p>The website features:</p>
             <ul>
             <li>Homepage with main menu</li>
-            <li>About us</li>
-            <li>Services</li>
-            <li>News or Events</li>
-            <li>Contact us (Message Board)</li>
+            <li>About us page</li>
+            <li>Services page with one single service template page</li>
+            <li>News page with one single news template page</li>
+            <li>Events page with one single event template page</li>
+            <li>Contact us page (Contact webform)</li>
             <li>On-line ADMIN area</li>
             </ul>
-            <p>Additional pages (Web forms are not included): $50/ea</p>
+            <p>Additional page (Web form is not included): $50/ea</p>
             <p>The services include:</p>
             <ul>
             <li>100% custom-made webpage design</li>
@@ -40,39 +41,48 @@ permalink: /pricing/
             <p>The website features:</p>
             <ul>
             <li>Homepage with main menu</li>
-            <li>About us</li>
-            <li>Services</li>
-            <li>News or Events</li>
-            <li>Contact us (Message Board)</li>
+            <li>About us page</li>
+            <li>Services page with one single service template page</li>
+            <li>News page with one single news template page</li>
+            <li>Events page with one single event template page</li>
+            <li>Contact us page (Contact webform)</li>
+            <li>On-line ADMIN area</li>
             </ul>
-            <p>Additional pages (Web forms are not included): $50/ea</p>
-        </div>
+            <p>Additional page (Web form is not included): $50/ea</p>
+         </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2>Website (with CMS) Basic Maintenance</h2>
-            <p>Small: $35/mo; or $32/mo, Billed Annually<br />
-               Medium: $45/mo; or $41/mo, Billed Annually<br />
-               Large: $55/mo; or $50/mo, Billed Annually</p>  
-            <p>The services include:</p>
-            <ul>
-            <li>System Updates</li>
-            <li>Plugin Updates</li>
-            <li>Biweekly Site Backup</li>
-            <li>Uptime Monitoring</li>
-            <li>Fix breaks from updates</li>
-            <li>Trouble shooting</li>
-            </ul>
-            <p>Website content updating is not included.</p>
             <div class="row">
                <div class="col-md-12 col-lg-12" id="pagelayout12">
-                  <h2>Static Website Maintenance</h2>
-                  <p>Old web pages updating: $25/hour</p>
+                  <h2>Website (with CMS) Basic Maintenance</h2>
+                  <p>Small: $35/mo; or $32/mo, Billed Annually<br />
+                  Medium: $45/mo; or $41/mo, Billed Annually<br />
+                  Large: $55/mo; or $50/mo, Billed Annually</p>
+                  <p>The services include:</p>
+                  <ul>
+                  <li>System Updates</li>
+                  <li>Plugin Updates</li>
+                  <li>Biweekly Site Backup</li>
+                  <li>Uptime Monitoring</li>
+                  <li>Fix breaks from updates</li>
+                  <li>Trouble shooting</li>
+                  </ul>
+                  <p>Domain registration, web hosting company services, and third-party services are not included.</p>
+                  <p>Website content updating is not included.</p>
+                  <p>Website new functional development is not included.</p>
                </div>
             </div>
-            <h2>Website Content Updating</h2>
-            <p>New web pages (Web forms are not included): $50/ea<br />
-               Old web pages updating: $25/hour<br />
-               Images editing: $35/hour<br />
-               Web Development: $50/hour</p>
+            <h2>Static Website Maintenance</h2>
+            <p>Old web page updating: $25/hour</p>
+            <div class="row">
+               <div class="col-md-12 col-lg-12" id="pagelayout12">
+                  <h2>Website Content Updating</h2>
+                  <p>Web page with a new layout design(Web form is not included): $50/ea<br />
+                  Old web page updating: $25/hour<br />
+                  Images editing: $35/hour<br />
+               </div>
+            </div>
+            <h2>Web Development</h2>
+            <p>Website new functional development: $50/hour</p>
          </div>       
       </div>
    </div>
