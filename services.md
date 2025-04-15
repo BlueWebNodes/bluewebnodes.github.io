@@ -63,7 +63,7 @@ permalink: /services/
             <li>Calendar</li>
             <li>HTML Newsletter</li>
             <li>Flip Card Menu</li>
-            <li>PayPal or Square Button</li>
+            <li>PayPal, Venmo and Square Button</li>
             <li>QR Code</li>
             <li>Your Requirements</li>
             </ul>
