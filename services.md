@@ -16,7 +16,6 @@ permalink: /services/
             <p>We will provide technical support of our services.</p>  
             <p>Locate in Potsdam, St. Lawrence County, NY, USA.</p>
             <p>Please feel free to <a href="/contact/">contact us</a>. Thank you!</p>
-            <p class="downloadfile"><a href="/files/BlueWebNodesBrochure.pdf" target="_blank">Blue Web Nodes Brochure</a></p> 
          </div>       
       </div>
    </div>
@@ -64,6 +63,8 @@ permalink: /services/
             <li>Calendar</li>
             <li>HTML Newsletter</li>
             <li>Flip Card Menu</li>
+            <li>PayPal or Square Button</li>
+            <li>QR Code</li>
             <li>Your Requirements</li>
             </ul>
          </div>       
@@ -80,7 +81,7 @@ permalink: /services/
             <ul>
             <li>System Updates</li>
             <li>Plug-in Updates</li>
-            <li>Weekly Site Backup</li>
+            <li>Biweekly Site Backup</li>
             <li>Uptime Monitoring</li>
             <li>Fix breaks from updates</li>
             <li>Trouble shooting</li>
