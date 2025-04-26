@@ -22,9 +22,9 @@ footer-links:
   facebook: bluewebnodes
   flickr:
   github: 
-  instagram:
-  linkedin: bluewebnodes
-  linkchinese: jenblue.github.io
+  instagram:bluewebnodes
+  linkedin: 
+  linkchinese:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: #jekyllrb
