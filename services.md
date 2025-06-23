@@ -43,7 +43,7 @@ permalink: /services/
             <p>We create the following Websites:</p>
             <ul>
             <li>Regular Informational Websites with CMS (WordPress, Drupal, Weebly.com, Wix.com, etc.)</li>
-            <li>Ecommerce Websites with CMS (WordPress, Drupal, Weebly.com, Wix.com, etc.)</li>
+            <li>Ecommerce Websites with CMS (WordPress, Drupal, Shopify.com, Weebly.com, Wix.com, etc.)</li>
             <li>Static Websites (HTML, CSS, and Javascript)</li>
             </ul>
             <p>If you already have a website and need to improve it with more functionalities, We would like to help you convert it to a more powerful Content Management System such as DruPal or WordPress. Please feel free to ask a price for that.</p>

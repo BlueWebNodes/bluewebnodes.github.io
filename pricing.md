@@ -15,7 +15,7 @@ permalink: /pricing/
             <h2>Create A Brand New Website</h2>
             <p>The services include:</p>
             <ul>
-            <li>Set up domain registration and web hosting services, and third-party services</li>
+            <li>Set up domain registration, web hosting services, and third-party services</li>
             <li>100% custom-made webpage design</li>
             <li>Content Management System (CMS) so that you can edit your own content</li>
             <li>The required number of web pages with your content</li>
@@ -50,9 +50,6 @@ permalink: /pricing/
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
                   <h2>Website (with CMS) Basic Maintenance</h2>
-                  <p>Small: $35/mo; or $32/mo, Billed Annually<br />
-                  Medium: $45/mo; or $41/mo, Billed Annually<br />
-                  Large: $55/mo; or $50/mo, Billed Annually</p>
                   <p>The services include:</p>
                   <ul>
                   <li>System Updates</li>
@@ -62,6 +59,9 @@ permalink: /pricing/
                   <li>Fix breaks from updates</li>
                   <li>Trouble shooting</li>
                   </ul>
+                  <p>Small: $35/mo; or $32/mo, Billed Annually<br />
+                  Medium: $45/mo; or $41/mo, Billed Annually<br />
+                  Large: $55/mo; or $50/mo, Billed Annually</p>
                   <p>The services not included:</p>
                   <ul>
                   <li>Domain registration, web hosting company services, and third-party services</li>
