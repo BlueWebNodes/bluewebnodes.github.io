@@ -81,6 +81,23 @@ permalink: /products/
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
+         <div class="col-md-6 col-lg-6" id="pagelayout11">
+            <h2>Graphic Design</h2>
+            <p><a href="https://www.adobe.com/" target="_blank"><img src="/images/LogoAdobe.png" alt="Logo"></a></p>  
+            <p>We are experts in Adobe Photoshop, Illustrator, InDesign, and Acrobat Pro. Proficiency in Adobe Dreamweaver, Premiere, and After Effects, etc.</p>
+         </div>
+         <div class="col-md-6 col-lg-6" id="pagelayout12">
+            <h2>Ecommerce Web Hosting Provider</h2>
+            <p><a href="https://www.shopify.com/" target="_blank"><img src="/images/LogoShopify.png" alt="Logo2"></a></p>  
+            <p>Shopify operates an e-commerce platform for retail point-of-sale systems that offers payments, marketing, shipping, inventory management, transaction management, and customer engagement tools. The company has over 5 million customers and processed $292.3 billion in transactions in 2024, of which 57% was in the United States.</p>
+         </div>       
+      </div>
+   </div>
+</div>
+
+<div class="gridlayoutsecond">
+   <div class="container-fluid">
+      <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Wix.com Websites</h2>
             <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo3"></a></p>  
@@ -99,13 +116,13 @@ permalink: /products/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2>Graphic Design</h2>
-            <p><a href="https://www.adobe.com/" target="_blank"><img src="/images/LogoAdobe.png" alt="Logo"></a></p>  
-            <p>We are experts in Adobe Photoshop, Illustrator, InDesign, and Acrobat Pro. Proficiency in Adobe Dreamweaver, Premiere, and After Effects, etc.</p>
+            <h2>Web Hosting Provider</h2>
+            <p><a href="https://www.greengeeks.com/" target="_blank"><img src="/images/LogoGreenGeeks.png" alt="Logo"></a></p>  
+            <p>GreenGeeks web hosting is fast, secure & eco-friendly. GreenGeeks stands out for its shared hosting, which despite its low starter prices, has enough features and speed for many home and business users.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Web Hosting Provider</h2>
-            <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo2"></a></p>  
+            <p><a href="https://www.bluehost.com/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo2"></a></p>  
             <ul>
                <li>All-in-one dashboard</li>
                <li>Fast, reliable performance</li>
