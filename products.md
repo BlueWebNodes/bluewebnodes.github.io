@@ -99,14 +99,19 @@ permalink: /products/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2>Wix.com Websites</h2>
-            <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo3"></a></p>  
-            <p>Wix.com is one of the Best Website Editor. Many website themes and extra advanced options can be added on to change the details.</p>
+            <h2>Web Hosting Provider</h2>
+            <p><a href="https://www.greengeeks.com/" target="_blank"><img src="/images/LogoGreenGeeks.png" alt="Logo"></a></p>  
+            <p>GreenGeeks web hosting is fast, secure & eco-friendly. GreenGeeks stands out for its shared hosting, which despite its low starter prices, has enough features and speed for many home and business users.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
-            <h2>Weebly.com Websites</h2>
-            <p><a href="https://www.weebly.com/" target="_blank"><img src="/images/LogoWeebly.jpg" alt="Logo"></a></p>  
-            <p>Weebly.com is one of the Best Website Editor. Plenty of website themes. Easily to be handled. Weebly offers a very user-friendly interface to integrate with Square.</p>
+            <h2>Web Hosting Provider</h2>
+            <p><a href="https://www.bluehost.com/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo2"></a></p>  
+            <ul>
+               <li>All-in-one dashboard</li>
+               <li>Fast, reliable performance</li>
+               <li>Free Domain, SSL and CDN</li>
+               <li>24/7 hosting support</li>
+            </ul>
          </div>       
       </div>
    </div>
@@ -116,19 +121,14 @@ permalink: /products/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
-            <h2>Web Hosting Provider</h2>
-            <p><a href="https://www.greengeeks.com/" target="_blank"><img src="/images/LogoGreenGeeks.png" alt="Logo"></a></p>  
-            <p>GreenGeeks web hosting is fast, secure & eco-friendly. GreenGeeks stands out for its shared hosting, which despite its low starter prices, has enough features and speed for many home and business users.</p>
+            <h2>Wix.com Websites</h2>
+            <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo3"></a></p>  
+            <p>Wix.com is one of the Best Website Editor. Many website themes and extra advanced options can be added on to change the details.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2>Web Hosting Provider</h2>
-            <p><a href="https://www.bluehost.com/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo2"></a></p>  
-            <ul>
-               <li>All-in-one dashboard</li>
-               <li>Fast, reliable performance</li>
-               <li>Free Domain, SSL and CDN</li>
-               <li>24/7 hosting support</li>
-            </ul>
+            <h2>Weebly.com Websites</h2>
+            <p><a href="https://www.weebly.com/" target="_blank"><img src="/images/LogoWeebly.jpg" alt="Logo"></a></p>  
+            <p>Weebly.com is one of the Best Website Editor. Plenty of website themes. Easily to be handled. Weebly offers a very user-friendly interface to integrate with Square.</p>
          </div>       
       </div>
    </div>
