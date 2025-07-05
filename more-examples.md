@@ -23,16 +23,16 @@ It was created with HTML, CSS, the Bootstrap 3 framework, and Javascript within 
 [![Site Home](/images/home2024Subaru.jpg "2024SubaruCrosstrek Home")](https://www.bluewebnodes.com/exercises/subaru/)
 
 <div class="gridlayoutthird">
-    <h2><a href="https://www.bluewebnodes.com/pcs-music-friends" target="_blank">PCS Music Friends</a></h2>
-</div>
-
-This static webpage with a webform was created with Jekyll, HTML, CSS, Bootstrap, and Javascript.
-
-<div class="gridlayoutthird">
     <h2><a href="https://www.thearcjslc.org/suggestionbox" target="_blank">www.thearcjslc.org/suggestionbox</a></h2>
 </div>
 
 Only The Arc Jefferson - St. Lawrence Staff can sign in The Arc Jefferson - St. Lawrence Membership Website. For this website, group users import and login system security are most important. “Rules” module is a must for this website development.
 
 [![Site Home](/images/suggestionboxHome.jpg "thearcjslc.org/suggestionbox Home")](https://www.thearcjslc.org/suggestionbox)
+
+<div class="gridlayoutthird">
+    <h2><a href="https://www.bluewebnodes.com/pcs-music-friends" target="_blank">PCS Music Friends</a></h2>
+</div>
+
+This static webpage with a webform was created with Jekyll, HTML, CSS, Bootstrap, and Javascript.
 
