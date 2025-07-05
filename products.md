@@ -98,7 +98,7 @@ permalink: /products/
          </div>
          <div class="col-md-4 col-lg-4" id="pagelayout12">
             <h2>Web Hosting Provider</h2>
-            <p><a href="https://www.bluehost.com/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo2"></a></p>  
+            <p><a href="https://www.bluehost.com/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo1"></a></p>  
             <ul>
                <li>All-in-one dashboard</li>
                <li>Fast, reliable performance</li>
@@ -119,14 +119,14 @@ permalink: /products/
             <p>Wix.com is one of the Best Website Editor. Many website themes and extra advanced options can be added on to change the details.</p>
          </div>
          <div class="col-md-4 col-lg-4" id="pagelayout12">
-            <h2>Weebly.com Websites</h2>
-            <p><a href="https://www.weebly.com/" target="_blank"><img src="/images/LogoWeebly.jpg" alt="Logo3"></a></p>  
-            <p>Weebly.com is one of the Best Website Editor. Plenty of website themes. Easily to be handled. Weebly offers a very user-friendly interface to integrate with Square.</p>
-         </div>       
-         <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>&nbsp;</h2>
             <p>&nbsp;</p>  
             <p>&nbsp;</p>
+         </div>       
+         <div class="col-md-4 col-lg-4" id="pagelayout11">
+            <h2>Weebly.com Websites</h2>
+            <p><a href="https://www.weebly.com/" target="_blank"><img src="/images/LogoWeebly.jpg" alt="Logo3"></a></p>  
+            <p>Weebly.com is one of the Best Website Editor. Plenty of website themes. Easily to be handled. Weebly offers a very user-friendly interface to integrate with Square.</p>
          </div>
       </div>
    </div>
