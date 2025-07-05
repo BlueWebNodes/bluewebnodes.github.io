@@ -5,7 +5,7 @@ permalink: /more-examples/
 ---
 
 <div class="submenuright">
-   <p><a href="/regular-website-examples/">CMS Websites</a><a href="/ecommerce-website-examples/">Ecommerce CMS Websites</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/more-examples/">More ...</a></p>
+   <p><a href="/regular-website-examples/">Websites</a><a href="/ecommerce-website-examples/">Ecommerce Websites</a><a href="/social-media-ads/">Social Media Ads</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/more-examples/">More ...</a></p>
 </div>
 
 <div class="submenurighthr">
@@ -21,6 +21,12 @@ at https://solutions.dealeron.com/design-contractor.html. It is not on any CMS b
 It was created with HTML, CSS, the Bootstrap 3 framework, and Javascript within a limited time.
 
 [![Site Home](/images/home2024Subaru.jpg "2024SubaruCrosstrek Home")](https://www.bluewebnodes.com/exercises/subaru/)
+
+<div class="gridlayoutthird">
+    <h2><a href="https://www.bluewebnodes.com/pcs-music-friends" target="_blank">PCS Music Friends</a></h2>
+</div>
+
+This static webpage with a webform was created with Jekyll, HTML, CSS, Bootstrap, and Javascript.
 
 <div class="gridlayoutthird">
     <h2><a href="https://www.thearcjslc.org/suggestionbox" target="_blank">www.thearcjslc.org/suggestionbox</a></h2>

@@ -4,7 +4,7 @@ title: Products
 permalink: /products/
 ---
 <div class="submenuright">
-   <p><a href="/regular-website-examples/">CMS Websites</a><a href="/ecommerce-website-examples/">Ecommerce CMS Websites</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/more-examples/">More ...</a></p>
+   <p><a href="/regular-website-examples/">Websites</a><a href="/ecommerce-website-examples/">Ecommerce Websites</a><a href="/social-media-ads/">Social Media Ads</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/more-examples/">More ...</a></p>
 </div>
 
 <div class="submenurighthr">
@@ -15,11 +15,11 @@ permalink: /products/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2><a href="/regular-website-examples">CMS Websites</a></h2>
+            <h2><a href="/regular-website-examples">Websites</a></h2>
             <p>Informational websites, as their name suggests, work in providing information. Informational sites are used by people or businesses to display their work and describe their services, whereas actual transactions and service delivery takes place offline. The main purpose of such a website is to allow your target audience to learn more about you and your business.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
-            <h2><a href="/ecommerce-website-examples">Ecommerce CMS Websites</a></h2>
+            <h2><a href="/ecommerce-website-examples">Ecommerce Websites</a></h2>
             <p>An ecommerce website is specifically designed to facilitate commercial or business transactions, and it involves online transfer of information. Ecommerce websites include, but not limit to, auction sites, retail stores, business-to-business services, financial management sites, and music sites.</p>
           </div>       
       </div>
@@ -38,20 +38,20 @@ permalink: /products/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
-            <h2><a href="/graphic-design-examples">Graphic Design</a></h2>
-            <p>Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. </p>
+            <h2><a href="/social-media-ads">Social Media Ads</a></h2>
+            <p>Social media advertising involves promoting content on platforms like Facebook, Instagram, and TikTok to reach specific audiences. This paid form of marketing allows brands to target users based on demographics, interests, and behaviors, delivering tailored ads for maximum impact. </p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2>Static Websites</h2>
-            <p>We can build static websites with contact webform without a database. It is an HTML form that stores the submissions on a Google Sheet. Another fantastic feature is a blog with comments and an automatic index menu.</p>
+            <h2><a href="/graphic-design-examples">Graphic Design</a></h2>
+            <p>Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. </p>
          </div>       
       </div>
       <div class="row" id="colmddisplayno"> 
          <div class="col-md-6 col-lg-6" id="pagelayout22">
-            <p><a href="/graphic-design-examples">View More Examples</a></p>
+            <p><a href="/social-media-ads">View More Examples</a></p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout21">
-            <p><a href="/pcs-music-friends">View More Examples</a></p>
+            <p><a href="/graphic-design-examples">View More Examples</a></p>
          </div>       
       </div>
    </div>
