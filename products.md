@@ -93,7 +93,7 @@ permalink: /products/
          </div>       
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Web Hosting Provider</h2>
-            <p><a href="https://www.greengeeks.com/" target="_blank"><img src="/images/LogoGreenGeeks.png" alt="Logo5"></a></p>  
+            <p><a href="https://www.greengeeks.com/" target="_blank"><img src="/images/LogoGreenGeeks.png" alt="Logo2"></a></p>  
             <p>GreenGeeks web hosting is fast, secure & eco-friendly. GreenGeeks stands out for its shared hosting, which despite its low starter prices, has enough features and speed for many home and business users.</p>
          </div>
          <div class="col-md-4 col-lg-4" id="pagelayout12">
