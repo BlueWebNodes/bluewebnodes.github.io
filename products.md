@@ -64,16 +64,21 @@ permalink: /products/
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
-         <div class="col-md-6 col-lg-6" id="pagelayout11">
+         <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Drupal Websites</h2>
             <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal9.png" alt="Logo1"></a></p>  
             <p>Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility and modularity. Drupal powers 2.3% of all websites and has a 4.6% share of the content management system market.</p>
          </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout12">
+         <div class="col-md-4 col-lg-4" id="pagelayout12">
             <h2>WordPress Websites</h2>
             <p><a href="https://www.wordpress.org/" target="_blank"><img src="/images/LogoWordPress.png" alt="Logo"></a></p>  
             <p>WordPress is the world’s most popular content management system. 35% of the web uses WordPress, from hobby blogs to the biggest news sites online.</p>
           </div>       
+         <div class="col-md-4 col-lg-4" id="pagelayout11">
+            <h2>Graphic Design</h2>
+            <p><a href="https://www.adobe.com/" target="_blank"><img src="/images/LogoAdobe.png" alt="Logo"></a></p>  
+            <p>We are experts in Adobe Photoshop, Illustrator, InDesign, and Acrobat Pro. Proficiency in Adobe Dreamweaver, Premiere, and After Effects, etc.</p>
+         </div>
       </div>
    </div>
 </div>
@@ -82,22 +87,10 @@ permalink: /products/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
-            <h2>Graphic Design</h2>
-            <p><a href="https://www.adobe.com/" target="_blank"><img src="/images/LogoAdobe.png" alt="Logo"></a></p>  
-            <p>We are experts in Adobe Photoshop, Illustrator, InDesign, and Acrobat Pro. Proficiency in Adobe Dreamweaver, Premiere, and After Effects, etc.</p>
-         </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Ecommerce Web Hosting Provider</h2>
             <p><a href="https://www.shopify.com/" target="_blank"><img src="/images/LogoShopify.png" alt="Logo2"></a></p>  
             <p>Shopify operates an e-commerce platform for retail point-of-sale systems that offers payments, marketing, shipping, inventory management, transaction management, and customer engagement tools. The company has over 5 million customers and processed $292.3 billion in transactions in 2024, of which 57% was in the United States.</p>
          </div>       
-      </div>
-   </div>
-</div>
-
-<div class="gridlayoutsecond">
-   <div class="container-fluid">
-      <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Web Hosting Provider</h2>
             <p><a href="https://www.greengeeks.com/" target="_blank"><img src="/images/LogoGreenGeeks.png" alt="Logo"></a></p>  
@@ -120,16 +113,21 @@ permalink: /products/
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
-         <div class="col-md-6 col-lg-6" id="pagelayout12">
+         <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Wix.com Websites</h2>
             <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo3"></a></p>  
             <p>Wix.com is one of the Best Website Editor. Many website themes and extra advanced options can be added on to change the details.</p>
          </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout11">
+         <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Weebly.com Websites</h2>
             <p><a href="https://www.weebly.com/" target="_blank"><img src="/images/LogoWeebly.jpg" alt="Logo"></a></p>  
             <p>Weebly.com is one of the Best Website Editor. Plenty of website themes. Easily to be handled. Weebly offers a very user-friendly interface to integrate with Square.</p>
          </div>       
+         <div class="col-md-6 col-lg-6" id="pagelayout11">
+            <h2>&nbsp;</h2>
+            <p>&nbsp;</p>  
+            <p>&nbsp;</p>
+         </div>
       </div>
    </div>
 </div>
