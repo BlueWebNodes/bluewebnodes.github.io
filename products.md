@@ -125,7 +125,7 @@ permalink: /products/
          </div>       
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Weebly.com Websites</h2>
-            <p><a href="https://www.weebly.com/" target="_blank"><img src="/images/LogoWeebly.jpg" alt="Logo4"></a></p>  
+            <p><a href="https://www.weebly.com/" target="_blank"><img src="/images/LogoWeebly.jpg" alt="Logo3"></a></p>  
             <p>Weebly.com is one of the Best Website Editor. Plenty of website themes. Easily to be handled. Weebly offers a very user-friendly interface to integrate with Square.</p>
          </div>
       </div>
