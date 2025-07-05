@@ -16,12 +16,12 @@ permalink: /social-media-ads/
    <div class="containerfixed2">
       <div class="row"> 
          <div class="col-md-6 col-lg-6">
-            <div class="center-cropped col-lg-12" id="graphicdesign61">
+            <div class="center-cropped col-lg-12" id="socialMedia11">
                <p><a href="/images/adBasketContest.gif" target="_blank">Full Version</a></p>     
             </div>
          </div>
          <div class="col-md-6 col-lg-6">
-            <div class="center-cropped col-lg-12" id="graphicdesign62">
+            <div class="center-cropped col-lg-12" id="socialMedia12">
                <p><a href="/images/adCCWContest.gif" target="_blank">Full Version</a></p>     
             </div>
          </div>       
@@ -33,12 +33,12 @@ permalink: /social-media-ads/
    <div class="containerfixed2">
       <div class="row"> 
          <div class="col-md-6 col-lg-6">
-            <div class="center-cropped col-lg-12" id="graphicdesign61">
+            <div class="center-cropped col-lg-12" id="socialMedia21">
                <p><a href="/images/adSignOnBonus.jpg" target="_blank">Full Version</a></p>     
             </div>
          </div>
          <div class="col-md-6 col-lg-6">
-            <div class="center-cropped col-lg-12" id="graphicdesign62">
+            <div class="center-cropped col-lg-12" id="socialMedia22">
                <p><a href="/images/adApril.jpg" target="_blank">Full Version</a></p>     
             </div>
          </div>       
