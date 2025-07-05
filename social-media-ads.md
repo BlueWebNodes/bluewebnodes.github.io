@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CMS Websites
-permalink: /regular-website-examples/
+title: Social Media Ads
+permalink: /social-media-ads/
 ---
 
 <div class="submenuright">
