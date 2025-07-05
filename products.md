@@ -76,6 +76,7 @@ permalink: /products/
           </div>       
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Graphic Design</h2>
+            <p>&nbsp;</p>  
             <p><a href="https://www.adobe.com/" target="_blank"><img src="/images/LogoAdobe.png" alt="Logo1"></a></p>  
             <p>We are experts in Adobe Photoshop, Illustrator, InDesign, and Acrobat Pro. Proficiency in Adobe Dreamweaver, Premiere, and After Effects, etc.</p>
          </div>
@@ -89,17 +90,19 @@ permalink: /products/
          <div class="col-md-4 col-lg-4" id="pagelayout12">
             <h2>Ecommerce Web Hosting Provider</h2>
             <p><a href="https://www.shopify.com/" target="_blank"><img src="/images/LogoShopify.png" alt="Logo1"></a></p>  
-            <p>Shopify operates an e-commerce platform for retail point-of-sale systems that offers payments, marketing, shipping, inventory management, transaction management, and customer engagement tools. The company has over 5 million customers and processed $292.3 billion in transactions in 2024, of which 57% was in the United States.</p>
+            <p>Shopify operates an e-commerce platform for retail point-of-sale systems that offers payments, marketing, shipping, inventory management, transaction management, and customer engagement tools. The company has over 5 million customers in USA.</p>
          </div>       
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Web Hosting Provider</h2>
-            <p><a href="https://www.greengeeks.com/" target="_blank"><img src="/images/LogoGreenGeeks.png" alt="Logo4"></a></p>  
+            <p><a href="https://www.greengeeks.com/" target="_blank"><img src="/images/LogoGreenGeeks.png" alt="Logo5"></a></p>  
             <p>GreenGeeks web hosting is fast, secure & eco-friendly. GreenGeeks stands out for its shared hosting, which despite its low starter prices, has enough features and speed for many home and business users.</p>
          </div>
          <div class="col-md-4 col-lg-4" id="pagelayout12">
             <h2>Web Hosting Provider</h2>
+            <p>&nbsp;</p>  
             <p><a href="https://www.bluehost.com/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo"></a></p>  
             <ul>
+               <li>&nbsp;</li>
                <li>All-in-one dashboard</li>
                <li>Fast, reliable performance</li>
                <li>Free Domain, SSL and CDN</li>
@@ -115,6 +118,7 @@ permalink: /products/
       <div class="row"> 
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Wix.com Websites</h2>
+            <p>&nbsp;</p>  
             <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo"></a></p>  
             <p>Wix.com is one of the Best Website Editor. Many website themes and extra advanced options can be added on to change the details.</p>
          </div>
