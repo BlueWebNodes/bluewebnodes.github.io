@@ -76,8 +76,7 @@ permalink: /products/
           </div>       
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Graphic Design</h2>
-            <p>&nbsp;</p>  
-            <p><a href="https://www.adobe.com/" target="_blank"><img src="/images/LogoAdobe.png" alt="Logo1"></a></p>  
+            <p style="padding-top:6px;padding-bottom:6px;"><a href="https://www.adobe.com/" target="_blank"><img src="/images/LogoAdobe.png" alt="Logo1"></a></p>  
             <p>We are experts in Adobe Photoshop, Illustrator, InDesign, and Acrobat Pro. Proficiency in Adobe Dreamweaver, Premiere, and After Effects, etc.</p>
          </div>
       </div>
@@ -99,10 +98,8 @@ permalink: /products/
          </div>
          <div class="col-md-4 col-lg-4" id="pagelayout12">
             <h2>Web Hosting Provider</h2>
-            <p>&nbsp;</p>  
-            <p><a href="https://www.bluehost.com/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo"></a></p>  
+            <p style="padding-top:8px;padding-bottom:8px;"><a href="https://www.bluehost.com/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo"></a></p>  
             <ul>
-               <li>&nbsp;</li>
                <li>All-in-one dashboard</li>
                <li>Fast, reliable performance</li>
                <li>Free Domain, SSL and CDN</li>
@@ -118,8 +115,7 @@ permalink: /products/
       <div class="row"> 
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Wix.com Websites</h2>
-            <p>&nbsp;</p>  
-            <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo"></a></p>  
+            <p style="padding-top:6px;padding-bottom:6px;"><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo"></a></p>  
             <p>Wix.com is one of the Best Website Editor. Many website themes and extra advanced options can be added on to change the details.</p>
          </div>
          <div class="col-md-4 col-lg-4" id="pagelayout12">
