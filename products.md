@@ -66,17 +66,17 @@ permalink: /products/
       <div class="row"> 
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Drupal Websites</h2>
-            <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal9.png" alt="Logo1"></a></p>  
+            <p><a href="https://www.drupal.org/" target="_blank"><img src="/images/LogoDrupal9.png" alt="Logo5"></a></p>  
             <p>Drupal is content management software. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. </p>
          </div>
          <div class="col-md-4 col-lg-4" id="pagelayout12">
             <h2>WordPress Websites</h2>
-            <p><a href="https://www.wordpress.org/" target="_blank"><img src="/images/LogoWordPress.png" alt="Logo"></a></p>  
+            <p><a href="https://www.wordpress.org/" target="_blank"><img src="/images/LogoWordPress.png" alt="Logo3"></a></p>  
             <p>WordPress is the world’s most popular content management system. 35% of the web uses WordPress, from hobby blogs to the biggest news sites online.</p>
           </div>       
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Graphic Design</h2>
-            <p><a href="https://www.adobe.com/" target="_blank"><img src="/images/LogoAdobe.png" alt="Logo"></a></p>  
+            <p><a href="https://www.adobe.com/" target="_blank"><img src="/images/LogoAdobe.png" alt="Logo2"></a></p>  
             <p>We are experts in Adobe Photoshop, Illustrator, InDesign, and Acrobat Pro. Proficiency in Adobe Dreamweaver, Premiere, and After Effects, etc.</p>
          </div>
       </div>
@@ -93,7 +93,7 @@ permalink: /products/
          </div>       
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Web Hosting Provider</h2>
-            <p><a href="https://www.greengeeks.com/" target="_blank"><img src="/images/LogoGreenGeeks.png" alt="Logo"></a></p>  
+            <p><a href="https://www.greengeeks.com/" target="_blank"><img src="/images/LogoGreenGeeks.png" alt="Logo4"></a></p>  
             <p>GreenGeeks web hosting is fast, secure & eco-friendly. GreenGeeks stands out for its shared hosting, which despite its low starter prices, has enough features and speed for many home and business users.</p>
          </div>
          <div class="col-md-4 col-lg-4" id="pagelayout12">
@@ -115,12 +115,12 @@ permalink: /products/
       <div class="row"> 
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Wix.com Websites</h2>
-            <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo3"></a></p>  
+            <p><a href="https://www.wix.com/" target="_blank"><img src="/images/LogoWix.png" alt="Logo1"></a></p>  
             <p>Wix.com is one of the Best Website Editor. Many website themes and extra advanced options can be added on to change the details.</p>
          </div>
          <div class="col-md-4 col-lg-4" id="pagelayout12">
             <h2>Weebly.com Websites</h2>
-            <p><a href="https://www.weebly.com/" target="_blank"><img src="/images/LogoWeebly.jpg" alt="Logo"></a></p>  
+            <p><a href="https://www.weebly.com/" target="_blank"><img src="/images/LogoWeebly.jpg" alt="Logo4"></a></p>  
             <p>Weebly.com is one of the Best Website Editor. Plenty of website themes. Easily to be handled. Weebly offers a very user-friendly interface to integrate with Square.</p>
          </div>       
          <div class="col-md-4 col-lg-4" id="pagelayout11">
