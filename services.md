@@ -12,7 +12,7 @@ permalink: /services/
          </div>
          <div class="col-md-9 col-lg-9" id="pagelayoutservice11">
             <p>Blue Web Nodes was created in 2017. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
-            <p>We provide design, development, and maintenance services of <a href="/regular-website-examples/">CMS websites</a>, <a href="/ecommerce-website-examples/">eCommerce CMS websites</a>, and static websites. We offers a full range of <a href="/graphic-design-examples/">graphic design</a> services.</p>
+            <p>We provide design, development, and maintenance services of <a href="/regular-website-examples/">websites</a> and <a href="/ecommerce-website-examples/">eCommerce </a>. We offers <a href="/social-media-ads/">Social Media Ads</a> and the other <a href="/graphic-design-examples/">graphic design</a> services.</p>
             <p>We will provide technical support of our services.</p>  
             <p>Locate in Potsdam, St. Lawrence County, NY, USA.</p>
             <p>Please feel free to <a href="/contact/">contact us</a>. Thank you!</p>
@@ -93,10 +93,10 @@ permalink: /services/
             <p>Beautiful and modern graphic design will improve your business a lot. We usually provide 2-3 versions and 2 reversions to reach what you expect.</p>  
             <p>Our graphic design services include:</p>
             <ul>
-            <li>Logos</li>
+            <li>Advertisements</li>
             <li>Brochures</li>
             <li>Flyers &amp; Posters</li>
-            <li>Advertisements</li>
+            <li>Logos</li>
             <li>Gift Certificate Design</li>
             <li>Business Cards</li>
             <li>Post Cards</li>

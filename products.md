@@ -4,7 +4,7 @@ title: Products
 permalink: /products/
 ---
 <div class="submenuright">
-   <p><a href="/regular-website-examples/">Websites</a><a href="/ecommerce-website-examples/">Ecommerce Websites</a><a href="/social-media-ads/">Social Media Ads</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/more-examples/">More ...</a></p>
+   <p><a href="/regular-website-examples/">Websites</a><a href="/ecommerce-website-examples/">Ecommerce</a><a href="/social-media-ads/">Social Media Ads</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/more-examples/">More ...</a></p>
 </div>
 
 <div class="submenurighthr">
@@ -19,7 +19,7 @@ permalink: /products/
             <p>Informational websites, as their name suggests, work in providing information. Informational sites are used by people or businesses to display their work and describe their services, whereas actual transactions and service delivery takes place offline. The main purpose of such a website is to allow your target audience to learn more about you and your business.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
-            <h2><a href="/ecommerce-website-examples">Ecommerce Websites</a></h2>
+            <h2><a href="/ecommerce-website-examples">Ecommerce</a></h2>
             <p>An ecommerce website is specifically designed to facilitate commercial or business transactions, and it involves online transfer of information. Ecommerce websites include, but not limit to, auction sites, retail stores, business-to-business services, financial management sites, and music sites.</p>
           </div>       
       </div>
