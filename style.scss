@@ -1098,12 +1098,8 @@ img[alt="PCSMF Picture"] {
   height: 400px;
   width: auto;
   display: inline-block;
-  margin-left: 2px;
-  margin-right: 2px;
-
-  @include mobile {
-    height: 300px;
-  }
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #squarepaynowdiv {
