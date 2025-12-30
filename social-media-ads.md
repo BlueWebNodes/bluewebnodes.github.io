@@ -15,6 +15,12 @@ permalink: /social-media-ads/
 <div class="gridlayoutsecond">
    <div class="containerfixed2">
       <div class="row"> 
+         <div class="col-md-12 col-lg-12">
+            <h3>For free download videos: </h3>
+            <p>Put your mouse over the video and click the three dots in the bottom-right corner.<br />(The videos are muted on the webpage.)</p>
+         </div>
+      </div>
+      <div class="row"> 
          <div class="col-md-3 col-lg-3">
             <div class="center-cropped col-lg-12" id="socialMedia11">
                <video controls width="360" muted loop autoplay playsinline>
