@@ -17,12 +17,15 @@ permalink: /social-media-ads/
       <div class="row"> 
          <div class="col-md-3 col-lg-3">
             <div class="center-cropped col-lg-12" id="socialMedia11">
-               <p><a href="/images/adBasketContest.gif" target="_blank">Full Version</a></p>     
+               <video controls width="600" muted loop autoplay playsinline>
+                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/blob/master/images/2026NewYear.mp4" type="video/mp4">
+                     Your browser does not support the video tag.
+               </video>     
             </div>
          </div>
          <div class="col-md-3 col-lg-3">
             <div class="center-cropped col-lg-12" id="socialMedia12">
-               <p><a href="/images/adCCWContest.gif" target="_blank">Full Version</a></p>     
+               <p><a href="/images/adBasketContest.gif" target="_blank">Full Version</a></p>     
             </div>
          </div>       
          <div class="col-md-3 col-lg-3">
