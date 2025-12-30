@@ -935,52 +935,25 @@ img[alt="Logo5"] {
 // Social Media Ads
 //
 
-#socialMedia11 {
-  background: url(../images/adBasketContest.gif);
-  background-position: center center;
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 240px;
+video {
+  width: 360px
+  height: 360px;  
+}
 
-  @media (max-width:992px) {
-    height: 200px;
-  }
+#socialMedia11 {
+  height: 360px;
 }
 
 #socialMedia12 {
-  background: url(../images/adCCWContest.gif);
-  background-position: center center;
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 240px;
-
-  @media (max-width:992px) {
-    height: 200px;
-  }
+  height: 360px;
 }
 
-#socialMedia21 {
-  background: url(../images/adSignOnBonus.jpg);
-  background-position: center center;
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 240px;
-
-  @media (max-width:992px) {
-    height: 200px;
-  }
+#socialMedia13 {
+  height: 360px;
 }
 
-#socialMedia22 {
-  background: url(../images/adApril.jpg);
-  background-position: center center;
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 240px;
-
-  @media (max-width:992px) {
-    height: 200px;
-  }
+#socialMedia14 {
+  height: 360px;
 }
 
 //
