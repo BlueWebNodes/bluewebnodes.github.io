@@ -18,7 +18,7 @@ permalink: /social-media-ads/
          <div class="col-md-3 col-lg-3">
             <div class="center-cropped col-lg-12" id="socialMedia11">
                <video controls width="600" muted loop autoplay playsinline>
-                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/blob/master/images/2026NewYear.mp4" type="video/mp4">
+                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/blob/master/images/newYear2026.mp4" type="video/mp4">
                      Your browser does not support the video tag.
                </video>     
             </div>
