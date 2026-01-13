@@ -24,24 +24,33 @@ permalink: /social-media-ads/
          <div class="col-md-3 col-lg-3">
             <div class="center-cropped col-lg-12" id="socialMedia11">
                <video controls width="360" muted loop autoplay playsinline>
-                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/images/newYear2026.mp4" type="video/mp4">
+                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/Christmas2027Post.mp4" type="video/mp4">
                      Your browser does not support the video tag.
                </video>     
             </div>
          </div>
          <div class="col-md-3 col-lg-3">
             <div class="center-cropped col-lg-12" id="socialMedia12">
-               <p>&nbsp;</p>     
+               <video controls width="360" muted loop autoplay playsinline>
+                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/newYear2026Post.mp4" type="video/mp4">
+                     Your browser does not support the video tag.
+               </video>     
             </div>
          </div>       
          <div class="col-md-3 col-lg-3">
             <div class="center-cropped col-lg-12" id="socialMedia13">
-               <p>&nbsp;</p>     
+               <video controls width="360" muted loop autoplay playsinline>
+                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/halloweenPartyPost.mp4" type="video/mp4">
+                     Your browser does not support the video tag.
+               </video>     
             </div>
          </div>
          <div class="col-md-3 col-lg-3">
             <div class="center-cropped col-lg-12" id="socialMedia14">
-               <p>&nbsp;</p>     
+               <video controls width="360" muted loop autoplay playsinline>
+                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/homeComingPost.mp4" type="video/mp4">
+                     Your browser does not support the video tag.
+               </video>     
             </div>
          </div>       
       </div>
