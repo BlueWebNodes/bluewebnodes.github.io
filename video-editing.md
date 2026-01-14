@@ -17,7 +17,7 @@ permalink: /video-editing/
       <div class="row"> 
          <div class="col-md-6 col-lg-6">
             <div class="center-cropped col-lg-12" id="socialMedia21">
-               <iframe width="1120" height="730" src="https://www.youtube.com/embed/QnTxeQ9pf08?si=9JUyo-QVJNNdFl24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+               <iframe width="896" height="504" src="https://www.youtube.com/embed/QnTxeQ9pf08?si=9JUyo-QVJNNdFl24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
          </div>
          <div class="col-md-6 col-lg-6">
