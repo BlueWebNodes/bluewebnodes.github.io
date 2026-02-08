@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Private Policy
-permalink: /private-policy/
+title: Privacy Policy
+permalink: /privacy-policy/
 ---
 
 <div class="gridlayoutsecond">
