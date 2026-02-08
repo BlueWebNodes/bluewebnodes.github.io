@@ -57,7 +57,10 @@ permalink: /social-media-ads/
       <div class="row"> 
          <div class="col-md-6 col-lg-6">
             <div class="center-cropped col-lg-12" id="socialMedia21">
-               <p>&nbsp;</p> 
+               <video controls width="600" muted loop autoplay playsinline>
+                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/happyHorseYear2026.mp4" type="video/mp4">
+                     Your browser does not support the video tag.
+               </video>     
             </div>
          </div>
          <div class="col-md-6 col-lg-6">
