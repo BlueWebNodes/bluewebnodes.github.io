@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
@@ -46,14 +46,9 @@
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
-        <div class="row">
-          <div class="col-md-6 col-lg-6">
-            <p class="copyrightjl">Copyright © 2019 - 2026 Blue Web Nodes</p>
-          </div>
-          <div class="col-md-6 col-lg-6">
-            <p class="copyrightjl"><a class="policyjl" href="{{ site.baseurl }}/privacy-policy">Privacy Policy</a></p>
-          </div>
-        </div>
+        <p class="copyrightjl"><a class="policyjl" href="{{ site.baseurl }}/privacy-policy">Privacy Policy</a></p>
+        <hr>
+        <p class="copyrightjl">Copyright © 2019 - 2026 Blue Web Nodes</p>
     </div>
     
     {% include analytics.html %}
