@@ -76,7 +76,7 @@ layout: default
             <p>The site is coming soon! It was created and developed on Drupal 10 with a custom sub-theme of the Barrio Bootstrap 5 base theme. More regions are added to the sub-theme to make the layouts more flexible. It has many features: responsive design, fullscreen Slideshow, beautiful and multi-style layouts on the home page, page titles on different background images, paragraph and event titles in a circle, HTML Email Newsletters, calendar with varying colors for event catalogs, spam-off contact form, dropdown main menu, etc.</p>
          </div>
          <div class="col-xl-6">
-            <a href="https://www.thearcjslc.org/newsite/oneworld/web/"><img  id="newdesign1" src="/images/oneWorldHome.jpg" alt="New Design 1"></a>
+            <a href="https://www.thearcjslc.org/newsite/oneworld/web/"><img  id="newdesign1" class="opacity-10" src="/images/oneWorldHome.jpg" alt="New Design 1"></a>
          </div>
       </div>
    </div>
@@ -86,7 +86,7 @@ layout: default
    <div class="containerfixed">
       <div class="row">         
          <div class="col-xl-6">
-            <a href="https://churchonthepark.org"><img id="newdesign2" src="/images/churchOnTheParkWebsite1.jpg" alt="New Design 1"></a>
+            <a href="https://churchonthepark.org"><img id="newdesign2" class="opacity-10" src="/images/churchOnTheParkWebsite1.jpg" alt="New Design 1"></a>
          </div>
          <div class="col-xl-6">
             <h2>New Design</h2>
@@ -107,9 +107,9 @@ var targetDiv4 = document.getElementById("promoItem");
 gsap.to(targetDiv4, {scrollTrigger:{trigger:targetDiv3,}, rotation: 30, duration:2, ease:'none', repeat:-1, yoyo:true,});
 var targetDiv5 = document.getElementById("newDesign1Trigger"); 
 var targetDiv6 = document.getElementById("newdesign1"); 
-gsap.to(targetDiv6, {scrollTrigger:{trigger:targetDiv5,}, opacity:0, duration:16, delay:1});
+gsap.to(targetDiv6, {scrollTrigger:{trigger:targetDiv5,}, opacity:1, duration:6, delay:1});
 var targetDiv7 = document.getElementById("newDesign2Trigger"); 
 var targetDiv8 = document.getElementById("newdesign2"); 
-gsap.to(targetDiv8, {scrollTrigger:{trigger:targetDiv7,}, opacity:0, duration:16, delay:3});
+gsap.to(targetDiv8, {scrollTrigger:{trigger:targetDiv7,}, opacity:1, duration:6, delay:3});
 </script>
 
