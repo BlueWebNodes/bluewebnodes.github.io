@@ -12,6 +12,29 @@ permalink: /social-media-ads/
    <hr>
 </div>
 
+<div class="smAdsBG">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+
 <div class="gridlayoutsecond">
    <div class="containerfixed2">
       <div class="row"> 
