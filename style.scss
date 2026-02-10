@@ -1024,11 +1024,9 @@ img[alt="Logo5"] {
 
 .smAdsBG {
   width: 100vw;
-  height: 100vh;
-  background: #3E1E68;
 }
 
-$particleSize: 20vmin;
+$particleSize: 16vmin;
 $animationDuration: 6s;
 $amount: 20;
 .smAdsBG span {
@@ -1042,9 +1040,9 @@ $amount: 20;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
   $colors: (
-    #583C87,
-    #E45A84,
-    #FFACAC
+    #ccdbec,
+    #9ab8d9,
+    #6794c7
   );
   @for $i from 1 through $amount {
     &:nth-child(#{$i}) {
