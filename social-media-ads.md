@@ -33,7 +33,6 @@ permalink: /social-media-ads/
   <span></span>
   <span></span>
   <span></span>
-</div>
 
 <div class="gridlayoutsecond">
    <div class="containerfixed2">
@@ -93,4 +92,6 @@ permalink: /social-media-ads/
          </div>       
       </div>
    </div>
+</div>
+
 </div>
