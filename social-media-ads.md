@@ -12,34 +12,32 @@ permalink: /social-media-ads/
    <hr>
 </div>
 
-<div class="smAdsBG">
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-
 <div class="gridlayoutsecond">
    <div class="containerfixed2">
-      <div class="row"> 
-         <div class="col-md-12 col-lg-12">
+      <div class="row" > 
+         <div class="col-md-12 col-lg-12 smAdsBG">
             <h3>For free download videos: </h3>
             <p>Put your mouse over the video and click the three dots in the bottom-right corner.<br />(The videos are muted on the webpage.)</p>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
          </div>
       </div>
       <div class="row"> 
@@ -92,6 +90,4 @@ permalink: /social-media-ads/
          </div>       
       </div>
    </div>
-</div>
-
 </div>
