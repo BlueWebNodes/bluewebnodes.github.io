@@ -41,6 +41,22 @@ permalink: /social-media-ads/
          </div>
       </div>
       <div class="row"> 
+         <div class="col-md-6 col-lg-6">
+            <div class="center-cropped col-lg-12" id="socialMedia21">
+               <video controls width="600" muted loop autoplay playsinline>
+                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/happyHorseYear26.mp4" type="video/mp4">
+                     Your browser does not support the video tag.
+               <p>&nbsp;</p>     
+               </video>     
+            </div>
+         </div>
+         <div class="col-md-6 col-lg-6">
+            <div class="center-cropped col-lg-12" id="socialMedia22">
+               <p>&nbsp;</p>     
+            </div>
+         </div>       
+      </div>
+      <div class="row"> 
          <div class="col-md-3 col-lg-3">
             <div class="center-cropped col-lg-12" id="socialMedia11">
                <video controls width="360" muted loop autoplay playsinline>
@@ -71,21 +87,6 @@ permalink: /social-media-ads/
                   <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/homeComingPost.mp4" type="video/mp4">
                      Your browser does not support the video tag.
                </video>     
-            </div>
-         </div>       
-      </div>
-      <div class="row"> 
-         <div class="col-md-6 col-lg-6">
-            <div class="center-cropped col-lg-12" id="socialMedia21">
-               <video controls width="600" muted loop autoplay playsinline>
-                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/happyHorseYear2026.mp4" type="video/mp4">
-                     Your browser does not support the video tag.
-               </video>     
-            </div>
-         </div>
-         <div class="col-md-6 col-lg-6">
-            <div class="center-cropped col-lg-12" id="socialMedia22">
-               <p>&nbsp;</p>     
             </div>
          </div>       
       </div>
