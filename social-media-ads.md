@@ -41,7 +41,7 @@ permalink: /social-media-ads/
          </div>
       </div>
       <div class="row"> 
-         <div class="col-md-6 col-lg-6">
+         <div class="col-md-12 col-lg-12">
             <div class="center-cropped col-lg-12" id="socialMedia21">
                <video controls width="600" muted loop autoplay playsinline>
                   <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/happyHorseYear26.mp4" type="video/mp4">
@@ -49,12 +49,7 @@ permalink: /social-media-ads/
                <p>&nbsp;</p>     
                </video>     
             </div>
-         </div>
-         <div class="col-md-6 col-lg-6">
-            <div class="center-cropped col-lg-12" id="socialMedia22">
-               <p>&nbsp;</p>     
-            </div>
-         </div>       
+         </div>      
       </div>
       <div class="row"> 
          <div class="col-md-3 col-lg-3">
