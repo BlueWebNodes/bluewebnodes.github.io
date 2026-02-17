@@ -1,4 +1,4 @@
-# My GitHub Blog About Web Development, Web Design and Graphic Design
+# My GitHub page About Web Design and Management; Social Media Ads with Motion Graphics.
 
 ## Credits:
 
