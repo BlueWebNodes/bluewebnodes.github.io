@@ -8,7 +8,10 @@ permalink: /services/
    <div class="containerfixed">
       <div class="row"> 
          <div class="col-md-3 col-lg-3" id="pagelayoutservice11">
-            <p><a href="https://www.bluewebnodes.com"><img src="/images/blueWebNodesLogoFullColor.jpg" alt="Blue Web Nodes Logo"></a></p>
+            <video controls width="200" muted loop autoplay playsinline>
+               <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/blueWebNodesLogo.mp4" type="video/mp4">
+                     Your browser does not support the video tag.
+            </video>     
          </div>
          <div class="col-md-9 col-lg-9" id="pagelayoutservice11">
             <p>Blue Web Nodes was created in 2017. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
