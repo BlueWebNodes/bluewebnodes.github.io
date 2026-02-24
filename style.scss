@@ -333,23 +333,25 @@ nav {
 
 .post {
   padding-left:15px;	
-  padding-right:15px;	
-    blockquote {
+  padding-right:15px;
+
+  blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
     font-style: italic;
-}
+  }
 
   h1 {
-    font-size: 32px;
-
-    @include mobile {
-      font-size: 28px;
-      padding-top: 76px;
-    }  
+    background: none;
+    padding-top: 0px;
+    padding-left: 0px;
+    width: auto;
+    height: auto;
+    color: $darkerGray;
+    font-size: 30px;
   }
 
   .comments {
@@ -576,7 +578,6 @@ img[alt="New Design 1"] {
 
 #bloglayout12 {
   padding-top: 20px;
-  padding-right: 30px;
   background-color: $whiteBlue;
 
   h2 {
@@ -599,20 +600,21 @@ img[alt="New Design 1"] {
 #postlayout11 {
   margin-top: -24px;
   padding-top: 0;
-
+  
   h1 {
-  background: url(../images/sitePageTitleBG.jpg);
-  background-position: top right;
-  background-size: cover;
-  margin: 0px 0px 0px 0px;
-  padding-top: 126px;
-  padding-left: 4%;
-  width: 100%;
-  color: $white;
+    background: url(../images/sitePageTitleBG.jpg);
+    background-position: top right;
+    background-size: cover;
+    line-height: 1.4;
+    padding-top: 126px;
+    padding-left: 1%;
+    width: 100%;
+    color: $white;
 
     @include mobile {
+      font-size: 22px;
       padding-top: 86px;
-    }
+    }  
   }
 }
 //
