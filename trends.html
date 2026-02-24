@@ -21,14 +21,16 @@ permalink: /trends/
             </div>
          </div>       
          <div class="col-md-3 col-lg-3" id="bloglayout12">
-            <h2>More Topics</h2>
-            <div class="posts">
-               <h4>Support</h4>
-               {% for post in site.tags.support %}
-                  <article class="post">
-                     <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-                  </article>
-               {% endfor %}
+            <div id="bloglayout22">
+               <h2>More Topics</h2>
+               <div class="posts">
+                  <h4>Support</h4>
+                  {% for post in site.tags.support %}
+                     <article class="post">
+                        <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+                     </article>
+                  {% endfor %}
+               </div>
             </div>
             <div class="posts">
                <h4>Articles</h4>
