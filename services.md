@@ -17,7 +17,7 @@ permalink: /services/
             <p>Blue Web Nodes was created in 2017. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
             <p>We provide design, development, and maintenance services for <a href="/regular-website-examples/">websites</a> and <a href="/ecommerce-website-examples/">eCommerce </a>. We offer <a href="/social-media-ads/">social media ads</a> design services, especially through motion graphics.</p>
             <p>We will provide technical support of our services.</p>  
-            <p>Locate in Potsdam, St. Lawrence County, NY, USA.</p>
+            <p>Locate in St. Lawrence County, NY, USA.</p>
             <p>Please feel free to <a href="/contact/">contact us</a>. Thank you!</p>
          </div>       
       </div>
