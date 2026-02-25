@@ -577,6 +577,10 @@ img[alt="New Design 1"] {
 }
 
 #bloglayout12 {
+  padding-right: 15px;
+}
+
+#bloglayout22 {
   padding-top: 20px;
   background-color: $whiteBlue;
 
@@ -595,10 +599,6 @@ img[alt="New Design 1"] {
     margin: 0 0 0 0;
     border-bottom: 1px solid $white;
   }
-}
-
-#bloglayout22 {
-  padding-right: 15px;
 }
 
 #postlayout11 {
