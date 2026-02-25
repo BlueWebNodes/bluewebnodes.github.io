@@ -1046,15 +1046,30 @@ img[alt="Logo5"] {
   overflow: hidden;
 }
 
+.brandProject {
+  background-color: rgba(255,255,255,0.60);
+  display: block;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px 20px;
+  width: 70%;
+  height: auto;
+  
+  @include mobile {
+    width: 96%;
+  } 
+}
+
 .youtubeStrategy{
   text-align: left;
-  padding: 8px;
-  Width: 30%;
-  hight: auto;
+  Width: 35%;
+  height: auto;
   display:inline-block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom:16px;
 
   @media (max-width:992px) {
     width:50%;

@@ -16,6 +16,7 @@ permalink: /social-media-ads/
    <div class="containerfixed2">
       <div class="row" > 
          <div class="col-md-12 col-lg-12 smAdsBG">
+            <div class="brandProject">
             <h2>A Complete Brand Ecosystem for a YouTube Channel</h2>
             <h3><a href="https://www.youtube.com/@comedynodes" target="_blank">Comedy Nodes</a></h3>
             <p><a href="https://www.youtube.com/@comedynodes" target="_blank">https://www.youtube.com/@comedynodes</a></p>
@@ -30,6 +31,7 @@ permalink: /social-media-ads/
                   <li>Social media visual kit</li>
                   <li>Brand storytelling and messaging</li>
                </ul>
+            </div>
             </div>
             <span></span>
             <span></span>
