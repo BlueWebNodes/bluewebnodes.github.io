@@ -56,7 +56,7 @@ permalink: /social-media-ads/
          </div>
       </div>
       <div class="row"> 
-         <div class="col-md-12 col-lg-12" id="socialMedia22">
+         <div class="col-md-12 col-lg-12" id="socialMedia01">
                <h3>Blue Web Nodes Brand and Holiday Greeting Videos Are Free! </h3>
                <p>Put your mouse over the video and click the three dots in the bottom-right corner.<br />(The videos are muted on the webpage.)</p>
           </div>      
@@ -64,7 +64,7 @@ permalink: /social-media-ads/
       <div class="row"> 
          <div class="col-md-4 col-lg-4">
             <div class="center-cropped col-lg-12" id="socialMedia11">
-               <video controls width="360" muted loop autoplay playsinline>
+               <video controls muted loop autoplay playsinline class="videoSize1">
                   <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/blueWebNodesLogo.mp4" type="video/mp4">
                      Your browser does not support the video tag.
                </video>     
@@ -72,7 +72,7 @@ permalink: /social-media-ads/
          </div>
          <div class="col-md-4 col-lg-4">
             <div class="center-cropped col-lg-12" id="socialMedia12">
-               <video controls width="360" muted loop autoplay playsinline>
+               <video controls muted loop autoplay playsinline class="videoSize1">
                   <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/Christmas2027Post.mp4" type="video/mp4">
                      Your browser does not support the video tag.
                </video>     
@@ -80,7 +80,7 @@ permalink: /social-media-ads/
          </div>
          <div class="col-md-4 col-lg-4">
             <div class="center-cropped col-lg-12" id="socialMedia13">
-               <video controls width="360" muted loop autoplay playsinline>
+               <video controls muted loop autoplay playsinline class="videoSize1">
                   <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/newYear2026Post.mp4" type="video/mp4">
                      Your browser does not support the video tag.
                </video>     
@@ -88,8 +88,8 @@ permalink: /social-media-ads/
          </div>       
       </div>
       <div class="row"> 
-         <div class="center-cropped col-md-12 col-lg-12">
-               <video controls width="600" muted loop autoplay playsinline>
+         <div class="center-cropped col-md-12 col-lg-12" id="socialMedia22">
+               <video controls muted loop autoplay playsinline class="videoSize2">
                   <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/happyHorseYear26.mp4" type="video/mp4">
                      Your browser does not support the video tag.
                <p>&nbsp;</p>     
