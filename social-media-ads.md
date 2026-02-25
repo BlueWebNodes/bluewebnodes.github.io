@@ -19,7 +19,7 @@ permalink: /social-media-ads/
             <div class="brandProject">
             <h2>A Complete Brand Ecosystem for a YouTube Channel</h2>
             <h3><a href="https://www.youtube.com/@comedynodes" target="_blank">Comedy Nodes</a></h3>
-            <p><a href="https://www.youtube.com/@comedynodes" target="_blank">www.youtube.com/@comedynodes</a></p>
+            <p><a href="https://www.youtube.com/@comedynodes" target="_blank">youtube.com/@comedynodes</a></p>
             <div class="youtubeStrategy">
                <p>The whole brand project includes:</p>
                <ul>
