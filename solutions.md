@@ -83,7 +83,6 @@ permalink: /solutions/
                   <h2>Social Media Advertising</h2>
                   <p>Quote each design project or $35/hour</p>
                   <p>&nbsp;</p>
-                  <p>&nbsp;</p>
                </div>
             </div>
          </div>       
