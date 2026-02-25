@@ -57,12 +57,20 @@ permalink: /social-media-ads/
       </div>
       <div class="row"> 
          <div class="col-md-12 col-lg-12" id="socialMedia22">
-               <h3>Holiday Greeting Videos Are Free! </h3>
+               <h3>Blue Web Nodes Brand and Holiday Greeting Videos Are Free! </h3>
                <p>Put your mouse over the video and click the three dots in the bottom-right corner.<br />(The videos are muted on the webpage.)</p>
           </div>      
       </div>
       <div class="row"> 
-         <div class="col-md-6 col-lg-6">
+         <div class="col-md-4 col-lg-4">
+            <div class="center-cropped col-lg-12" id="socialMedia11">
+               <video controls width="360" muted loop autoplay playsinline>
+                  <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/blueWebNodesLogo.mp4" type="video/mp4">
+                     Your browser does not support the video tag.
+               </video>     
+            </div>
+         </div>
+         <div class="col-md-4 col-lg-4">
             <div class="center-cropped col-lg-12" id="socialMedia11">
                <video controls width="360" muted loop autoplay playsinline>
                   <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/Christmas2027Post.mp4" type="video/mp4">
@@ -70,7 +78,7 @@ permalink: /social-media-ads/
                </video>     
             </div>
          </div>
-         <div class="col-md-6 col-lg-6">
+         <div class="col-md-4 col-lg-4">
             <div class="center-cropped col-lg-12" id="socialMedia12">
                <video controls width="360" muted loop autoplay playsinline>
                   <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/newYear2026Post.mp4" type="video/mp4">

@@ -453,6 +453,11 @@ footer {
   text-transform: uppercase;
   animation: flip 5s infinite;
   animation-delay: calc(10s + .2s * var(--i))
+
+  @include mobile {
+    font-size: 26px;
+  }
+
 }
 @keyframes flip {
   0%,80% {
