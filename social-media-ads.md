@@ -23,6 +23,7 @@ permalink: /social-media-ads/
             <div class="youtubeStrategy">
                <p>The whole brand project includes:</p>
                <ul>
+                  <li>All motion graphic videos include characters and audio (Music copyright belongs to YouTube Audio)</li>
                   <li>Logo and visual identity</li>
                   <li>YouTube banner and thumbnails system</li>
                   <li>Intro/outro motion graphics</li>
