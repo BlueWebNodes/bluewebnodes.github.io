@@ -26,7 +26,7 @@ permalink: /social-media-ads/
                   <li>YouTube banner and thumbnails system</li>
                   <li>Intro/outro motion graphics</li>
                   <li>Brand color and typography system</li>
-                  <li>Website with SEO structure</li>
+                  <li>Website (Temporally <a href="https://comedynodes.github.io/" target="_blank">here</a>) with SEO structure</li>
                   <li>Social media visual kit</li>
                   <li>Brand storytelling and messaging</li>
                </ul>
