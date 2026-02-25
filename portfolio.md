@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 <div class="submenuright">
-   <p><a href="/regular-website-examples/">Websites</a><a href="/ecommerce-website-examples/">Ecommerce</a><a href="/social-media-ads/">Social Media Ads</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/more-examples/">More ...</a></p>
+   <p><a href="/regular-website-examples/">Websites</a><a href="/ecommerce-website-examples/">Ecommerce</a><a href="/social-media-ads/">Social Media Ads</a><a href="/more-examples/">More ...</a></p>
 </div>
 
 <div class="submenurighthr">
@@ -39,11 +39,11 @@ permalink: /portfolio/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2><a href="/social-media-ads">Social Media Ads</a></h2>
-            <p>Social media advertising involves promoting content on platforms like Facebook, Instagram, and TikTok to reach specific audiences. This paid form of marketing allows brands to target users based on demographics, interests, and behaviors, delivering tailored ads for maximum impact. </p>
+            <p>Social media advertising involves promoting content on platforms like Google, Facebook, Instagram, and TikTok to reach specific audiences. This paid form of marketing allows brands to target users based on demographics, interests, and behaviors, delivering tailored ads for maximum impact. </p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2><a href="/graphic-design-examples">Graphic Design</a></h2>
-            <p>Graphic Design includes logo, business card, postcard, fold, flyer, poster, and advertisement design. I would like to help to edit photos or picgtures for you too. </p>
+            <h2><a href="/social-media-ads">Motion Graphics</a></h2>
+            <p>Motion graphics are taking over social media ads—and for good reason. Bold movement, eye-catching animation, and clear messaging stop the scroll and turn seconds of attention into real impact.</p>
          </div>       
       </div>
       <div class="row" id="colmddisplayno"> 
@@ -87,9 +87,9 @@ permalink: /portfolio/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-4 col-lg-4" id="pagelayout12">
-            <h2>Ecommerce Web Hosting Provider</h2>
-            <p><a href="https://www.shopify.com/" target="_blank"><img src="/images/LogoShopify.png" alt="Logo1"></a></p>  
-            <p>Shopify operates an e-commerce platform for retail point-of-sale systems that offers payments, marketing, shipping, inventory management, transaction management, and customer engagement tools. The company has over 5 million customers in USA.</p>
+            <h2>UI/UX Design</h2>
+            <p><a href="https://www.figma.com/" target="_blank"><img src="/images/LogoFigma.png" alt="Logo2"></a></p>  
+            <p>Figma is a collaborative, web-based design tool primarily used for UI (User Interface) and UX (User Experience) design. Figma Design is used to create digital experiences of all kinds, including mobile apps, websites, illustrations, and more.</p>
          </div>       
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Web Hosting Provider</h2>
@@ -97,14 +97,9 @@ permalink: /portfolio/
             <p>GreenGeeks web hosting is fast, secure & eco-friendly. GreenGeeks stands out for its shared hosting, which despite its low starter prices, has enough features and speed for many home and business users.</p>
          </div>
          <div class="col-md-4 col-lg-4" id="pagelayout12">
-            <h2>Web Hosting Provider</h2>
-            <p style="padding-top:8px;padding-bottom:8px;"><a href="https://www.bluehost.com/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo"></a></p>  
-            <ul>
-               <li>All-in-one dashboard</li>
-               <li>Fast, reliable performance</li>
-               <li>Free Domain, SSL and CDN</li>
-               <li>24/7 hosting support</li>
-            </ul>
+            <h2>Ecommerce Web Hosting Provider</h2>
+            <p><a href="https://www.shopify.com/" target="_blank"><img src="/images/LogoShopify.png" alt="Logo1"></a></p>  
+            <p>Shopify operates an e-commerce platform for retail point-of-sale systems that offers payments, marketing, shipping, inventory management, transaction management, and customer engagement tools. The company has over 5 million customers in USA.</p>
          </div>       
       </div>
    </div>
@@ -119,9 +114,14 @@ permalink: /portfolio/
             <p>Wix.com is one of the Best Website Editor. Many website themes and extra advanced options can be added on to change the details.</p>
          </div>
          <div class="col-md-4 col-lg-4" id="pagelayout12">
-            <h2>&nbsp;</h2>
-            <p>&nbsp;</p>  
-            <p>&nbsp;</p>
+            <h2>Web Hosting Provider</h2>
+            <p style="padding-top:8px;padding-bottom:8px;"><a href="https://www.bluehost.com/" target="_blank"><img src="/images/LogoBluehost.png" alt="Logo"></a></p>  
+            <ul>
+               <li>All-in-one dashboard</li>
+               <li>Fast, reliable performance</li>
+               <li>Free Domain, SSL and CDN</li>
+               <li>24/7 hosting support</li>
+            </ul>
          </div>       
          <div class="col-md-4 col-lg-4" id="pagelayout11">
             <h2>Weebly.com Websites</h2>

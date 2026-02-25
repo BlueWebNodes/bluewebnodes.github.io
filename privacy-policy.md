@@ -8,7 +8,7 @@ permalink: /privacy-policy/
    <div class="containerfixed">
       <div class="row"> 
          <div class="col-md-3 col-lg-3" id="pagelayoutservice11">
-            <p><a href="https://www.bluewebnodes.com"><img src="/images/blueWebNodesLogoFullColor.jpg" alt="Blue Web Nodes Logo"></a></p>
+            <p><a href="https://www.bluewebnodes.com"><img src="/images/blueWebNodesLogoPrivate.jpg" alt="Blue Web Nodes Logo"></a></p>
          </div>
          <div class="col-md-9 col-lg-9" id="pagelayoutservice11">
             <p><strong>Effective Date:</strong> January 1st, 2026</p>  

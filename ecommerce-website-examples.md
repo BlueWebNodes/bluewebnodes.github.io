@@ -5,7 +5,7 @@ permalink: /ecommerce-website-examples/
 ---
 
 <div class="submenuright">
-   <p><a href="/regular-website-examples/">Websites</a><a href="/ecommerce-website-examples/">Ecommerce</a><a href="/social-media-ads/">Social Media Ads</a><a href="/graphic-design-examples/">Graphic Design</a><a href="/more-examples/">More ...</a></p>
+   <p><a href="/regular-website-examples/">Websites</a><a href="/ecommerce-website-examples/">Ecommerce</a><a href="/social-media-ads/">Social Media Ads</a><a href="/more-examples/">More ...</a></p>
 </div>
 
 <div class="submenurighthr">
@@ -13,12 +13,13 @@ permalink: /ecommerce-website-examples/
 </div>
 
 <div class="gridlayoutthird">
-    <h2><a href="https://w8-time.com/" target="_blank">www.w8-time.com</a></h2>
+    <h2>www.w8-time.com</h2>
+    <p>(Off-Line for Now)</p>
 </div>
 
 The W8 website is an eCommerce website for restaurant reservations built with WordPress and WooCommerce. The customers visit the restaurant waitlist page by scanning the QR code. They can fill out the form to join the regular waitlist or purchase a FastPass to go faster. The features include QR code, webforms, front-end table, shipping cart, credit card payment gateway, SMS and email notifications, etc.
 
-[![Site Home](/images/w8-time.jpg "w8-time.com Home")](https://www.w8-time.com)
+![Site Home](/images/w8-time.jpg "w8-time.com Home")
 
 <div class="gridlayoutthird">
     <h2>www.shopthearcjslc.org</h2>
