@@ -31,14 +31,14 @@ permalink: /trends/
                      </article>
                   {% endfor %}
                </div>
-            </div>
-            <div class="posts">
-               <h4>Articles</h4>
-               {% for post in site.tags.blogger %}
-                  <article class="post">
-                     <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-                  </article>
-               {% endfor %}
+               <div class="posts">
+                  <h4>Articles</h4>
+                  {% for post in site.tags.blogger %}
+                     <article class="post">
+                        <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+                     </article>
+                  {% endfor %}
+               </div>
             </div>
          </div>       
       </div>
