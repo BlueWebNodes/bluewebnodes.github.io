@@ -82,6 +82,8 @@ permalink: /solutions/
                <div class="col-md-12 col-lg-12" id="pagelayout12">
                   <h2>Social Media Advertising</h2>
                   <p>Quote each design project or $35/hour</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
                </div>
             </div>
          </div>       
@@ -91,14 +93,13 @@ permalink: /solutions/
 
 <div class="gridlayoutthird">
     <h2>Other Services</h2>
-    <p>Basic Pricing Rule - We will quote each design project just for you after we discuss what you need.</p>
 </div>
 
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-12 col-lg-12" id="pagelayout12">
-           <p>Basic Pricing Rule - We will quote each design project just for you after we discuss what you need.</p>
+           <p style="text-align: center;">Basic Pricing Rule - We will quote each design project just for you after we discuss what you need.</p>
          </div>
      </div>
    </div>
