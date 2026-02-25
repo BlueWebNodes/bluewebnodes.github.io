@@ -1047,15 +1047,15 @@ img[alt="Logo5"] {
 }
 
 .brandProject {
-  background-color: rgba(255,255,255,0.60);
+  background-color: rgba(255,255,255,0.40);
   display: block;
   text-align: center;
   margin-right: auto;
   margin-left: auto;
   margin-top: 20px;
   margin-bottom: 20px;
-  padding: 20px 20px;
-  width: 70%;
+  padding: 16px 16px;
+  width: 60%;
   height: auto;
   
   @include mobile {
@@ -1065,18 +1065,14 @@ img[alt="Logo5"] {
 
 .youtubeStrategy{
   text-align: left;
-  Width: 35%;
+  Width: 60%;
   height: auto;
   display:inline-block;
   margin-left: auto;
   margin-right: auto;
 
-  @media (max-width:992px) {
-    width:50%;
-  }
-
-  @include mobile {
-    Width: 96%;
+  @media (max-width:768px) {
+    width:100%;
   }
 
 }
