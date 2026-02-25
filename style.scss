@@ -967,32 +967,43 @@ img[alt="Logo5"] {
 // Social Media Ads
 //
 
-
 #socialMedia01 {
   text-align: center;
 }
 
 #socialMedia11 {
   height: 360px;
+  @include mobile {
+    height: 300px;
+  }
 }
 
 #socialMedia12 {
   height: 360px;
+  @include mobile {
+    height: 300px;
+  }
 }
 
 #socialMedia13 {
   height: 360px;
+  @include mobile {
+    height: 300px;
+  }
 }
 
 #socialMedia22 {
-  height: 600px;
+  height: 360px;
+  @include mobile {
+    height: 180px;
+  }
 }
 
 .videoSize1{
   width: 360px;
 
   @include mobile {
-    width: 240px;
+    width: 300px;
   }
 }
 
@@ -1000,7 +1011,7 @@ img[alt="Logo5"] {
   width: 600px;
 
   @include mobile {
-    width: 240px;
+    width: 300px;
   }
 }
 
