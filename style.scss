@@ -1049,13 +1049,16 @@ img[alt="Logo5"] {
 .youtubeStrategy{
   text-align: left;
   padding: 8px;
-  Width: 50%;
+  Width: 30%;
   hight: auto;
   display:inline-block;
   margin-left: auto;
   margin-right: auto;
   margin-bottom:16px;
 
+  @media (max-width:992px) {
+    width:50%;
+  }
 
   @include mobile {
     Width: 96%;
