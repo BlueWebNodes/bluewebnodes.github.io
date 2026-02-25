@@ -15,7 +15,7 @@
   margin-left: auto;
   margin-bottom: 20px;
   padding: 8px 16px 16px 16px;
-  width: 80%;
+  width: 70%;
   height: auto;
   
   @include mobile {
@@ -25,22 +25,19 @@
 
 .welcome h1 {
   font-size: 40px;
-  color: #f47820; 
+  color: #ffffff; 
 }
 
 .glow-on-hover {
-  display: inline-block;
-  background-color: #034ea2;
-  padding: 8px 12px;
-  margin-right: 8px;
-  margin-top: 16px;
-  font-size: 30px;
-    width: 220px;
-    height: 50px;
+    display: inline-block;
+    background-color: #034ea2;
+    padding: 8px 12px;
+    margin-right: 16px;
+    margin-top: 16px;
+    font-size: 30px;
     border: none;
     outline: none;
     color: #fff;
-    background: #111;
     cursor: pointer;
     position: relative;
     z-index: 0;
