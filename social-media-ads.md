@@ -19,8 +19,8 @@ permalink: /social-media-ads/
             <h2>A Complete Brand Ecosystem for a YouTube Channel</h2>
             <h3><a href="https://www.youtube.com/@comedynodes" target="_blank">Comedy Nodes</a></h3>
             <p><a href="https://www.youtube.com/@comedynodes" target="_blank">https://www.youtube.com/@comedynodes</a></p>
-            <p>The whole brand project includes:</p>
-            <div style="text-align: left; padding: 8px; Width: 80%; hight: auto; display:inline-block; margin-left: auto; margin-right: auto;">
+            <div class="youtubeStrategy">
+               <p>The whole brand project includes:</p>
                <ul>
                   <li>Logo and visual identity</li>
                   <li>YouTube banner and thumbnails system</li>
@@ -54,24 +54,18 @@ permalink: /social-media-ads/
          </div>
       </div>
       <div class="row"> 
-         <div class="col-md-12 col-lg-12">
-            <div class="center-cropped col-lg-12" id="socialMedia21">
-               <p>&nbsp;</p>     
+         <div class="col-md-12 col-lg-12" id="socialMedia22">
                <h3>Holiday Greeting Videos Are Free! </h3>
                <p>Put your mouse over the video and click the three dots in the bottom-right corner.<br />(The videos are muted on the webpage.)</p>
-               <p>&nbsp;</p>     
-            </div>
-         </div>      
+          </div>      
       </div>
       <div class="row"> 
-         <div class="col-md-12 col-lg-12">
-            <div class="center-cropped col-lg-12" id="socialMedia21">
+         <div class="center-cropped col-md-12 col-lg-12">
                <video controls width="600" muted loop autoplay playsinline>
                   <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/happyHorseYear26.mp4" type="video/mp4">
                      Your browser does not support the video tag.
                <p>&nbsp;</p>     
                </video>     
-            </div>
          </div>      
       </div>
       <div class="row"> 

@@ -380,7 +380,12 @@ nav {
   display: block;
   margin-left: auto;
   margin-right: 20px;
-  width:50%;
+  width:40%;
+
+  @include mobile {
+    width:80%;
+  }
+
 }
 
 //
@@ -965,12 +970,8 @@ img[alt="Logo5"] {
   height: 360px;
 }
 
-#socialMedia13 {
-  height: 360px;
-}
-
-#socialMedia14 {
-  height: 360px;
+#socialMedia22 {
+  text-align: center;
 }
 
 #videoEditing11 {
@@ -1043,6 +1044,23 @@ img[alt="Logo5"] {
   height: auto;
   width: 100vw;
   overflow: hidden;
+}
+
+.youtubeStrategy{
+  text-align: left;
+  padding: 8px;
+  Width: 50%;
+  hight: auto;
+  display:inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:16px;
+
+
+  @include mobile {
+    Width: 96%;
+  }
+
 }
 
 $particleSize: 16vmin;
