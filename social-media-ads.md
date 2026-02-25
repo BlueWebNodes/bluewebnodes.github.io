@@ -71,7 +71,7 @@ permalink: /social-media-ads/
             </div>
          </div>
          <div class="col-md-4 col-lg-4">
-            <div class="center-cropped col-lg-12" id="socialMedia11">
+            <div class="center-cropped col-lg-12" id="socialMedia12">
                <video controls width="360" muted loop autoplay playsinline>
                   <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/Christmas2027Post.mp4" type="video/mp4">
                      Your browser does not support the video tag.
@@ -79,7 +79,7 @@ permalink: /social-media-ads/
             </div>
          </div>
          <div class="col-md-4 col-lg-4">
-            <div class="center-cropped col-lg-12" id="socialMedia12">
+            <div class="center-cropped col-lg-12" id="socialMedia13">
                <video controls width="360" muted loop autoplay playsinline>
                   <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/newYear2026Post.mp4" type="video/mp4">
                      Your browser does not support the video tag.
