@@ -51,7 +51,7 @@ permalink: /portfolio/
             <p><a href="/social-media-ads">View More Examples</a></p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout21">
-            <p><a href="/graphic-design-examples">View More Examples</a></p>
+            <p><a href="/social-media-ads">View More Examples</a></p>
          </div>       
       </div>
    </div>
