@@ -13,19 +13,17 @@ permalink: /ecommerce-website-examples/
 </div>
 
 <div class="gridlayoutthird">
-    <h2>www.w8-time.com</h2>
-    <p>(Off-Line for Now)</p>
+    <h2>W8 Time Restaurant Reservations</h2>
 </div>
-
-The W8 website is an eCommerce website for restaurant reservations built with WordPress and WooCommerce. The customers visit the restaurant waitlist page by scanning the QR code. They can fill out the form to join the regular waitlist or purchase a FastPass to go faster. The features include QR code, webforms, front-end table, shipping cart, credit card payment gateway, SMS and email notifications, etc.
-
+<div class="websiteIntro">
+<p>The W8 website is an eCommerce website for restaurant reservations built with WordPress and WooCommerce. The customers visit the restaurant waitlist page by scanning the QR code. They can fill out the form to join the regular waitlist or purchase a FastPass to go faster. The features include QR code, webforms, front-end table, shipping cart, credit card payment gateway, SMS and email notifications, etc.</p>
+</div>
 ![Site Home](/images/w8-time.jpg "w8-time.com Home")
 
 <div class="gridlayoutthird">
-    <h2>www.shopthearcjslc.org</h2>
-    <p>(The online store paused because of a shortage of workers.)</p>
+    <h2>The Arc Jefferson - St. Lawrence Online Store</h2>
 </div>
-
-The custom Printing website was built with Drupal Commerce. I created this site all by myself, even the draft of policies. I learned to make an eCommerce site as a PCI Compliance for Credit Card Payment Security. More features are a full-featured online store system, a customer membership system, and an email notification system. 
-
+<div class="websiteIntro">
+<p>The custom Printing website was built with Drupal Commerce. I created this site all by myself, even the draft of policies. I learned to make an eCommerce site as a PCI Compliance for Credit Card Payment Security. More features are a full-featured online store system, a customer membership system, and an email notification system. 
+</p>
 ![Site Home](/images/goalHome.jpg "shopthearcjslc.org Home")
