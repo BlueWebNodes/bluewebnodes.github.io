@@ -487,7 +487,8 @@ img[alt="Get Started"] {
 
 
 .promo-centered {
-  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .promo1 {
@@ -511,6 +512,10 @@ img[alt="Get Started"] {
     border-radius: 5px;
     width: 80px;
   }
+
+  @include mobile {
+    margin-bottom: 10px;
+  }
 }
 
 .promo2 {
@@ -532,7 +537,11 @@ img[alt="Get Started"] {
     color: $logoBlue;
     padding: 8px;
     border-radius: 5px;
-    width: 180px;
+    width: 172px;
+  }
+
+  @include mobile {
+    margin-bottom: 10px;
   }
 }
 
