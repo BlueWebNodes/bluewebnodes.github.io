@@ -1200,7 +1200,7 @@ $amount: 20;
 // PCS Music Friends
 //
 
-#headerdiv {
+#mfheaderdiv {
   height: 560px;
   background: url(images/PCSMFCoverPicture.jpg);
   background-position: top center;
@@ -1209,7 +1209,17 @@ $amount: 20;
   margin-bottom: 16px;
 }
 
-#logodiv {
+#mfeventdiv {
+  height: auto;
+  background-color: #dfcce4;
+  color: #5c2d91;
+  text-align: Center;
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+}
+
+#mflogodiv {
   width: 25%;
   height: auto;
   background: rgba(255,255,255,.8);
