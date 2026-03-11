@@ -1224,39 +1224,6 @@ $amount: 20;
   margin-bottom: 16px;
 }
 
-#mfeventdiv {
-  height: auto;
-  background-color: #dfcce4;
-  color: #5c2d91;
-  text-align: Center;
-  padding: 0 16px 16px 16px;
-  margin-bottom: 16px;
-  border-radius: 8px;
-}
-
-#mfeventtitle {
-  font-family: $abrilFatface;
-  font-size: 68px;
-  color: #5C2D91;
-  @include mobile {
-    font-size: 44px;
-  }
-}
-
-.mfeventinfo {
-  font-size: 30px;
-  color: #5C2D91;
-  @include mobile {
-    font-size: 24px;
-  }
-}
-
-.videoSize3 {
-  width: 80%;
-  height: auto;
-  margin-top: 15px;
-}
-
 #mflogodiv {
   width: 25%;
   height: auto;
@@ -1308,6 +1275,61 @@ img[alt="PCSMF Picture"] {
   margin-bottom: 12px;
   text-align: center;
   width: 360px;
+  overflow: auto;
+  align-items: center;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
+  border-radius: 10px;
+}
+
+//
+// PCS Music Friends Event Block
+//
+#mfeventdiv {
+  height: auto;
+  background-color: #dfcce4;
+  color: #5c2d91;
+  text-align: Center;
+  padding: 0 16px 16px 16px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+}
+
+#mfeventtitle {
+  font-family: $abrilFatface;
+  font-size: 68px;
+  color: #5C2D91;
+  @include mobile {
+    font-size: 44px;
+  }
+}
+
+.mfeventinfo {
+  font-size: 30px;
+  color: #5C2D91;
+  @include mobile {
+    font-size: 24px;
+  }
+}
+
+.videoSize3 {
+  width: 80%;
+  height: auto;
+  margin-top: 15px;
+
+  @include mobile {
+    width: 100%;
+  }
+}
+
+#squaredonatenowdiv {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 12px;
+  text-align: center;
+  width: 300px;
   overflow: auto;
   align-items: center;
   background: #FFFFFF;
