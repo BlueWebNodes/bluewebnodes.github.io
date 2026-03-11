@@ -7,13 +7,13 @@ permalink: /services/
 <div class="gridlayoutsecond">
    <div class="containerfixed">
       <div class="row"> 
-         <div class="col-md-3 col-lg-3" id="pagelayoutservice11">
+         <div class="col-md-5 col-lg-3" id="pagelayoutservice11">
             <video controls width="300" muted loop autoplay playsinline>
                <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/blueWebNodesLogo.mp4" type="video/mp4">
                      Your browser does not support the video tag.
             </video>     
          </div>
-         <div class="col-md-9 col-lg-9" id="pagelayoutservice11">
+         <div class="col-md-7 col-lg-9" id="pagelayoutservice11">
             <p>Blue Web Nodes was created in 2017. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
             <p>We provide design, development, and maintenance services for <a href="/regular-website-examples/">websites</a> and <a href="/ecommerce-website-examples/">eCommerce </a>. We offer <a href="/social-media-ads/">social media ads</a> design services, especially through <strong>motion graphics</strong>.</p>
             <p>We will provide technical support of our services.</p>  
