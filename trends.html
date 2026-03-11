@@ -12,7 +12,7 @@ permalink: /trends/
                {% for post in site.posts limit: 8 %}
                   <article class="post">
                      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-                     <div class="entry">
+                     <div id="trendpost" class="entry">
                         {{ post.content | truncatewords:50 }}
                      </div>
                      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
