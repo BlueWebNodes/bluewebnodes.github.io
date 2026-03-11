@@ -1254,6 +1254,7 @@ $amount: 20;
 .videoSize3 {
   width: 80%;
   height: auto;
+  margin-top: 15px;
 }
 
 #mflogodiv {
@@ -1313,6 +1314,13 @@ img[alt="PCSMF Picture"] {
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
   border-radius: 10px;
+}
+
+.nodisplay{
+  display: inline-block;
+  @include mobile {
+    display: none;
+  }  
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
