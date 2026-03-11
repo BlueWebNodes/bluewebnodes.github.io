@@ -1229,7 +1229,7 @@ $amount: 20;
   background-color: #dfcce4;
   color: #5c2d91;
   text-align: Center;
-  padding: 16px;
+  padding: 0 16px 16px 16px;
   margin-bottom: 16px;
   border-radius: 8px;
 }
@@ -1239,15 +1239,15 @@ $amount: 20;
   font-size: 68px;
   color: #5C2D91;
   @include mobile {
-    font-size: 46px;
+    font-size: 44px;
   }
 }
 
-#mfeventname {
-  font-size: 48px;
-  color: #000000;
+.mfeventinfo {
+  font-size: 30px;
+  color: #5C2D91;
   @include mobile {
-    font-size: 36px;
+    font-size: 24px;
   }
 }
 
