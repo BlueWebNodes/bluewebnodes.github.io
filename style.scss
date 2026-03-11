@@ -1239,13 +1239,20 @@ $amount: 20;
   font-size: 68px;
   color: #5C2D91;
   @include mobile {
-    font-size: 48px;
+    font-size: 46px;
   }
+}
 
+#mfeventname {
+  font-size: 48px;
+  color: #000000;
+  @include mobile {
+    font-size: 36px;
+  }
 }
 
 .videoSize3 {
-  width: 100%;
+  width: 80%;
   height: auto;
 }
 
