@@ -514,6 +514,8 @@ img[alt="Get Started"] {
   }
 
   @include mobile {
+    width: 340px;
+    height: 246px;
     margin-bottom: 10px;
   }
 }
@@ -541,6 +543,8 @@ img[alt="Get Started"] {
   }
 
   @include mobile {
+    width: 340px;
+    height: 246px;
     margin-bottom: 10px;
   }
 }
@@ -565,6 +569,11 @@ img[alt="Get Started"] {
     padding: 8px;
     border-radius: 5px;
     width: 120px;
+  }
+
+  @include mobile {
+    width: 340px;
+    height: 246px;
   }
 }
 
