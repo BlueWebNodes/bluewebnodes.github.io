@@ -12,6 +12,51 @@ permalink: /social-media-ads/
    <hr>
 </div>
 
+<div class="gridlayoutfirst">
+   <div class="containerfixed2">
+      <div class="row"> 
+         <div class="col-md-12 col-lg-12" id="motionProject">
+               <h2>A Digital Campaign to Promote a Fundraising Event</h2>
+               <p>The project focuses on promoting a live music fundraising event through a combination of motion graphics, social media visuals, and website promotion.</p>
+         </div>      
+      </div>
+      <div class="row" > 
+         <div class="col-md-4 col-lg-4">
+            <div class="motionStrategy">
+               <h2>Creative Strategy</h2>
+               <ul>
+                  <li>Emotional Storytelling</li>
+                  <li>Visual Energy</li>
+                  <li>Clear Call-to-Action</li>
+                  <li>Consistent Branding</li>
+               </ul>
+            </div>
+         </div>
+         <div class="col-md-4 col-lg-4">
+            <div class="motionStrategy">
+               <h2>Digital Promotion Strategy</h2>
+               <ul>
+                  <li>Motion Graphics for Social Media</li>
+                  <li>Social Media Image Graphics</li>
+                  <li>Website Banner Promotion</li>
+               </ul>
+            </div>
+         </div>
+         <div class="col-md-4 col-lg-4">
+            <div class="motionStrategy">
+               <h2>Impact</h2>
+               <ul>
+                  <li>Reach a wider audience online</li>
+                  <li>Promote the fundraising event effectively</li>
+                  <li>Inspire community support for student musicians</li>
+                  <li>Strengthen the visibility of local music programs</li>
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
 <div class="gridlayoutsecond">
    <div class="containerfixed2">
       <div class="row" > 
@@ -56,11 +101,16 @@ permalink: /social-media-ads/
             <span></span>
          </div>
       </div>
+   </div>
+</div>
+
+<div class="gridlayoutsecond">
+   <div class="containerfixed2">
       <div class="row"> 
          <div class="col-md-12 col-lg-12" id="socialMedia01">
                <h3>Blue Web Nodes Brand and Holiday Greeting Videos Are Free! </h3>
                <p>Put your mouse over the video and click the three dots in the bottom-right corner.<br />(The videos are muted on the webpage.)</p>
-          </div>      
+         </div>      
       </div>
       <div class="row"> 
          <div class="col-md-4 col-lg-4">

@@ -1068,69 +1068,41 @@ img[alt="Logo5"] {
   }
 }
 
-#videoEditing11 {
-  height: 560px;
-}
-
-#videoEditing12 {
-  height: 560px;
-}
-
-//
-// Contact Us Form
-//
-
-.contactusform {
-  display:inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
+.videoSize3 {
+  width: 70%;
   height: auto;
-  margin-top: 0.5em;
-	
+  margin-top: 15px;
+
+  @media (max-width:1442px) {
+    width: 80%;
+  }
+
   @include mobile {
     width: 100%;
   }
 }
 
-.contactform h2{
+#motionProject {
   text-align: center;
+  padding: 16px 16px;
 }
 
-.contactform h4{
-  text-align: center;
-}
+.motionStrategy {
+  background-color: rgba(255,255,255,0.50);
+  text-align: left;
+  Width: 90%;
+  height: auto;
+  display:inline-block;
+  margin-left: auto;
+  margin-right: auto;
 
-.contactform h6{
-  font-size: 0.8em;
-  text-align: center;
-}
-
-.contactform p{
-  font-size: 0.8em;
-  color: $logoBlue;
-  text-align: center;
-}
-
-.contactform p iframe{
-  width: 100%;
-  height: 670px;
-
-  @include mobile {
-    height: 710px;
+  @media (max-width:992px) {
+    width:100%;
   }
 }
 
-#contactusForm {
-  margin-bottom: 12px;
-}
-
-#colform {
-  margin-bottom: 20px;
-}
-
 //
-// CSS Animation Effects
+// CSS Animation Effects (Social Media Ads)
 //
 
 .smAdsBG {
@@ -1209,6 +1181,71 @@ $amount: 20;
   100% {
     transform: translate3d(0, 0, 1px) rotate(360deg);
   }
+}
+
+//
+// Video Editing
+//
+
+#videoEditing11 {
+  height: 560px;
+}
+
+#videoEditing12 {
+  height: 560px;
+}
+
+//
+// Contact Us Form
+//
+
+.contactusform {
+  display:inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: auto;
+  margin-top: 0.5em;
+  
+  @include mobile {
+    width: 100%;
+  }
+}
+
+.contactform h2{
+  text-align: center;
+}
+
+.contactform h4{
+  text-align: center;
+}
+
+.contactform h6{
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.contactform p{
+  font-size: 0.8em;
+  color: $logoBlue;
+  text-align: center;
+}
+
+.contactform p iframe{
+  width: 100%;
+  height: 670px;
+
+  @include mobile {
+    height: 710px;
+  }
+}
+
+#contactusForm {
+  margin-bottom: 12px;
+}
+
+#colform {
+  margin-bottom: 20px;
 }
 
 //
@@ -1310,20 +1347,6 @@ img[alt="PCSMF Picture"] {
   color: #5C2D91;
   @include mobile {
     font-size: 24px;
-  }
-}
-
-.videoSize3 {
-  width: 70%;
-  height: auto;
-  margin-top: 15px;
-
-  @media (max-width:992px) {
-    width: 80%;
-  }
-
-  @include mobile {
-    width: 100%;
   }
 }
 
