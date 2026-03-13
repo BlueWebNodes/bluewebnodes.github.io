@@ -20,10 +20,14 @@ permalink: /social-media-ads/
             <h3><a href="https://www.bluewebnodes.com/pcsmf#mfeventdiv" target="_blank">Music Matters</a></h3>
             <p>The project focuses on promoting a live music fundraising event through a combination of motion graphics, social media visuals, and website promotion.</p>
             <p>Goal: Raise awareness, encourage donations, and attract audiences to attend the event while highlighting the importance of music education for students.</p>
+         </div>
+      </div>
 
-
-<div id="mfeventdiv">
-      <h2 id="mfeventtitle">FUNDRAISING</h2>
+      <div class="row"> 
+         <div class="col-md-12 col-lg-12" id="mfeventdiv">
+            <h2 id="mfeventtitle">FUNDRAISING</h2>
+         </div>
+      </div>
   <div class="row">
     <div class="col-md-6 col-lg-5">
       <video controls muted loop autoplay playsinline class="videoSize3">
@@ -65,11 +69,10 @@ permalink: /social-media-ads/
       <p>For more information or to <strong>volunteer</strong>, please contact <a href="mailto:potsdammusicfriends@gmail.com">potsdammusicfriends@gmail.com</a><p>
     </div>
   </div>
-</div>
 
 
-         </div>      
-      </div>
+
+
       <div class="row" > 
          <div class="col-md-4 col-lg-4">
             <div class="motionStrategy">
