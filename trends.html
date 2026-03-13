@@ -27,7 +27,7 @@ permalink: /trends/
                   <h4>Support</h4>
                   {% for post in site.tags.support %}
                      <article class="post">
-                        <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+                        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
                      </article>
                   {% endfor %}
                </div>
@@ -35,7 +35,7 @@ permalink: /trends/
                   <h4>Articles</h4>
                   {% for post in site.tags.blogger %}
                      <article class="post">
-                        <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+                        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
                      </article>
                   {% endfor %}
                </div>
