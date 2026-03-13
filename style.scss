@@ -610,8 +610,12 @@ img[alt="Get Started"] {
   margin-left: auto;
   margin-right: auto;
   background-color: $whiteBlue;
-  width: 90%;
+  width: 92%;
   margin-bottom: 24px;
+
+  @media (max-width:992px) {
+    width:98%;
+  }
 }
 
 img[alt="New Design 1"] {
