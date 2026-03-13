@@ -5,7 +5,7 @@ permalink: /solutions/
 ---
 
 <div class="gridlayoutthird">
-    <h2>Don't Be Afraid to Ask a Quote Based on Your Budget!</h2>
+    <h2>Don't Be Afraid to <a href="/contact/">Ask a Quote</a> Based on Your Budget!</h2>
 </div>
 
 <div class="gridlayoutsecond">
