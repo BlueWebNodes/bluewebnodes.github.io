@@ -679,13 +679,13 @@ img[alt="New Design 1"] {
   }
 }
 
-.post h2 {
-    color: $darkerGray;
-}
-
 #trendpost {
   background-image: linear-gradient( $white, $whiteBlue);
-  padding: 16px; 
+  padding: 16px;
+
+  h2 {
+    color: $darkerGray;
+  } 
 }
 
 //
