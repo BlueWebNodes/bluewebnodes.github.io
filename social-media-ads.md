@@ -17,6 +17,7 @@ permalink: /social-media-ads/
       <div class="row"> 
          <div class="col-md-12 col-lg-12" id="motionProject">
                <h2>A Digital Campaign to Promote a Fundraising Event</h2>
+               <h3><a href="https://www.bluewebnodes.com/pcsmf#mfeventdiv" target="_blank">Music Matters</h3>
                <p>The project focuses on promoting a live music fundraising event through a combination of motion graphics, social media visuals, and website promotion.</p>
                <p>Goal: Raise awareness, encourage donations, and attract audiences to attend the event while highlighting the importance of music education for students.</p>
          </div>      
