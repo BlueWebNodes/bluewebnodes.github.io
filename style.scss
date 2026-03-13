@@ -144,7 +144,7 @@ img {
 }
 
 // Containers
-.container-fluid {
+.motionStrategy-fluid {
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
 }
@@ -605,6 +605,10 @@ img[alt="Get Started"] {
   margin-bottom: 16px;
 }
 
+.gridlayoutfifth {
+  background-color: $whiteBlue;
+  width: 90%;
+}
 
 img[alt="New Design 1"] {
   width: 100%;
@@ -1095,9 +1099,10 @@ img[alt="Logo5"] {
   display:inline-block;
   margin-left: auto;
   margin-right: auto;
+  padding: 16px;
 
   @media (max-width:992px) {
-    width:100%;
+    width:96%;
   }
 }
 

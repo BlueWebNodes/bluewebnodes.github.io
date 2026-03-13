@@ -12,8 +12,8 @@ permalink: /social-media-ads/
    <hr>
 </div>
 
-<div class="gridlayoutfirst">
-   <div class="containerfixed2">
+<div class="gridlayoutfifth">
+   <div class="containerfixed">
       <div class="row"> 
          <div class="col-md-12 col-lg-12" id="motionProject">
                <h2>A Digital Campaign to Promote a Fundraising Event</h2>
@@ -23,7 +23,7 @@ permalink: /social-media-ads/
       <div class="row" > 
          <div class="col-md-4 col-lg-4">
             <div class="motionStrategy">
-               <h2>Creative Strategy</h2>
+               <h3>Creative Strategy</h3>
                <ul>
                   <li>Emotional Storytelling</li>
                   <li>Visual Energy</li>
@@ -34,7 +34,7 @@ permalink: /social-media-ads/
          </div>
          <div class="col-md-4 col-lg-4">
             <div class="motionStrategy">
-               <h2>Digital Promotion Strategy</h2>
+               <h3>Digital Promotion Strategy</h3>
                <ul>
                   <li>Motion Graphics for Social Media</li>
                   <li>Social Media Image Graphics</li>
@@ -44,7 +44,7 @@ permalink: /social-media-ads/
          </div>
          <div class="col-md-4 col-lg-4">
             <div class="motionStrategy">
-               <h2>Impact</h2>
+               <h3>Impact</h3>
                <ul>
                   <li>Reach a wider audience online</li>
                   <li>Promote the fundraising event effectively</li>
@@ -53,6 +53,11 @@ permalink: /social-media-ads/
                </ul>
             </div>
          </div>
+      </div>
+      <div class="row"> 
+         <div class="col-md-12 col-lg-12">
+            <p>&nbsp;</p>     
+         </div>      
       </div>
    </div>
 </div>
