@@ -18,6 +18,7 @@ permalink: /social-media-ads/
          <div class="col-md-12 col-lg-12" id="motionProject">
                <h2>A Digital Campaign to Promote a Fundraising Event</h2>
                <p>The project focuses on promoting a live music fundraising event through a combination of motion graphics, social media visuals, and website promotion.</p>
+               <p>Goal: Raise awareness, encourage donations, and attract audiences to attend the event while highlighting the importance of music education for students.</p>
          </div>      
       </div>
       <div class="row" > 
@@ -47,10 +48,10 @@ permalink: /social-media-ads/
             <div class="motionStrategy">
                <h3>Impact</h3>
                <ul>
-                  <li>Reach a wider audience online</li>
-                  <li>Promote the fundraising event effectively</li>
-                  <li>Inspire community support for student musicians</li>
-                  <li>Strengthen the visibility of local music programs</li>
+                  <li>Reach a Wider Audience Online</li>
+                  <li>Promote the Fundraising Event Effectively</li>
+                  <li>Inspire Community Support for Musicians</li>
+                  <li>Strengthen the Visibility of Music Programs</li>
                </ul>
             </div>
          </div>
