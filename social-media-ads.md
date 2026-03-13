@@ -37,7 +37,8 @@ permalink: /social-media-ads/
                <h3>Digital Promotion Strategy</h3>
                <ul>
                   <li>Motion Graphics for Social Media</li>
-                  <li>Social Media Image Graphics</li>
+                  <li>Social Media Graphic Posts</li>
+                  <li>Facebook Event Page Cover Picture</li>
                   <li>Website Banner Promotion</li>
                </ul>
             </div>

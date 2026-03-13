@@ -606,8 +606,12 @@ img[alt="Get Started"] {
 }
 
 .gridlayoutfifth {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   background-color: $whiteBlue;
   width: 90%;
+  margin-bottom: 16px;
 }
 
 img[alt="New Design 1"] {
@@ -1104,6 +1108,10 @@ img[alt="Logo5"] {
   @media (max-width:992px) {
     width:96%;
   }
+}
+
+.motionStrategy h3 {
+  text-align: center;
 }
 
 //
