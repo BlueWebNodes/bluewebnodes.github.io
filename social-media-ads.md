@@ -18,10 +18,10 @@ permalink: /social-media-ads/
          <div class="col-md-12 col-lg-12" id="motionProject">
 
             <h2>A Digital Campaign to Promote a Fundraising Event</h2>
-            <h3><a href="https://www.bluewebnodes.com/pcsmf#mfeventdiv" target="_blank">Music Matters</a></h3>
+            <h3 style="display:none;"><a stylehref="https://www.bluewebnodes.com/pcsmf#mfeventdiv" target="_blank">Music Matters</a></h3>
             <video controls muted loop autoplay playsinline class="videoSize1">
               <source src="https://github.com/BlueWebNodes/bluewebnodes.github.io/raw/refs/heads/master/videos/pcsmfMusicMattersPost.mp4" type="video/mp4">
-                  Your browser does not support the video tag.
+                  Your browser does not support the video tag
             </video>     
             <p>The project focuses on promoting a live music fundraising event through a combination of motion graphics, social media visuals, and website promotion.</p>
             <p>Goal: Raise awareness, encourage donations, and attract audiences to attend the event while highlighting the importance of music education for students.</p>
