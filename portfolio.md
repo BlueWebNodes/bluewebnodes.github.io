@@ -25,10 +25,10 @@ permalink: /portfolio/
       </div>
       <div class="row" id="colmddisplayno"> 
          <div class="col-md-6 col-lg-6" id="pagelayout21">
-            <p><a href="/websites/">View More Projects</a></p>
+            <p><a href="/websites/">View Projects</a></p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout22">
-            <p><a href="/ecommerce/">View More Projects</a></p>
+            <p><a href="/ecommerce/">View Projects</a></p>
          </div>       
       </div>
    </div>
@@ -48,10 +48,10 @@ permalink: /portfolio/
       </div>
       <div class="row" id="colmddisplayno"> 
          <div class="col-md-6 col-lg-6" id="pagelayout22">
-            <p><a href="/social-media-ads">View More Projects</a></p>
+            <p><a href="/social-media-ads">View Projects</a></p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout21">
-            <p><a href="/social-media-ads">View More Projects</a></p>
+            <p><a href="/social-media-ads">View Projects</a></p>
          </div>       
       </div>
    </div>
