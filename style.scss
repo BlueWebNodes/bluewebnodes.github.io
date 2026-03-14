@@ -54,7 +54,7 @@ h1 {
   font-family: $abrilFatface;
   font-weight: normal;
   font-size: 48px;
-  color: $logoBlue;
+  color: $white;
   a {
     color: inherit;
   }
@@ -81,7 +81,6 @@ h4 {
   font-family: $barlowCondensed;
   font-weight: bold;
   font-size: 22px;
-  color: $gray;
 }
 
 h5, h6 {
@@ -141,6 +140,12 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.importanth2 {
+    font-family: $oranienbaum;
+    color: $black;
+    font-size: 32px;
 }
 
 // Containers
@@ -215,7 +220,7 @@ img {
 }
 
 .masthead {
-  padding: 0;
+  padding: 0px;
 
   @include mobile {
     text-align: center;
@@ -313,7 +318,6 @@ nav {
   padding-top: 126px;
   padding-left: 4%;
   width: 100%;
-  color: $white;
 
   @include mobile {
     padding-top: 86px;
@@ -349,7 +353,7 @@ nav {
     padding-left: 0px;
     width: auto;
     height: auto;
-    color: $darkerGray;
+    color: $black;
     font-size: 30px;
   }
 
@@ -445,7 +449,6 @@ footer {
 .importanttitle span {
   position: relative;
   display: inline-block;
-  color: #034ea2;
   font-family: $abrilFatface;
   font-weight: normal;
   font-size: 32px;
@@ -670,7 +673,6 @@ img[alt="New Design 1"] {
     padding-top: 126px;
     padding-left: 1%;
     width: 100%;
-    color: $white;
 
     @include mobile {
       font-size: 22px;
@@ -762,13 +764,13 @@ img[alt="New Design 1"] {
 }
 
 .downloadfile a {
-  background-color: #034ea2;
+  background-color: $logoBlue;
   display: inline-block;
   margin-bottom: 4px;
   margin-right: 8px;
   border-radius: 5px;
   padding: 8px 12px;
-  color: #ffffff;
+  color: $white;
   font-weight: 700;
 }
 

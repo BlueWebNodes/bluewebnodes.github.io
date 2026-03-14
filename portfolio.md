@@ -58,7 +58,7 @@ permalink: /portfolio/
 </div>
 
 <div class="gridlayoutthird">
-    <h2>Technology</h2>
+    <h2 class="importanth2">Technology</h2>
 </div>
 
 <div class="gridlayoutsecond">
