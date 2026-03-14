@@ -41,13 +41,13 @@ permalink: /services/
             <li>Domain name and web hosting setup</li>
             <li>Final approval meeting</li>
             <li>“Go live” - put it online!</li>
-            <li>Ongoing updates to keep your website fresh</li>
+            <li>Keep your website fresh</li>
             </ol>
             <p>Our web design projects include a variety of website solutions tailored to different goals, budgets, and business needs:</p>
             <ul>
-            <li>Informational websites using platforms such as WordPress, Drupal, Weebly, or Wix</li>
-            <li>Ecommerce Websites using platforms such as WordPress, Drupal, Shopify, Weebly, or Wix</li>
-            <li>Custom-built webpages using HTML, CSS, and JavaScript</li>
+            <li><strong>Informational websites</strong> using platforms such as WordPress, Drupal, Weebly, or Wix</li>
+            <li><strong>Ecommerce Websites</strong> using platforms such as WordPress, Drupal, Shopify, Weebly, or Wix</li>
+            <li><strong>Custom-built webpages</strong> using HTML, CSS, and JavaScript</li>
             </ul>
             <p>If you already have a website but would like to add more features or improve its functionality, we can help upgrade it to a more powerful Content Management System, such as WordPress or Drupal. Feel free to contact us for a quote.</p>
          </div>
@@ -56,17 +56,21 @@ permalink: /services/
             <p>Do you need more features on your website? Our web developers can implement the functionality you need to help your website work better for your business or organization.</p>
             <p>Web development includes many important elements such as web design, content development, client-side and server-side scripting, network security configuration, and other technical improvements that ensure your website runs smoothly and efficiently.</p>  
             <ul>
+            <li>Responsive Design for Different Device Screen Size</li>
+            <li>Drop-Down and Flip Card Menu</li>
+            <li>Big Cover Pictures or Banners, Full-Screen Wide Slideshow,
+Custom Size Slideshow</li>
+            <li>Email Design, HTML Email Newsletter and News Subscribe</li>
+            <li>News Feeds, YouTube Feed, Facebook Page Feed</li>
+            <li>Multi-Page, Online Contest and Voting Forms</li>
+            <li>Search Engine with Exposed Filters</li>
+            <li>Spam Contral: Image Captcha, ReCaptcha, Automated
+Logout, and Password Policy</li>
+            <li>SMS and Email Notifications</li>
             <li>Image Gallery</li>
-            <li>Image Slide Show</li>
-            <li>Password Policy</li>
-            <li>Log Out Automatically</li>
             <li>Blog</li>
-            <li>Web Forms</li>
             <li>Google Analytics</li>
-            <li>Search Filter</li>
             <li>Calendar</li>
-            <li>HTML Newsletter</li>
-            <li>Flip Card Menu</li>
             <li>PayPal, Venmo and Square Button</li>
             <li>QR Code</li>
             <li>Your Requirements</li>
