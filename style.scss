@@ -358,7 +358,6 @@ nav {
     padding-left: 0px;
     width: auto;
     height: auto;
-    color: $black;
     font-size: 30px;
   }
 
@@ -639,6 +638,9 @@ img[alt="New Design 1"] {
 
 #bloglayout11 {
   padding-top: 20px;
+  h1 {
+  color: $white;
+  }
 }
 
 #bloglayout12 {
