@@ -85,7 +85,7 @@ Logout, and Password Policy</li>
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Website Maintenance</h2>
-            <p>We manage your website so you can focus on growing your business or organization. Our maintenance plans are billed monthly, and you can enjoy a discount when paying annually. Our regular website maintenance services include:</p>  
+            <p>We manage your website so you can focus on growing your business or organization. Our maintenance plans are billed monthly, and you can enjoy a discount when paying annually. Our basic website (with CMS) maintenance services include:</p>  
             <ul>
             <li>System Updates</li>
             <li>Plugin or Module Updates</li>

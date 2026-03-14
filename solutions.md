@@ -13,7 +13,7 @@ permalink: /solutions/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Create A Brand New Website</h2>
-            <p>The services include:</p>
+            <p>The Basic services include:</p>
             <ul>
             <li>Set up domain registration, web hosting services, and third-party services</li>
             <li>100% custom-made webpage design</li>
@@ -23,10 +23,10 @@ permalink: /solutions/
             <li>High-quality graphics, optimized for fast loading</li>
             <li>External CSS file (if necessary)</li>
             <li>Full ownership of your website</li>
-            <li>one on one training (2 hours)</li>
+            <li>one on one training (At least 2 hours)</li>
             </ul>
             <h5>Small Business Website: Starting at $499</h5>
-            <p>The website features:</p>
+            <p>The basic website features:</p>
             <ul>
             <li>Homepage with main menu</li>
             <li>About us page</li>
@@ -36,7 +36,7 @@ permalink: /solutions/
             <p>Additional page (Web form is not included): $80/ea</p>
             <h5>Non-ecommerce Website with CMS: Starting at $1,499</h5>
             <h5>Ecommerce Website with CMS: Starting at $2,999</h5>  
-            <p>The website features:</p>
+            <p>The basic website features:</p>
             <ul>
             <li>Homepage with main menu</li>
             <li>About us page</li>
@@ -52,17 +52,17 @@ permalink: /solutions/
                   <h2>Website (with CMS) Basic Maintenance</h2>
                   <p>The services include:</p>
                   <ul>
-                  <li>System Updates</li>
-                  <li>Plugin Updates</li>
-                  <li>Biweekly Site Backup</li>
-                  <li>Uptime Monitoring</li>
-                  <li>Fix breaks from updates</li>
-                  <li>Trouble shooting</li>
+                     <li>System Updates</li>
+                     <li>Plugin or Module Updates</li>
+                     <li>Biweekly Site Backups</li>
+                     <li>Uptime Monitoring</li>
+                     <li>Fixing issues caused by updates</li>
+                     <li>Troubleshooting and technical support</li>
                   </ul>
                   <p>Small: $35/mo; or $32/mo, Billed Annually<br />
                   Medium: $45/mo; or $41/mo, Billed Annually<br />
                   Large: $55/mo; or $50/mo, Billed Annually</p>
-                  <p>The services not included:</p>
+                  <p>The above fee for services not included:</p>
                   <ul>
                   <li>Domain registration, web hosting company services, and third-party services</li>
                   <li>Website content updating</li>
