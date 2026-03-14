@@ -14,11 +14,11 @@ permalink: /services/
             </video>     
          </div>
          <div class="col-md-7 col-lg-9" id="pagelayoutservice11">
-            <p>Blue Web Nodes was created in 2017. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
-            <p>We provide design, development, and maintenance services for <a href="/websites/">websites</a>, including <a href="/ecommerce/">ecommerce websites</a>. We offer graphic design services for <a href="/social-media-ads/">social media ads</a>, especially through <a href="/social-media-ads/">motion graphics</a>.</p>
-            <p>We will provide technical support of our services.</p>  
-            <p>Locate in St. Lawrence County, NY, USA.</p>
-            <p>Please feel free to <a href="/lets-talk/">contact us</a>. Thank you!</p>
+            <p>Blue Web Nodes was founded in 2017. With years of experience in web development and graphic design, we specialize in creating unique, one-of-a-kind digital projects that help businesses stand out.</p>  
+            <p>We offer complete services for <a href="/websites/">websites</a>, including design, development, and ongoing maintenance, as well as <a href="/ecommerce/">ecommerce</a> solutions. Our graphic design services support <a href="/social-media-ads/">social media advertising</a>, with a special focus on eye-catching <a href="/social-media-ads/">motion graphics</a> that bring your brand to life.</p>
+            <p>We also provide reliable technical support to ensure your website and digital content continue to perform smoothly.</p>  
+            <p>Blue Web Nodes is proudly located in St. Lawrence County, New York, USA</p>
+            <p>If you have a project in mind, please feel free to <a href="/lets-talk/">contact us</a>. We look forward to working with you. Thank you!</p>
          </div>       
       </div>
    </div>
@@ -29,31 +29,32 @@ permalink: /services/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Website Design</h2>
-            <p>A beautiful, professional website is a tremendous online advertisement for your business. 24 hours a day, 7 days a week, works for you! We will create and even manage it for you.</p>  
-            <p>After following steps, your website will be online easily:</p>
+            <p>A beautiful, professional website is one of the most powerful ways to promote your business online. Your website works for you 24 hours a day, 7 days a week, presenting your brand, services, and ideas to potential customers anytime they visit. We can design, build, and even manage your website so you can focus on running your business.</p>  
+            <p>Our process makes launching your website simple and smooth:</p>
             <ol>
             <li>Pre-design meeting</li>
-            <li>Site information</li>
-            <li>Site architecture</li>
-            <li>Layout</li>
-            <li>Final design</li>
-            <li>Test</li>
-            <li>Register domain name and web host</li>
+            <li>Collecting site information</li>
+            <li>Planning the site architecture</li>
+            <li>Designing the layout</li>
+            <li>Final design development</li>
+            <li>Website testing</li>
+            <li>Domain name and web hosting setup</li>
             <li>Final approval meeting</li>
             <li>“Go live” - put it online!</li>
-            <li>Keep you website fresh.</li>
+            <li>Ongoing updates to keep your website fresh</li>
             </ol>
-            <p>We create the following Websites:</p>
+            <p>Ongoing updates to keep your website fresh:</p>
             <ul>
-            <li>Regular Informational Websites with CMS (WordPress, Drupal, Weebly.com, Wix.com, etc.)</li>
-            <li>Ecommerce Websites with CMS (WordPress, Drupal, Shopify.com, Weebly.com, Wix.com, etc.)</li>
-            <li>Static Websites (HTML, CSS, and Javascript)</li>
+            <li>Informational websites using platforms such as WordPress, Drupal, Weebly, or Wix</li>
+            <li>Ecommerce Websites using platforms such as WordPress, Drupal, Shopify, Weebly, or Wix</li>
+            <li>Custom-built websites using HTML, CSS, and JavaScript</li>
             </ul>
-            <p>If you already have a website and need to improve it with more functionalities, We would like to help you convert it to a more powerful Content Management System such as DruPal or WordPress. Please feel free to ask a price for that.</p>
+            <p>If you already have a website but would like to add more features or improve its functionality, we can help upgrade it to a more powerful Content Management System, such as WordPress or Drupal. Feel free to contact us for a quote.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Web Development</h2>
-            <p>Do you need more functionalities on your website? Our web developer will enable them by your requirements. The Web development process includes Web design, Web content development, client-side/server-side scripting and network security configuration, and other tasks.</p>  
+            <p>Do you need more features on your website? Our web developers can implement the functionality you need to help your website work better for your business or organization.</p>
+            <p>Web development includes many important elements such as web design, content development, client-side and server-side scripting, network security configuration, and other technical improvements that ensure your website runs smoothly and efficiently.</p>  
             <ul>
             <li>Image Gallery</li>
             <li>Image Slide Show</li>
@@ -80,16 +81,16 @@ permalink: /services/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2>Website Maintenance</h2>
-            <p>We manage your site so you can focus on growing your business or organization. All plans are billed monthly. Enjoy a discount if you pay annually. Our website maintenance services include:</p>  
+            <p>We manage your website so you can focus on growing your business or organization. Our maintenance plans are billed monthly, and you can enjoy a discount when paying annually. Our regular website maintenance services include:</p>  
             <ul>
             <li>System Updates</li>
-            <li>Plug-in Updates</li>
-            <li>Biweekly Site Backup</li>
+            <li>Plugin or Module Updates</li>
+            <li>Biweekly Site Backups</li>
             <li>Uptime Monitoring</li>
-            <li>Fix breaks from updates</li>
-            <li>Trouble shooting</li>
+            <li>Fixing issues caused by updates</li>
+            <li>Troubleshooting and technical support</li>
             </ul>
-            <p>We will be happy to input or update the content on your website, if you need.</p>
+            <p>If you need help adding or updating content on your website, we’ll be happy to assist you with that as well.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Social Media Advertising</h2>
