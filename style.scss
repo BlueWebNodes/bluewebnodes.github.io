@@ -454,16 +454,16 @@ footer {
 .importanttitle span {
   position: relative;
   display: inline-block;
-  font-family: $abrilFatface;
+  font-family: $frederickaGreat;
   font-weight: normal;
   font-size: 32px;
-  color: $logoBlue;
+  color: $black;
   text-transform: uppercase;
   animation: flip 5s infinite;
   animation-delay: calc(10s + .2s * var(--i));
 
   @include mobile {
-    font-size: 26px;
+    font-size: 28px;
   }
 
 }
