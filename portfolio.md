@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 <div class="submenuright">
-   <p><a href="/regular-website-examples/">Websites</a><a href="/ecommerce-website-examples/">Ecommerce</a><a href="/social-media-ads/">Social Media Ads</a><a href="/more-examples/">More ...</a></p>
+   <p><a href="/websites/">Websites</a><a href="/ecommerce/">Ecommerce</a><a href="/social-media-ads/">Social Media Ads</a><a href="/more-projects/">More ...</a></p>
 </div>
 
 <div class="submenurighthr">
@@ -15,20 +15,20 @@ permalink: /portfolio/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2><a href="/regular-website-examples">Websites</a></h2>
+            <h2><a href="/websites/">Websites</a></h2>
             <p>Informational websites, as their name suggests, work in providing information. Informational sites are used by people or businesses to display their work and describe their services, whereas actual transactions and service delivery takes place offline. The main purpose of such a website is to allow your target audience to learn more about you and your business.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
-            <h2><a href="/ecommerce-website-examples">Ecommerce</a></h2>
+            <h2><a href="/ecommerce/">Ecommerce</a></h2>
             <p>An ecommerce website is specifically designed to facilitate commercial or business transactions, and it involves online transfer of information. Ecommerce websites include, but not limit to, auction sites, retail stores, business-to-business services, financial management sites, and music sites.</p>
           </div>       
       </div>
       <div class="row" id="colmddisplayno"> 
          <div class="col-md-6 col-lg-6" id="pagelayout21">
-            <p><a href="/regular-website-examples">View More Examples</a></p>
+            <p><a href="/websites/">View More Projects</a></p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout22">
-            <p><a href="/ecommerce-website-examples">View More Examples</a></p>
+            <p><a href="/ecommerce/">View More Projects</a></p>
          </div>       
       </div>
    </div>
@@ -48,10 +48,10 @@ permalink: /portfolio/
       </div>
       <div class="row" id="colmddisplayno"> 
          <div class="col-md-6 col-lg-6" id="pagelayout22">
-            <p><a href="/social-media-ads">View More Examples</a></p>
+            <p><a href="/social-media-ads">View More Projects</a></p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout21">
-            <p><a href="/social-media-ads">View More Examples</a></p>
+            <p><a href="/social-media-ads">View More Projects</a></p>
          </div>       
       </div>
    </div>
