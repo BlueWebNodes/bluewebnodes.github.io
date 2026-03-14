@@ -43,11 +43,11 @@ permalink: /services/
             <li>“Go live” - put it online!</li>
             <li>Ongoing updates to keep your website fresh</li>
             </ol>
-            <p>Ongoing updates to keep your website fresh:</p>
+            <p>Our web design projects include a variety of website solutions tailored to different goals, budgets, and business needs:</p>
             <ul>
             <li>Informational websites using platforms such as WordPress, Drupal, Weebly, or Wix</li>
             <li>Ecommerce Websites using platforms such as WordPress, Drupal, Shopify, Weebly, or Wix</li>
-            <li>Custom-built websites using HTML, CSS, and JavaScript</li>
+            <li>Custom-built webpages using HTML, CSS, and JavaScript</li>
             </ul>
             <p>If you already have a website but would like to add more features or improve its functionality, we can help upgrade it to a more powerful Content Management System, such as WordPress or Drupal. Feel free to contact us for a quote.</p>
          </div>
