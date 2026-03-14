@@ -14,20 +14,20 @@ permalink: /portfolio/
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
-         <div class="col-md-6 col-lg-6" id="pagelayout11">
+         <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2><a href="/websites/">Websites</a></h2>
             <p>Informational websites, as their name suggests, work in providing information. Informational sites are used by people or businesses to display their work and describe their services, whereas actual transactions and service delivery takes place offline. The main purpose of such a website is to allow your target audience to learn more about you and your business.</p>
          </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout12">
+         <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2><a href="/ecommerce/">Ecommerce</a></h2>
             <p>An ecommerce website is specifically designed to facilitate commercial or business transactions, and it involves online transfer of information. Ecommerce websites help you sell products or services online, manage inventory, process payments securely, and provide a smooth shopping experience for your customers.</p>
           </div>       
       </div>
       <div class="row" id="colmddisplayno"> 
-         <div class="col-md-6 col-lg-6" id="pagelayout21">
+         <div class="col-md-6 col-lg-6" id="pagelayout22">
             <p><a href="/websites/">View Projects</a></p>
          </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout22">
+         <div class="col-md-6 col-lg-6" id="pagelayout21">
             <p><a href="/ecommerce/">View Projects</a></p>
          </div>       
       </div>
@@ -37,20 +37,20 @@ permalink: /portfolio/
 <div class="gridlayoutsecond">
    <div class="container-fluid">
       <div class="row"> 
-         <div class="col-md-6 col-lg-6" id="pagelayout12">
+         <div class="col-md-6 col-lg-6" id="pagelayout11">
             <h2><a href="/social-media-ads">Social Media Ads</a></h2>
             <p>Social media advertising involves promoting content on platforms like Google, Facebook, Instagram, and TikTok to reach specific audiences. This paid form of marketing allows brands to target users based on demographics, interests, and behaviors, delivering tailored ads for maximum impact. </p>
          </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout11">
+         <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2><a href="/social-media-ads">Motion Graphics</a></h2>
             <p>Motion graphics are taking over social media ads—and for good reason. Bold movement, eye-catching animation, and clear messaging stop the scroll and turn seconds of attention into real impact.</p>
          </div>       
       </div>
       <div class="row" id="colmddisplayno"> 
-         <div class="col-md-6 col-lg-6" id="pagelayout22">
+         <div class="col-md-6 col-lg-6" id="pagelayout21">
             <p><a href="/social-media-ads">View Projects</a></p>
          </div>
-         <div class="col-md-6 col-lg-6" id="pagelayout21">
+         <div class="col-md-6 col-lg-6" id="pagelayout22">
             <p><a href="/social-media-ads">View Projects</a></p>
          </div>       
       </div>
