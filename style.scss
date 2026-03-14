@@ -11,10 +11,10 @@
 /* Font for body and titles: font-family: $barlow: 'Barlow', sans-serif; */
 @import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap"');
 
-/* Font for body and titles: font-family: $oranienbaum: 'Oranienbaum', serif; */
-@import url('https://fonts.googleapis.com/css2?family=Oranienbaum&display=swap');
+/* Font for titles: font-family: $festive: 'Festive', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
 
-/* Font for body and titles: font-family: $abrilFatface: 'Abril Fatface', cursive; */
+/* Font for titles: font-family: $abrilFatface: 'Abril Fatface', cursive; */
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
 @import "reset";
@@ -143,9 +143,9 @@ img {
 }
 
 .importanth2 {
-    font-family: $oranienbaum;
+    font-family: $festive;
     color: $black;
-    font-size: 32px;
+    font-size: 36px;
 }
 
 // Containers
