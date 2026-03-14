@@ -62,7 +62,7 @@ permalink: /solutions/
                   <p>Small: $35/mo; or $32/mo, Billed Annually<br />
                   Medium: $45/mo; or $41/mo, Billed Annually<br />
                   Large: $55/mo; or $50/mo, Billed Annually</p>
-                  <p>The above fee for services not included:</p>
+                  <p>The basic services fee does not include:</p>
                   <ul>
                   <li>Domain registration, web hosting company services, and third-party services</li>
                   <li>Website content updating</li>
