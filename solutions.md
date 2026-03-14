@@ -13,7 +13,7 @@ permalink: /solutions/
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2>Create A Brand New Website</h2>
-            <p>The Basic services include:</p>
+            <p>The basic services include:</p>
             <ul>
             <li>Set up domain registration, web hosting services, and third-party services</li>
             <li>100% custom-made webpage design</li>
@@ -22,8 +22,8 @@ permalink: /solutions/
             <li>Professional HTML / DHTML coding with comments for easy editing</li>
             <li>High-quality graphics, optimized for fast loading</li>
             <li>External CSS file (if necessary)</li>
-            <li>Full ownership of your website</li>
-            <li>one on one training (At least 2 hours)</li>
+            <li>You have full ownership of your website</li>
+            <li>one on one training (at least 2 hours)</li>
             </ul>
             <h5>Small Business Website: Starting at $499</h5>
             <p>The basic website features:</p>
@@ -49,8 +49,8 @@ permalink: /solutions/
             <p>Additional page (Web form is not included): $80/ea</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-                  <h2>Website (with CMS) Basic Maintenance</h2>
-                  <p>The services include:</p>
+                  <h2>Website (with CMS) Maintenance</h2>
+                  <p>The basic services include:</p>
                   <ul>
                      <li>System Updates</li>
                      <li>Plugin or Module Updates</li>
