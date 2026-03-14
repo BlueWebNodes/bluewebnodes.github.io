@@ -20,7 +20,7 @@ permalink: /portfolio/
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
             <h2><a href="/ecommerce/">Ecommerce</a></h2>
-            <p>An ecommerce website is specifically designed to facilitate commercial or business transactions, and it involves online transfer of information. Ecommerce websites include, but not limit to, auction sites, retail stores, business-to-business services, financial management sites, and music sites.</p>
+            <p>An ecommerce website is specifically designed to facilitate commercial or business transactions, and it involves online transfer of information. Ecommerce websites help you sell products or services online, manage inventory, process payments securely, and provide a smooth shopping experience for your customers.</p>
           </div>       
       </div>
       <div class="row" id="colmddisplayno"> 
