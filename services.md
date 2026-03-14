@@ -15,10 +15,10 @@ permalink: /services/
          </div>
          <div class="col-md-7 col-lg-9" id="pagelayoutservice11">
             <p>Blue Web Nodes was created in 2017. We have years of experience working as web developers and graphic designers. We create one-of-a-kind projects.</p>  
-            <p>We provide design, development, and maintenance services for <a href="/websites/">websites</a>, including <a href="/ecommerce/">eCommerce websites</a>. We offer graphic design services for <a href="/social-media-ads/">social media ads</a>, especially through <a href="/social-media-ads/">motion graphics</a>.</p>
+            <p>We provide design, development, and maintenance services for <a href="/websites/">websites</a>, including <a href="/ecommerce/">ecommerce websites</a>. We offer graphic design services for <a href="/social-media-ads/">social media ads</a>, especially through <a href="/social-media-ads/">motion graphics</a>.</p>
             <p>We will provide technical support of our services.</p>  
             <p>Locate in St. Lawrence County, NY, USA.</p>
-            <p>Please feel free to <a href="/contact/">contact us</a>. Thank you!</p>
+            <p>Please feel free to <a href="/lets-talk/">contact us</a>. Thank you!</p>
          </div>       
       </div>
    </div>
