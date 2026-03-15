@@ -674,7 +674,7 @@ img[alt="New Design 1"] {
   
   h1 {
     background: url(../images/sitePageTitleBG.jpg);
-    background-position: center right;
+    background-position: top left;
     background-size: cover;
     line-height: 1.4;
     padding-top: 126px;
@@ -683,7 +683,7 @@ img[alt="New Design 1"] {
 
     @include mobile {
       font-size: 28px;
-      padding-top: 86px;
+      padding-top: 46px;
     }  
   }
 }
