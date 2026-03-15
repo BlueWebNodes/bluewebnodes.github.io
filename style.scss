@@ -687,11 +687,11 @@ img[alt="New Design 1"] {
     }
 
     @include mobile {
-      padding-top: 46px;
+      margin-top: 46px;
     }  
   }
     
-  @include mobile {
+  @media (max-width:838px) {
     padding-top: -18px;
   }  
 
