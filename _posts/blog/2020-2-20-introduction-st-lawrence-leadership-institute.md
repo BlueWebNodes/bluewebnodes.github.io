@@ -5,20 +5,20 @@ comments_id: 3
 tag: blogger
 ---
 
+Last fall, I had the opportunity to participate in the St. Lawrence Leadership Institute Course, a program designed to develop leadership skills and strengthen community engagement in St. Lawrence County. The course runs for ten sessions, with the group meeting on the first Thursday of each month from 4:00 pm to 8:00 pm. Each session includes lectures, panel discussions with community leaders, and a delicious dinner that encourages conversation and networking.
+
+The program is ideal for anyone who wants to become a more informed and active citizen, improve leadership abilities, and collaborate with leaders across the region to support the growth and well-being of St. Lawrence County and its communities. If you are passionate about making a positive impact in your community, this course offers a valuable opportunity to learn, connect, and lead.
+
 ## St. Lawrence Leadership Institute Course
 
-I have taken the St. Lawrence Leadership Institute Course at SUNY Potsdam from the last fall. The group typically meets the first Thursday of each month. There are ten sessions for the course. Class sessions are from 4 pm to 8 pm. Lecture, panel, and yummy dinner are included. 
-
-If you have the desire to become a better-informed citizen, and interested in improving your leadership skills, or will to collaborate with outer community leaders for the advancement of St. Lawrence County and its communities, this course is absolutely the best choice for you!
-
 The course info:
-[St. Lawrence Leadership Institute](https://www.potsdam.edu/community/st-lawrence-leadership-institute)
+[St. Lawrence Leadership Institute](www.visitstlc.com/slli)
 
 Contact:
-(315)267-2165
-[slli@potsdam.edu](mailto:slli@potsdam.edu)
+(315)386-4000, ext. 6
+[Laura@slcchamber.org](mailto:Laura@slcchamber.org)
 
-## Highlights
+## Highlights in the course:
 
 ### [Leading with Lollipops](https://youtu.be/hVCBrkrFrBE)
 
