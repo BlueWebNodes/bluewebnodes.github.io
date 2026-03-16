@@ -12,7 +12,10 @@ The program is ideal for anyone who wants to become a more informed and active c
 ## St. Lawrence Leadership Institute Course
 
 The course info:
-[St. Lawrence Leadership Institute](www.visitstlc.com/slli)
+[St. Lawrence Leadership Institute](https://www.visitstlc.com/slli)
+
+Location:
+St. Lawrence County, New York, USA
 
 Contact:
 (315)386-4000, ext. 6
