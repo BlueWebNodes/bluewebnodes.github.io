@@ -5,7 +5,7 @@ comments_id: 1
 tag: blogger
 ---
 
-Recently, I studied JavaScript and jQuery by reading books and completing many online exercises from the <a href="https://www.ASmarterWayToLearn.com" target="_blank"><i>A Smarter Way to Learn</i></a> website. The platform is well known for its unique learning method, which combines short, easy-to-read chapters with immediate interactive exercises that help reinforce understanding and improve retention.
+I had learned JavaScript and jQuery by reading books and completing many online exercises from the <a href="https://www.ASmarterWayToLearn.com" target="_blank"><i>A Smarter Way to Learn</i></a> website one year ago. The platform is well known for its unique learning method, which combines short, easy-to-read chapters with immediate interactive exercises that help reinforce understanding and improve retention.
 
 What makes this approach especially effective is its clear and simple style. Complex programming concepts are explained in straightforward, “layman’s” language, making difficult computer languages much easier to understand and practice. This combination of concise lessons and hands-on exercises creates an efficient and engaging way to learn programming skills.
 
