@@ -17,7 +17,7 @@ What makes this approach especially effective is its clear and simple style. Com
 
 ![jQuery Certificate](/images/jquery-certificate-of-completion-jennifer-j-yu.jpg "jQuery Certificate")
 
-A Smarter Way to Learn books, including HTML/CSS, JavaScript, jQuery, and Python, are available on <a href="https://www.amazon.com/stores/author/B00HNW14T4/allbooks" target="_blank">Amazon Books</a>. 
+<a href="https://www.ASmarterWayToLearn.com" target="_blank"><i>A Smarter Way to Learn</i></a> books, including HTML/CSS, JavaScript, jQuery, and Python, are available on <a href="https://www.amazon.com/stores/author/B00HNW14T4/allbooks" target="_blank">Amazon Books</a>. 
 
 ## Author's Preface
 
