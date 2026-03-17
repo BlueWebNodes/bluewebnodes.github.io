@@ -4,13 +4,13 @@ title: Web Design Is Built on HTML and CSS
 tag: support
 ---
 
-I first learned web design by coding with HTML and CSS. Nearly every website on the internet—no matter how modern, animated, or visually advanced it appears—begins with these two essential technologies. HTML and CSS form the foundation of web design and make it possible to build webpages that are both structured and visually engaging.
+I first learned web design by coding with HTML (HyperText Markup Language) and CSS (Cascading Style Sheets). Nearly every website on the internet—no matter how modern, animated, or visually advanced it appears—begins with these two essential technologies. HTML and CSS form the foundation of web design and make it possible to build webpages that are both structured and visually engaging.
 
 ## HTML: The Structure of a Webpage
 
 HTML is the backbone of every webpage. It defines the structure and meaning of the content, allowing designers and developers to organize elements such as headings, paragraphs, images, links, navigation menus, and forms. Without HTML, a website would lack clear organization and readable content.
 
-## CSS: The Visual Design Layer
+## CSS : The Visual Design Layer
 
 While HTML provides the structure, CSS controls the visual presentation of a website. It allows designers to define how elements appear, including colors, fonts, spacing, layouts, responsiveness, animations, and overall styling. CSS turns a simple page structure into a visually appealing design that is consistent and aligned with a brand’s identity.
 
