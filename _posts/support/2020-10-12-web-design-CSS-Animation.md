@@ -26,9 +26,9 @@ The beauty of CSS animation is that you don’t need heavy JavaScript to make th
 
 There are two main ingredients:
 <ol>
-<li>Keyframes: These define what happens during the animation (the “plot”)</li>
+<li>Keyframes: These define what happens during the animation (the “plot”).</li>
 
-<li>Animation properties: These control how it happens—duration, timing, delay, and repetition (the “director”)</li>
+<li>Animation properties: These control how it happens—duration, timing, delay, and repetition (the “director”).</li>
 </ol>
 
 <div class="blogexample">
@@ -56,11 +56,11 @@ There are two main ingredients:
 
 Here are several animation styles commonly used in modern web design:
 <ul>
-<li>Fade-ins: Elements gently appear like they’re making an entrance</li>
-<li>Hover effects: Buttons react when you hover</li>
-<li>Sliding transitions: Content glides into place instead of awkwardly popping in</li>
-<li>Loading animations: Because staring at a blank screen is not fun</li>
-<li>Micro-interactions: Tiny animations when you click, submit, or toggle something</li>
+<li>Fade-ins: Elements gently appear like they’re making an entrance.</li>
+<li>Hover effects: Buttons react when you hover.</li>
+<li>Sliding transitions: Content glides into place instead of awkwardly popping in.</li>
+<li>Loading animations: Because staring at a blank screen is not fun.</li>
+<li>Micro-interactions: Tiny animations when you click, submit, or toggle something.</li>
 </ul>
 These small details make your website feel responsive, polished, and alive.
 
@@ -70,11 +70,11 @@ Here’s the thing: just because you can animate everything doesn’t mean you s
 
 Keep it under control:
 <ul>
-<li>Use animations with purpose</li>
-<li>Keep them short and smooth (around 0.3–1 second is perfect)</li>
-<li>Avoid excessive motion</li>
-<li>Stay consistent across your site</li>
-<li>Test performance, especially on mobile devices</li>
+<li>Use animations with purpose.</li>
+<li>Keep them short and smooth.</li>
+<li>Avoid excessive motion.</li>
+<li>Stay consistent across your site.</li>
+<li>Test performance, especially on mobile devices.</li>
 </ul>
 
 Remember, the goal is to enhance the experience, not make users dizzy.
