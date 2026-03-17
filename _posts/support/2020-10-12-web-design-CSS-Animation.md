@@ -32,23 +32,23 @@ There are two main ingredients:
 </ol>
 Put them together, and boom—your elements start dancing (gracefully, hopefully).
 
-<div class="blogExample">
+<div class="blogexample">
 <h6>Example:</h6>
 
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(30px);
+<p>@keyframes fadeInUp {<br />
+  from {<br />
+    opacity: 0;<br />
+    transform: translateY(30px);<br />
+  }<br />
+  to {<br />
+    opacity: 1;<br />
+    transform: translateY(0);<br />
   }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
+}</p>
 
-.picture {
-  animation: fadeInUp 0.8s ease-out forwards;
-}
+<p>.picture {<br />
+  animation: fadeInUp 0.8s ease-out forwards;<br />
+}</p>
 
 <h6>In this example, an element smoothly fades in while moving upward, creating a subtle entrance effect.</h6>
 </div>
@@ -58,12 +58,12 @@ Put them together, and boom—your elements start dancing (gracefully, hopefully
 Here are several animation styles commonly used in modern web design:
 <ul>
 <li>Fade-ins: Elements gently appear like they’re making an entrance</li>
-<li>Hover effects: Buttons react when you hover (because they like attention too)</li>
+<li>Hover effects: Buttons react when you hover</li>
 <li>Sliding transitions: Content glides into place instead of awkwardly popping in</li>
 <li>Loading animations: Because staring at a blank screen is not fun</li>
 <li>Micro-interactions: Tiny animations when you click, submit, or toggle something</li>
 </ul>
-These small details make your website feel responsive, polished, and alive—in a good way.
+These small details make your website feel responsive, polished, and alive.
 
 ## Okay, But Don’t Go Overboard
 
@@ -71,19 +71,17 @@ Here’s the thing: just because you can animate everything doesn’t mean you s
 
 Keep it under control:
 <ul>
-<li>Use animations with purpose (not just for decoration)</li>
+<li>Use animations with purpose</li>
 <li>Keep them short and smooth (around 0.3–1 second is perfect)</li>
-<li>Avoid excessive motion (your users’ eyes will thank you)</li>
+<li>Avoid excessive motion</li>
 <li>Stay consistent across your site</li>
 <li>Test performance, especially on mobile devices</li>
 </ul>
 
-Remember, the goal is to enhance the experience—not make users dizzy.
+Remember, the goal is to enhance the experience, not make users dizzy.
 
 ## Final Thoughts
 
-CSS animation is a simple yet powerful way to upgrade your website. You don’t need to go full Hollywood—just adding small touches like hover effects or smooth transitions can make a huge difference.
-
-With the right balance, CSS animation can turn your static pages into engaging, interactive experiences that guide users, highlight content, and give your site a personality.
+CSS animation is a simple yet powerful way to upgrade your website. You don’t need to go full Hollywood—just adding small touches like hover effects or smooth transitions can make a huge difference. With the right balance, CSS animation can turn your static pages into engaging, interactive experiences that guide users, highlight content, and give your site a personality.
 
 Because at the end of the day, nobody wants a boring website—not even your HTML.
