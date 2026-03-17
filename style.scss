@@ -710,6 +710,25 @@ img[alt="New Design 1"] {
   } 
 }
 
+#blogExample {
+  width: 100%;
+  margin: 16px 0px;
+  padding: 16px;
+  background-color: $whiteBlue;
+
+  h6 {
+    line-height: 1.15;
+    font-size: 16px;
+    margin: 0 0 0 0;
+  }
+  
+  p {
+    line-height: 1.15;
+    font-size: 12px;
+    margin: 0 0 0 0;
+  }
+}
+
 //
 // Pages
 //
