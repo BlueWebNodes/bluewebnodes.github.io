@@ -8,7 +8,7 @@ We’ve all heard it before: “HTML and CSS are the foundation of building webp
 
 Modern websites aren’t just about showing information—they’re about interaction, movement, and keeping users from getting bored after 3 seconds. With just a few lines of CSS, you can turn static elements into something that feels alive.
 
-## Why CSS Animation Is Kind of a Big Deal
+## Why CSS Animation Is a Big Deal
 
 Well-designed animations can guide users, highlight important content, and create a more memorable browsing experience.
 
@@ -37,7 +37,7 @@ There are two main ingredients:
 <p>@keyframes fadeInUp {<br />
   from {<br />
     opacity: 0;<br />
-    transform: translateY(30px);<br />
+    transform: translateY(50px);<br />
   }<br />
   to {<br />
     opacity: 1;<br />
@@ -46,10 +46,10 @@ There are two main ingredients:
 }</p>
 
 <p>.picture {<br />
-  animation: fadeInUp 0.8s ease-out forwards;<br />
+  animation: fadeInUp 1s ease-out forwards;<br />
 }</p>
 
-<h6>In this example, an element smoothly fades in while moving upward, creating a subtle entrance effect.</h6>
+<h6>In this example, an element smoothly fades in as it moves upward, creating a subtle entrance effect.</h6>
 </div>
 
 ## Popular CSS Animation Effects
@@ -81,6 +81,6 @@ Remember, the goal is to enhance the experience, not make users dizzy.
 
 ## Final Thoughts
 
-CSS animation is a simple yet powerful way to upgrade your website. You don’t need to go full Hollywood—just adding small touches like hover effects or smooth transitions can make a huge difference. With the right balance, CSS animation can turn your static pages into engaging, interactive experiences that guide users, highlight content, and give your site a personality.
+CSS animation is a simple yet powerful way to upgrade your website. Adding small touches like hover effects or smooth transitions can make a huge difference. With the right balance, CSS animation can turn your static pages into engaging, interactive experiences that guide users, highlight content, and give your site a personality.
 
 Because at the end of the day, nobody wants a boring website—not even your HTML.
