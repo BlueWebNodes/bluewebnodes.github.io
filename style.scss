@@ -715,19 +715,20 @@ img[alt="New Design 1"] {
   margin: 16px 0px;
   padding: 16px;
   background-color: $darkGray;
-  border: 1px solid $darkerGray;
+  border: 2px solid $darkerGray;
   border-style: ridge;
 
   h6 {
     line-height: 1.15;
     font-size: 16px;
     margin: 0.5em 0 0 0;
-    color: $whiteBlue;
+    color: $lightBlue;
+    font-weight: normal;
   }
   
   p {
     line-height: 1.15;
-    font-size: 15px;
+    font-size: 14px;
     margin: 0.5em 0 0 0;
     color: $white;
   }
