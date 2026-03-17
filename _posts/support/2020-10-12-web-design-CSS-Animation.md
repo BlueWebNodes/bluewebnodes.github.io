@@ -4,13 +4,13 @@ title: Let’s Animate Your Webpages by Adding CSS Animation
 tag: support
 ---
 
-We’ve all heard it before: “HTML and CSS are the foundation of building webpages.” It’s true—and if you read my post <a href="https://www.bluewebnodes.com/web-design-html-css/">Web Design Is Built on HTML and CSS</a>, you already know these two are basically the bread and butter of the internet. Every website, from a simple blog to a fancy tech platform, starts with them.
+We’ve all heard it before: “HTML and CSS are the foundation of building webpages.” If you read my post <a href="https://www.bluewebnodes.com/web-design-html-css/">Web Design Is Built on HTML and CSS</a>, you already know these two are basically the bread and butter of the internet. Every website, from a simple blog to a fancy tech platform, starts with them.
 
-Modern websites aren’t just about showing information—they’re about interaction, movement, and keeping users from getting bored after 3 seconds. With just a few lines of CSS, you can turn static elements into something that feels alive (not haunted, just… lively).
+Modern websites aren’t just about showing information—they’re about interaction, movement, and keeping users from getting bored after 3 seconds. With just a few lines of CSS, you can turn static elements into something that feels alive.
 
 ## Why CSS Animation Is Kind of a Big Deal
 
-Good animation isn’t just for showing off—it can guide users, highlight important content, and create a more memorable browsing experience.
+Well-designed animations can guide users, highlight important content, and create a more memorable browsing experience.
 
 Here’s what CSS animation brings to the table:
 <ul>
@@ -30,7 +30,6 @@ There are two main ingredients:
 
 <li>Animation properties: These control how it happens—duration, timing, delay, and repetition (the “director”)</li>
 </ol>
-Put them together, and boom—your elements start dancing (gracefully, hopefully).
 
 <div class="blogexample">
 <h6>Example:</h6>
