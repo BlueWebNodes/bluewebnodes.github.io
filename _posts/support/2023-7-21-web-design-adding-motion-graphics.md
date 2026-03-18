@@ -12,11 +12,11 @@ Motion graphics are animated visual elements. Unlike full character animation or
 
 You’ll often see them used in:
 <ul>
-<li>Hero section animations</li>
-<li>Scroll-based storytelling</li>
-<li>Animated infographics</li>
-<li>Moving icons and UI elements</li>
-<li>Animated logos and brand introductions</li>
+<li>Hero Section Animations</li>
+<li>Scroll-based Storytelling</li>
+<li>Animated Infographics</li>
+<li>Moving Icons and UI Elements</li>
+<li>Animated Logos and Brand Introductions</li>
 </ul>
 These small touches help create a more modern and engaging experience for your visitors.
 
