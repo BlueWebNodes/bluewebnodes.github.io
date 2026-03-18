@@ -12,16 +12,16 @@ But JavaScript allows you to control animations in a way that goes beyond what C
 
 ## How JavaScript Brings Animations to Life
 <ul>
-<li><strong>Scroll-Based Animations:</strong> 
-<p>You can trigger animations as users scroll down the page. Elements can fade in, slide into place, or scale up, creating a dynamic storytelling experience. This technique is widely used in modern landing pages to keep users engaged as they explore content.</p></li>
-<li><strong>Hover and Click Effects:</strong>
-<p>JavaScript can respond to user interactions like hovering over buttons or clicking elements. For example, a button might expand, change color, or trigger a ripple effect when clicked. These small details make a website feel interactive and polished.</p></li>
-<li><strong>Dynamic Content Transitions:</strong>
-<p>Instead of loading new pages, JavaScript can update content instantly. This creates smooth transitions between sections and reduces loading time. It's commonly used in single-page applications and modern web interfaces.</p></li>
-<li><strong>Parallax Effects:</strong>
-<p>By moving background and foreground elements at different speeds, JavaScript can create a sense of depth. This parallax effect adds a visually immersive experience that captures attention.</p></li>
-<li><strong>Timing and Control:</strong>
-<p>JavaScript gives you precise control over animation timing. You can delay, repeat, or synchronize animations to create complex sequences. This level of control is especially useful for storytelling and guided user experiences.</p></li>
+<li><strong>Scroll-Based Animations:</strong> You can trigger animations as users scroll down the page. Elements can fade in, slide into place, or scale up, creating a dynamic storytelling experience. 
+<p>- This technique is widely used in modern landing pages to keep users engaged as they explore content.</p></li>
+<li><strong>Hover and Click Effects:</strong> JavaScript can respond to user interactions like hovering over buttons or clicking elements. For example, a button might expand, change color, or trigger a ripple effect when clicked.
+<p>- These small details make a website feel interactive and polished.</p></li>
+<li><strong>Dynamic Content Transitions:</strong> Instead of loading new pages, JavaScript can update content instantly. This creates smooth transitions between sections and reduces loading time.
+<p>- It's commonly used in single-page applications and modern web interfaces.</p></li>
+<li><strong>Parallax Effects:</strong> By moving background and foreground elements at different speeds, JavaScript can create a sense of depth.
+<p>- This parallax effect adds a visually immersive experience that captures attention.</p></li>
+<li><strong>Timing and Control:</strong> JavaScript gives you precise control over animation timing. You can delay, repeat, or synchronize animations to create complex sequences.
+<p>- This level of control is especially useful for storytelling and guided user experiences.</p></li>
 </ul>
 
 JavaScript transforms websites from simple pages into interactive experiences. By adding JavaScript effects and animations, you can create engaging, dynamic, and memorable webpages that stand out.
