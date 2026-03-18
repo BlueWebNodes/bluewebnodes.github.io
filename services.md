@@ -43,12 +43,14 @@ permalink: /services/
             <li>“Go live” - put it online!</li>
             <li>Keep your website fresh</li>
             </ol>
+            <div class="blockWhite">
             <p>Our web design projects include a variety of website solutions tailored to different goals, budgets, and business needs:</p>
             <ul>
             <li><strong>Informational websites</strong> using platforms such as WordPress, Drupal, Weebly, or Wix</li>
             <li><strong>Ecommerce Websites</strong> using platforms such as WordPress, Drupal, Shopify, Weebly, or Wix</li>
             <li><strong>Custom-built webpages</strong> using HTML, CSS, and JavaScript</li>
             </ul>
+         </div>
             <p>If you already have a website but would like to add more features or improve its functionality, we can help upgrade it to a more powerful Content Management System, such as WordPress or Drupal. Feel free to contact us for a quote.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout11">

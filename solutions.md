@@ -27,7 +27,7 @@ permalink: /solutions/
             <li>You have full ownership of your website</li>
             <li>one on one training (at least 2 hours)</li>
             </ul>
-            <div class="solutionStrategy">
+            <div class="blockWhite">
                <h5>Small Business Website: Starting at $499</h5>
                <p>The basic website features:</p>
                <ul>
@@ -38,7 +38,7 @@ permalink: /solutions/
                </ul>
                <p>Additional page (Web form is not included): $80/ea</p>
             </div>
-            <div class="solutionStrategy">
+            <div class="blockWhite">
                <h5>Non-Ecommerce Website: Starting at $1,499</h5>
                <h5>Ecommerce Website: Starting at $2,999</h5>  
                <p>The basic website features:</p>
@@ -64,9 +64,11 @@ permalink: /solutions/
                      <li>Fixing issues caused by updates</li>
                      <li>Troubleshooting and technical support</li>
                   </ul>
-                  <p>Small: $35/mo; or $32/mo, Billed Annually<br />
-                  Medium: $45/mo; or $41/mo, Billed Annually<br />
-                  Large: $55/mo; or $50/mo, Billed Annually</p>
+                  <div class="blockBlue">
+                     <p>Small: $35/mo; or $32/mo, Billed Annually<br />
+                     Medium: $45/mo; or $41/mo, Billed Annually<br />
+                     Large: $55/mo; or $50/mo, Billed Annually</p>
+                  </div>
                   <p>The basic services fee does not include:</p>
                   <ul>
                   <li>Domain registration, web hosting company services, and third-party services</li>
