@@ -20,15 +20,13 @@ Instead of building a complex comment database, your blog can simply use GitHub�
 Setting up GitHub Issue comments only takes a few steps. Once it’s ready, every post on your blog can have its own discussion space.
 
 Here, I’d like to introduce two helpful articles about setting up comments for a GitHub blog using GitHub Issues:
-<ol>
-<li>
-### [A new comments system for my static Jekyll site](http://aristath.github.io/blog/static-site-comments-using-github-issues-api)
 
-<p>- The author is [Ari Stathopoulos](http://aristath.github.io).</p></li>
+### 1.  [A new comments system for my static Jekyll site](http://aristath.github.io/blog/static-site-comments-using-github-issues-api)
 
-### [GitHub hosted comments for GitHub hosted blogs](http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html)
+-- The author is [Ari Stathopoulos](http://aristath.github.io).
 
-<p>- The author is [Ivan Zuzak](http://ivanzuzak.info/).</p></li>
-</ol>
+### 2.  [GitHub hosted comments for GitHub hosted blogs](http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html)
+
+-- The author is [Ivan Zuzak](http://ivanzuzak.info/).
 
 Finally, I was able to make it work on my blog as [Ari Stathopoulos](http://aristath.github.io) suggested. With this setup, readers can sign in with their GitHub accounts, join discussions, and even react to comments with emojis. I really enjoy using it.
