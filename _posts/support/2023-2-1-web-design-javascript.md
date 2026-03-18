@@ -6,9 +6,9 @@ tag: support
 
 ## Using JavaScript alongside CSS
 
-Modern websites are no longer just polite little static pages sitting quietly on the internet. They are interactive, dynamic, and responsive to user behavior. This magic comes mainly from CSS and JavaScript. JavaScript generally executes much more slowly than CSS rules parsed into the DOM. All JavaScript code runs at runtime, whereas CSS is mapped to visual constructs. So if CSS can handle an animation, I happily let it do the job. 
+Modern websites are no longer just polite little static pages sitting quietly on the internet. They are interactive, dynamic, and responsive to user behavior. This magic comes mainly from CSS and JavaScript. JavaScript generally executes much more slowly than CSS. All JavaScript code runs at runtime, whereas CSS maps to visual constructs. So if CSS can handle an animation, I happily let it do the job. 
 
-But JavaScript allows you to control animations in a way that goes beyond what CSS alone can do. So I still love to grasp this skill for my web design services. While CSS is a styling language, JavaScript is a programming language. That means it can add interactivity and functionality to websites. So it's worth learning because it can create dynamic web elements, handle user interactions, manipulate data, and perform various other tasks. 
+But JavaScript allows you to control animations in a way that goes beyond what CSS alone can do. While CSS is a styling language, JavaScript is a programming language. That means it can add interactivity and functionality to websites. So it's worth learning because it can create dynamic web elements, handle user interactions, manipulate data, and perform various other tasks. I love to grasp this skill for my web design services. 
 
 ## How JavaScript Brings Animations to Life
 <ul>
@@ -32,7 +32,7 @@ Rather than one being better than the other, JavaScript and CSS are complementar
 <ul>
 <li>JavaScript can trigger CSS changes.</li>
 <li>Let JavaScript update CSS styles dynamically.</li>
-<li>Use CSS to handle the heavy lifting (when possible).</li>
+<li>Use CSS for animations and transitions whenever possible.</li>
 <li>JavaScript responds to user action and tells CSS what to do next.</li>
 </ul>
 

@@ -6,7 +6,7 @@ tag: support
 
 We’ve all heard it before: “HTML and CSS are the foundation of building webpages.” If you read my post <a href="https://www.bluewebnodes.com/web-design-html-css/">Web Design Is Built on HTML and CSS</a>, you already know these two are basically the bread and butter of the internet. Every website, from a simple blog to a fancy tech platform, starts with them.
 
-Modern websites aren’t just about showing information—they’re about interaction, movement, and keeping users from getting bored after 3 seconds. With just a few lines of CSS, you can turn static elements into something that feels alive.
+Modern websites aren’t just about showing information—they’re about interaction, movement, and keeping users from getting bored after 3 seconds. With just a few lines of CSS animation, you can turn static elements into something that feels alive.
 
 ## Why CSS Animation Is a Big Deal
 
