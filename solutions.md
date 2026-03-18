@@ -17,7 +17,7 @@ permalink: /solutions/
             <ul>
             <li>Set up domain registration, web hosting services, email services, and third-party services</li>
             <li>100% custom-made webpage design</li>
-            <li>Content Management System (CMS) so that you can edit your own content</li>
+            <li>Online ADMIN area and Content Management System (CMS) so that you can edit your own content</li>
             <li>The required number of web pages with your content</li>
             <li>Professional HTML coding with comments for easy editing</li>
             <li>High-quality graphics, optimized for fast loading</li>
@@ -39,7 +39,7 @@ permalink: /solutions/
                <p>Additional page (Web form is not included): $80/ea</p>
             </div>
             <div class="solutionStrategy">
-               <h5>Non-ecommerce Website: Starting at $1,499</h5>
+               <h5>Non-Ecommerce Website: Starting at $1,499</h5>
                <h5>Ecommerce Website: Starting at $2,999</h5>  
                <p>The basic website features:</p>
                <ul>
