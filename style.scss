@@ -845,8 +845,7 @@ img[alt="Jenny Yu Image"] {
   height: auto;
   margin: 16px;
   padding: 16px;
-  border: 2px solid $white;
-  border-style: ridge;
+  border: 1px solid $white;
 
   @media (max-width:767px) {
     margin: 16px 0px;
