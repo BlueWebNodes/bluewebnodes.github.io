@@ -56,7 +56,7 @@ permalink: /services/
             <p>Do you need more features on your website? Our web developers can implement the functionality you need to help your website work better for your business or organization.</p>
             <p>Web development includes many important elements such as web design, content development, client-side and server-side scripting, network security configuration, and other technical improvements that ensure your website runs smoothly and efficiently.</p>  
             <ul>
-            <li>SEO optimization</li>
+            <li>SEO (Search Engine Optimization)</li>
             <li>Fast loading time and Image optimization</li>
             <li>Protection and Security Solutions</li>
             <li>WCAG/ADA Web Accessibility</li>

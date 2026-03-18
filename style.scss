@@ -835,6 +835,23 @@ img[alt="Jenny Yu Image"] {
 }
 
 //
+// Solutions page
+//
+
+.solutionStrategy {
+  background-color: rgba(255,255,255,0.60);
+  text-align: left;
+  Width: 90%;
+  height: auto;
+  margin: 16px;
+  padding: 16px;
+
+  @media (max-width:767px) {
+    width:96%;
+  }
+}
+
+//
 // Products Page
 //
 
