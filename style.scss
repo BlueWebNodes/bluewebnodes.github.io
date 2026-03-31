@@ -1398,8 +1398,11 @@ img[alt="PCS Music Friends Facebook"] {
 }
 
 img[alt="PCSMF Picture"] {
-  height: 400px;
+  height: 300px;
   width: auto;
+  display: inline-block;
+  margin-left: 16px;
+  margin-right: 16px;  
 }
 
 #squarepaynowdiv {
