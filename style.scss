@@ -1398,12 +1398,12 @@ img[alt="PCS Music Friends Facebook"] {
 }
 
 img[alt="PCSMF Picture"] {
-  height: 400px;
+  height: 300px;
   width: auto;
   display: inline-block;
   margin: 16px 16px 2px 16px;
-  @include mobile {
-    width: 98%;
+  @media (max-width:767px) {
+    width: 100%;
     height: auto;
     margin: 16px 0px 2px 0px;
   }
