@@ -1398,10 +1398,15 @@ img[alt="PCS Music Friends Facebook"] {
 }
 
 img[alt="PCSMF Picture"] {
-  height: 300px;
+  height: 400px;
   width: auto;
   display: inline-block;
-  margin: 16px 16px 2px 16px; 
+  margin: 16px 16px 2px 16px;
+  @include mobile {
+    width: 98%;
+    height: auto;
+    margin: 16px 0px 2px 0px;
+  }
 }
 
 #squarepaynowdiv {
@@ -1450,7 +1455,7 @@ img[alt="PCSMF Picture"] {
 }
 
 .mfeventinfo2 {
-  line-height: 1.4;
+  line-height: 1.1;
   margin: 0;
   padding: 0;
 }
@@ -1472,7 +1477,7 @@ img[alt="PCSMF Picture"] {
 
 .nodisplay{
   display: inline-block;
-  @include mobile {
+  @media (max-width:767px) {
     display: none;
   }  
 }
