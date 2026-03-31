@@ -1471,7 +1471,9 @@ img[alt="PCSMF Picture"] {
 
 .nodisplay{
   display: inline-block;
-  @media (max-width:767px) {
+  margin-left: 4px;
+  margin-right: 4px;
+  @media (max-width:991px) {
     display: none;
   }  
 }
