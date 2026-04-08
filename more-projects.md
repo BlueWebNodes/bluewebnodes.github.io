@@ -33,14 +33,21 @@ It was created with HTML, CSS, the Bootstrap 3 framework, and Javascript within 
 <hr>
 
 <div class="gridlayoutthird">
-    <h2><a href="https://www.thearcjslc.org" target="_blank">The Arc Jefferson - St. Lawrence Website</a></h2>
-    <p>(All current big image banners are not my work.)</p>
+    <h2>The Arc Jefferson - St. Lawrence Website</h2>
 </div>
-[![Site Home](/images/thearcjslcHome1.jpg "thearcjslc.org Home")](https://www.thearcjslc.org)
+![Site Home](/images/thearcjslcHome1.jpg "thearcjslc.org Home")
 <div class="websiteIntro">
 <p>The site was created and developed on Drupal 9 with a custom sub-theme of the Barrio Bootstrap 5 base theme, and updated to Drupal 10. More regions are added in the sub-theme to make the layouts more flexible. Lots of features: Responsive design, Google Analytics, Meta tags for improving SEO, drop-down main menu, full-screen wide slideshow, varied big front banners with fancy CSS styles, three columns or two columns promo blocks on the front, HTML Email Newsletters, calendar with different color for event catalogs, upcoming events, image gallery, spam-off contact form, voting web-forms, on-line flipbook, Facebook page plug-in, horizontal scroll bar, etc.</p>
 </div>
 <hr>
+
+<div class="gridlayoutthird">
+    <h2>The Lodge at Dodge Pond Reservation Webpage</h2>
+</div>
+![Site Home](/images/ladpHome1.jpg "lodgeatdodgepond.com Home")
+<div class="websiteIntro">
+<p>The site was builton Drupal 7 with Booking Engine for Hotels. The features include full-screen widely slideshow, responsive design, Meta tags for improving SEO, HTLM email newsletters, spam-off contact webform, etc. </p>
+</div>
 
 <div class="gridlayoutthird">
     <h2>St. Lawrence County Public Transit Website</h2>
@@ -49,6 +56,4 @@ It was created with HTML, CSS, the Bootstrap 3 framework, and Javascript within 
 <div class="websiteIntro">
 <p>The site was builton Drupal 8 with a custom sub-theme of Barrio Bootstrap 4 base theme, and updated to Drupal 9. The company logo and main menu are on the big top background. Different web pages have different titles but the same secondary menu on the different background images. The features include responsive design, Google analytics, Meta tags for improving SEO, HTLM email newsletters, spam-off contact webform, Facebook page plug-in, Awesome Font icons, directly downloaded PDFs, etc. </p>
 </div>
-
-
 
