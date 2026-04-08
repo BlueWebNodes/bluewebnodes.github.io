@@ -24,7 +24,7 @@ It was created with HTML, CSS, the Bootstrap 3 framework, and Javascript within 
 <hr>
 
 <div class="gridlayoutthird">
-    <h2><a href="https://www.bluewebnodes.com/pcs-music-friends" target="_blank">PCS Music Friends Webpage</a></h2>
+    <h2><a href="https://www.bluewebnodes.com/pcs-music-friends" target="_blank">PCS Music Friends Website</a></h2>
 </div>
 [![Site Home](/images/PCSMusicFriendsHome2.jpg "pcs-music-friends Home")](https://www.bluewebnodes.com/pcs-music-friends)
 <div class="websiteIntro">
@@ -42,7 +42,7 @@ It was created with HTML, CSS, the Bootstrap 3 framework, and Javascript within 
 <hr>
 
 <div class="gridlayoutthird">
-    <h2>The Lodge at Dodge Pond Reservation Webpage</h2>
+    <h2>The Lodge at Dodge Pond Reservation Website</h2>
 </div>
 ![Site Home](/images/ladpHome1.jpg "lodgeatdodgepond.com Home")
 <div class="websiteIntro">
