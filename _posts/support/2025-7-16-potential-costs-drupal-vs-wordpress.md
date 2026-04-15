@@ -29,7 +29,8 @@ A good example is Elementor plugin. It's widely used and often expected knowledg
 
 Website owners ultimately carry this cost throughout the site's lifecycle.
 
-## Drupal: Fully Open Source With Minimal Potential Cost
+## Drupal: Fully Open Source With Virtually No Potential Cost
+
 In contrast, Drupal takes a different approach. Most Drupal modules are:
 
 <ul>
