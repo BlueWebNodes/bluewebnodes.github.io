@@ -8,7 +8,7 @@ There are many ways to compare Drupal and WordPress, but this article focuses sp
 
 Both platforms are open source, and their core software is free. However, in real-world projects, you rarely rely on the core alone. Building a complete website typically requires plugins, modules, and third-party tools or platforms. To make a fair comparison, practical experience with both systems is valuable.
 
-## Drupal: Fully Open Source With Minimal Potential Cost
+## Drupal: Fully Open Source With Virtually No Cost
 In contrast, Drupal takes a different approach. Most Drupal modules are:
 
 <ul>
