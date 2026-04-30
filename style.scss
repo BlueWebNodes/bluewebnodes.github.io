@@ -1442,8 +1442,9 @@ img[alt="PCSMF Picture"] {
 }
 
 #mfeventthankswindowdiv {
-  display: block;
-  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 75%;
   height: auto;
   background-color: rgba(0, 0, 0, 0.8);
