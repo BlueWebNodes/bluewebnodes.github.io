@@ -1439,13 +1439,11 @@ img[alt="PCSMF Picture"] {
   background-size: cover;
   background-repeat: no-repeat;
   aspect-ratio: 100 / 37;
-  padding: 20px;
 }
 
 #mfeventthankswindowdiv {
   display: block;
-  margin-right: auto;
-  margin-left: auto;
+  margin: auto;
   width: 75%;
   height: auto;
   background-color: rgba(0, 0, 0, 0.8);
