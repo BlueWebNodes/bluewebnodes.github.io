@@ -1435,12 +1435,10 @@ img[alt="PCSMF Picture"] {
 
 #mfeventthanksdiv {
   width: 100vw;
-  background: url(images/musicMattersScreenShot.jpg);
-  background-position: top center;
-  background-size: cover;
-  background-color: #dfcce4;
-  padding: 20px;
-  margin-bottom: 16px;
+  background: url(images/musicMattersScreenShot.jpg) no-repeat center fixed;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding-top: 66.64%;
 }
 
 #mfeventthankswindowdiv {
