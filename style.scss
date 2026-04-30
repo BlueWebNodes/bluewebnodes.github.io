@@ -1434,22 +1434,16 @@ img[alt="PCSMF Picture"] {
 //
 
 #mfeventthanksdiv {
-  height: auto;
+  width: 100vw;
+  background: url(images/musicMattersScreenShot.jpg);
+  background-position: top center;
+  background-size: cover;
   background-color: #dfcce4;
-  color: #000000;
-  text-align: Center;
-  padding: 0px;
+  padding: 20px;
   margin-bottom: 16px;
 }
 
-#mfeventthanksdiv img {
-  width: 100%;
-  height: auto;
-}
-
 #mfeventthankswindowdiv {
-  position:absolute;
-  top: 580px;
   display: block;
   margin-right: auto;
   margin-left: auto;
@@ -1459,7 +1453,6 @@ img[alt="PCSMF Picture"] {
   color: #ffffff;
   text-align: Center;
   padding: 16px;
-  z-index: 99;
 }
 
 #mfeventdiv {
