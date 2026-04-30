@@ -1432,6 +1432,36 @@ img[alt="PCSMF Picture"] {
 //
 // PCS Music Friends Event Block
 //
+
+#mfeventthanksdiv {
+  height: auto;
+  background-color: #dfcce4;
+  color: #000000;
+  text-align: Center;
+  padding: 0px;
+  margin-bottom: 16px;
+}
+
+#mfeventthanksdiv img {
+  width: 100%;
+  height: auto;
+}
+
+#mfeventthankswindowdiv {
+  position:absolute;
+  top: 580px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 75%
+  height: auto;
+  background-color: rgba(0, 0, 0, 0.8);;
+  color: #ffffff;
+  text-align: Center;
+  padding: 16px;
+  z-index: 99;
+}
+
 #mfeventdiv {
   height: auto;
   background-color: #dfcce4;
