@@ -1434,10 +1434,15 @@ img[alt="PCSMF Picture"] {
 //
 
 #mfeventsuccessdiv img {
-  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
   height: auto;
+  margin-bottom: 10px;
   @media (max-width:767px) {
     display: none;
+    margin-bottom: 0px;
   }
 }
 
@@ -1452,8 +1457,9 @@ img[alt="PCSMF Picture"] {
     text-align: center;
     border: 2px solid #f47820;
     border-radius: 5px;
-    padding: 8px;
-    margin-bottom: 12px;
+    padding: 6px;
+    margin-bottom: 6px;
+    margin-bottom: 10px;
   }
 }
 
