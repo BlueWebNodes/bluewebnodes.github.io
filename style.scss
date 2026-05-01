@@ -1439,18 +1439,28 @@ img[alt="PCSMF Picture"] {
   background-size: cover;
   background-repeat: no-repeat;
   aspect-ratio: 100 / 37;
+  padding: 20px;
+  @include mobile {
+    background-size: cover;    
+    padding: 20px;
+  }
 }
 
 #mfeventthankswindowdiv {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
   width: 75%;
   height: auto;
   background-color: rgba(0, 0, 0, 0.8);
   color: #ffffff;
   text-align: Center;
   padding: 16px;
+}
+
+#mfeventsuccessdiv image {
+  width: 100%
+  height: auto
 }
 
 #mfeventdiv {
