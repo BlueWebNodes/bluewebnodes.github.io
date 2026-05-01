@@ -1433,34 +1433,25 @@ img[alt="PCSMF Picture"] {
 // PCS Music Friends Event Block
 //
 
-#mfeventthanksdiv {
-  background: url(images/musicMattersScreenShot.jpg);
-  background-position: top center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  aspect-ratio: 100 / 37;
-  padding: 20px;
-  @include mobile {
-    background-size: cover;    
-    padding: 20px;
-  }
-}
-
-#mfeventthankswindowdiv {
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
-  width: 75%;
-  height: auto;
-  background-color: rgba(0, 0, 0, 0.8);
-  color: #ffffff;
-  text-align: Center;
-  padding: 16px;
+#mfeventsuccessdiv {
+  text-align: center;
 }
 
 #mfeventsuccessdiv image {
   width: 100%;
   height: auto;
+  @media (max-width:767px) {
+    display: none;
+  }
+}
+
+#mfeventsuccessdiv h2 {
+  display: none;
+  @media (max-width:767px) {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 #mfeventdiv {
