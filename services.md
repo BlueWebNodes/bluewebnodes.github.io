@@ -17,7 +17,7 @@ permalink: /services/
             <p>Blue Web Nodes was founded in 2017. With years of experience in web development and graphic design, we specialize in creating unique, one-of-a-kind digital projects that help businesses stand out.</p>  
             <p>We offer complete services for <a href="/websites/">websites</a>, including design, development, and ongoing maintenance, as well as <a href="/ecommerce/">ecommerce</a> solutions. Our graphic design services support <a href="/social-media-ads/">social media advertising</a>, with a special focus on eye-catching <a href="/social-media-ads/">motion graphics</a> that bring your brand to life.</p>
             <p>We also provide reliable technical support to ensure your website and digital content continue to perform smoothly.</p>  
-            <p>Blue Web Nodes is proudly located in St. Lawrence County, New York, USA</p>
+            <p>Blue Web Nodes is proudly located in Atlantic County, New Jersey, USA</p>
             <p>If you have a project in mind, please feel free to <a href="/lets-talk/">contact us</a>. We look forward to working with you. Thank you!</p>
          </div>       
       </div>
