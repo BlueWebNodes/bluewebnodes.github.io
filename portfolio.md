@@ -38,12 +38,12 @@ permalink: /portfolio/
    <div class="container-fluid">
       <div class="row"> 
          <div class="col-md-6 col-lg-6" id="pagelayout11">
-            <h2><a href="/social-media-ads">Social Media Ads</a></h2>
-            <p>Social media advertising involves promoting content on platforms like Google, Facebook, Instagram, and TikTok to reach specific audiences. This paid form of marketing allows brands to target users based on demographics, interests, and behaviors, delivering tailored ads for maximum impact. </p>
+            <h2><a href="/social-media-ads">Motion Graphic Social Media Ads</a></h2>
+            <p>Social media advertising involves promoting content on platforms like Google, Facebook, Instagram, and TikTok to reach specific audiences. Motion graphics are taking over social media ads—and for good reason. Bold movement, eye-catching animation, and clear messaging stop the scroll and turn seconds of attention into real impact.</p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout12">
-            <h2><a href="/social-media-ads">Motion Graphics</a></h2>
-            <p>Motion graphics are taking over social media ads—and for good reason. Bold movement, eye-catching animation, and clear messaging stop the scroll and turn seconds of attention into real impact.</p>
+            <h2><a href="/more-projects">More Projects</a></h2>
+            <p>Additional website and digital design projects demonstrate my skills and experience. I would appreciate the opportunity to contribute to new initiatives, take on greater responsibilities, expand my expertise, and continue growing while delivering reliable, high-quality results.</p>
          </div>       
       </div>
       <div class="row" id="colmddisplayno"> 
@@ -51,7 +51,7 @@ permalink: /portfolio/
             <p><a href="/social-media-ads">View Projects</a></p>
          </div>
          <div class="col-md-6 col-lg-6" id="pagelayout22">
-            <p><a href="/social-media-ads">View Projects</a></p>
+            <p><a href="/more-projects">View Projects</a></p>
          </div>       
       </div>
    </div>
