@@ -9,12 +9,9 @@ permalink: /contact/
 <script>
   function SubForm (){
     $.ajax({
-	url:"https://api.apispreadsheets.com/data/QLLY29XlSyaSwicV/",
+	url:"https://api.apispreadsheets.com/data/mvRdjVIV28mJvEmn/",
 	type:"post",
 	data:$("#contactusForm").serializeArray(),
-	headers:{
-          accessKey: "f205548e72b08e0f01e0d6666fe423bd",
-          secretKey: "ad2c9c2f491a088a12e8e3a5bfa3b34e"},
   success: function(){
 	  alert("Form Data Submitted :)")
 	},
@@ -47,7 +44,7 @@ permalink: /contact/
        </div>
  
        <div class="col-12">
-        <label for="email">Email:</label>
+        <label for="email">Email*:</label>
         <input class="form-control" type="text" id="email" name="email" placeholder="Your email address" required>
        </div>
 
@@ -81,7 +78,7 @@ permalink: /contact/
 	      
        <div class="row">
         <div class="col-md-6">
-          <label for="fname">Current Date:</label>
+          <label for="fname">Current Date*:</label>
           <input class="form-control" type="text" id="currentdate" name="currentdate" placeholder="MM/DD/YYYY" required>
         </div>
         <div class="col-md-6">
