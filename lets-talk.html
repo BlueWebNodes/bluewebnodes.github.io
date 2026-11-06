@@ -12,6 +12,9 @@ permalink: /lets-talk/
 	url:"https://api.apispreadsheets.com/data/mvRdjVIV28mJvEmn/",
 	type:"post",
 	data:$("#contactusForm").serializeArray(),
+  headers:{
+          accessKey: "b8ee0e249d6a4c53b5309e0ef2100113",
+          secretKey: "0f482e19fdc3ffef966b20b50330a953"},
 	success: function(){
 	  alert("Form Data Submitted :)")
 	},
@@ -44,7 +47,7 @@ permalink: /lets-talk/
        </div>
  
        <div class="col-12">
-        <label for="email">Email:</label>
+        <label for="email">Email(required):</label>
         <input class="form-control" type="text" id="email" name="email" placeholder="Your email address">
        </div>
 
@@ -78,7 +81,7 @@ permalink: /lets-talk/
 	      
        <div class="row">
         <div class="col-md-6">
-          <label for="fname">Current Date:</label>
+          <label for="fname">Current Date(required):</label>
           <input class="form-control" type="text" id="currentdate" name="currentdate" placeholder="MM/DD/YYYY">
         </div>
         <div class="col-md-6">
