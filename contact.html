@@ -12,7 +12,10 @@ permalink: /contact/
 	url:"https://api.apispreadsheets.com/data/QLLY29XlSyaSwicV/",
 	type:"post",
 	data:$("#contactusForm").serializeArray(),
-	success: function(){
+	headers:{
+          accessKey: "f205548e72b08e0f01e0d6666fe423bd",
+          secretKey: "ad2c9c2f491a088a12e8e3a5bfa3b34e"},
+  success: function(){
 	  alert("Form Data Submitted :)")
 	},
 	error: function(){
@@ -45,7 +48,7 @@ permalink: /contact/
  
        <div class="col-12">
         <label for="email">Email:</label>
-        <input class="form-control" type="text" id="email" name="email" placeholder="Your email address">
+        <input class="form-control" type="text" id="email" name="email" placeholder="Your email address" required>
        </div>
 
        <div class="col-12">
@@ -79,7 +82,7 @@ permalink: /contact/
        <div class="row">
         <div class="col-md-6">
           <label for="fname">Current Date:</label>
-          <input class="form-control" type="text" id="currentdate" name="currentdate" placeholder="MM/DD/YYYY">
+          <input class="form-control" type="text" id="currentdate" name="currentdate" placeholder="MM/DD/YYYY" required>
         </div>
         <div class="col-md-6">
           <label for="lname">Completion Date:</label>
