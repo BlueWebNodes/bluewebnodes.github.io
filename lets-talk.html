@@ -9,7 +9,7 @@ permalink: /lets-talk/
 <script>
   function SubForm (){
     $.ajax({
-	url:"https://api.apispreadsheets.com/data/asVwWtFNT2EL1AUq/",
+	url:"https://api.apispreadsheets.com/data/mvRdjVIV28mJvEmn/",
 	type:"post",
 	data:$("#contactusForm").serializeArray(),
 	success: function(){
@@ -44,8 +44,8 @@ permalink: /lets-talk/
        </div>
  
        <div class="col-12">
-        <label for="email">Email:</label>
-        <input class="form-control" type="text" id="email" name="email" placeholder="Your email address">
+        <label for="email">Email*:</label>
+        <input class="form-control" type="text" id="email" name="email" placeholder="Your email address" required>
        </div>
 
        <div class="col-12">
@@ -78,8 +78,8 @@ permalink: /lets-talk/
 	      
        <div class="row">
         <div class="col-md-6">
-          <label for="fname">Current Date:</label>
-          <input class="form-control" type="text" id="currentdate" name="currentdate" placeholder="MM/DD/YYYY">
+          <label for="fname">Current Date*:</label>
+          <input class="form-control" type="text" id="currentdate" name="currentdate" placeholder="MM/DD/YYYY" required>
         </div>
         <div class="col-md-6">
           <label for="lname">Completion Date:</label>
