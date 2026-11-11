@@ -1359,7 +1359,7 @@ $amount: 20;
 //
 
 #mfheaderdiv {
-  height: 800px;
+  height: 1400px;
   background: url(images/PCSMFCoverPicture1.jpg);
   background-position: top center;
   background-size: cover;
@@ -1368,10 +1368,10 @@ $amount: 20;
 
 #mfheadercaptiondiv {
   height: auto;
-  background-color: rgba(0,0,0,.7);
+  background-color: rgba(0,0,0,.9);
   color: $white;
   font-size: 0.6em;
-  padding: 16px 0px 16px 0px;
+  padding: 8px 0px 10px 0px;
   text-align: center;
 }
 
