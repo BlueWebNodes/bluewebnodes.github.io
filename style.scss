@@ -1360,10 +1360,19 @@ $amount: 20;
 
 #mfheaderdiv {
   height: 560px;
-  background: url(images/PCSMFCoverPicture.jpg);
+  background: url(images/PCSMFCoverPicture1.jpg);
   background-position: top center;
   background-size: cover;
   text-align: right;
+}
+
+#mfheadercaptiondiv {
+  height: auto;
+  background-color: $black;
+  color: $white;
+  font-size: 0.8em;
+  padding: 16px 0px 16px 0px;
+  text-align: center;
 }
 
 #mflogodiv {
